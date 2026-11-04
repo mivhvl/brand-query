@@ -1,0 +1,61 @@
+[
+  {
+    "id": "Tanqueray",
+    "option": "base",
+    "form": "tanqueray",
+    "query": {
+      "required": [
+        {
+          "keyword": "tanqueray",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Tanqueray",
+    "option": "ctx",
+    "form": "tanqueray",
+    "query": {
+      "required": [
+        {
+          "keyword": "tanqueray",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "no-10",
+          "mode": "m"
+        },
+        {
+          "keyword": "rangpur",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

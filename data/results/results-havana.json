@@ -1,0 +1,131 @@
+[
+  {
+    "id": "Havana Club",
+    "option": "base",
+    "form": "havana-club",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "havana-club",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.whiskyliquorstore.com/139574/havana-club-aged-7-year-old-rum"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Havana Club",
+    "option": "ctx",
+    "form": "havana-club",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "havana-club",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "3-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "5-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "7-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-anos",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.whiskyliquorstore.com/139574/havana-club-aged-7-year-old-rum"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

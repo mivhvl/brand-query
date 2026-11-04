@@ -1,0 +1,718 @@
+[
+  {
+    "id": "Chivas Regal",
+    "option": "base",
+    "form": "chivas-regal",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas-regal",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/category/chivas-regal/",
+            "https://veviski.com/chivas-regal-25/",
+            "https://veviski.com/chivas-regal-extra-13/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Chivas Regal",
+    "option": "ctx",
+    "form": "chivas-regal",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas-regal",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "18-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "extra-13",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/chivas-regal-extra-13/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Chivas Regal",
+    "option": "base",
+    "form": "chivas",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 119,
+          "sampleSize": 460974,
+          "urls": [
+            "https://americamonumental.bolavip.com/noticias/fichajes-chivas-se-asegura-a-un-ex-america-como-refuerzo-para-el-apertura-2023-20230523-AME-6015.html",
+            "https://amp-milenio-com.cdn.ampproject.org/v/s/amp.milenio.com/deportes/liga-mx/ver-tigres-vs-chivas-en-vivo-transmision-final-de-ida-liga-mx-2023",
+            "https://bolavip.com/mx/ligamx/aseguran-que-chivas-cerro-este-fichaje-a-horas-de-jugar-la-final-del-clausura-2023-20230524-BMX-3036.html",
+            "https://bolavip.com/mx/ligamx/final-de-la-liga-mx-2023-mhoni-vidente-predice-quien-sera-el-campeon-entre-tigres-uanl-y-chivas-20230525-BMX-3317.html",
+            "https://bolavip.com/mx/ligamx/plantilla-completa-de-chivas-que-afrontara-la-final-de-la-liga-mx-20230525-BMX-3468.html",
+            "https://chivaspasion.bolavip.com/ligamx/amaury-vergara-cumple-sueno-de-abuelito-de-103-anos-quiere-ver-a-chivas-campeon-en-el-estadio-akron-20230525-CHI-5896.html",
+            "https://chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-cuanto-cuestan-y-cuando-salen-a-la-venta-boletos-para-la-final-en-el-estadio-akron-20230523-CHI-5736.html",
+            "https://chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-fecha-horario-y-como-ver-en-directo-la-final-de-ida-del-clausura-2023-20230522-CHI-5654.html",
+            "https://chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-la-sorpresiva-decision-de-paunovic-para-la-final-de-ida-del-clausura-2023-20230525-CHI-5902.html#amp_tf=De %1$s&aoh=16850591102701&csi=0&referrer=https://www.google.com&ampshare=https://chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-la-sorpresiva-decision-de-paunovic-para-la-final-de-ida-del-clausura-2023-20230525-CHI-5902.html",
+            "https://chivaspasion.bolavip.com/ligamx/fichajes-a-horas-de-jugar-la-final-chivas-cierra-a-su-primer-refuerzo-para-el-apertura-2023-20230525-CHI-5892.html",
+            "https://chivaspasion.bolavip.com/ligamx/fichajes-canterano-de-santos-acepta-jugar-en-chivas-en-el-2023-refuerzo-de-lujo-20230524-CHI-5825.html",
+            "https://chivaspasion.bolavip.com/ligamx/no-es-cisneros-la-baja-de-chivas-para-la-final-ante-tigres-por-el-clausura-2023-20230524-CHI-5798.html",
+            "https://chivaspasion.bolavip.com/ligamx/primer-refuerzo-el-canterano-del-america-que-seria-el-nuevo-fichaje-de-fernando-hierro-para-chivas-20230523-CHI-5695.html",
+            "https://chivaspasion.bolavip.com/ligamx/quien-es-mejor-la-contrastante-gestion-en-chivas-de-veljko-paunovic-y-matias-almeyda-20230525-CHI-5952.html",
+            "https://chivaspasion.bolavip.com/ligamx/refuerzo-para-el-apertura-2023-el-goleador-que-admitio-que-jamas-le-cerraria-las-puertas-a-jugar-en-chivas-20230525-CHI-5973.html",
+            "https://chivaspasion.bolavip.com/noticias/chivas-vs-tigres-confirmada-fecha-y-horario-de-los-partidos-de-la-gran-final-del-clausura-2023-20230522-CHI-5627.html",
+            "https://chivaspasion.bolavip.com/noticias/una-a-una-20-coincidencias-con-el-titulo-del-clausura-2017-que-ilusiona-a-la-aficion-de-chivas-20230524-CHI-5787.html",
+            "https://depor.com/mexico/liga-mx/a-que-hora-juegan-tigres-vs-chivas-y-donde-ver-la-transmision-la-gran-final-de-mexico-via-tv-azteca-televisa-tudn-universo-y-futbol-libre-mx-deportes-noticia/",
+            "https://depor.com/mexico/liga-mx/canal-5-en-vivo-tigres-vs-chivas-en-directo-online-hoy-transmision-gratis-canales-via-tudn-tv-azteca-7-televisa-star-plus-y-horarios-por-final-de-la-liga-mx-video-alineaciones-noticia/",
+            "https://depor.com/mexico/liga-mx/canal-5-en-vivo-tigres-vs-chivas-online-canal-de-transmision-de-tv-abierta-partido-de-liga-mx-2023-torneo-clausura-a-que-hora-juega-tigres-vs-chivas-donde-ver-chivas-vs-tigres-gratis-pronosticos-cuotas-de-apuestas-momios-mexico-mx-noticia/",
+            "https://depor.com/mexico/liga-mx/donde-ver-tigres-vs-chivas-en-vivo-en-usa-via-univision-y-tudn-horarios-y-canales-de-transmision-en-estados-unidos-eeuu-us-deportes-noticia/",
+            "https://depor.com/mexico/liga-mx/que-canal-transmite-tigres-uanl-vs-chivas-guadalajara-desde-mexico-usa-nnda-nnrt-noticia/",
+            "https://depor.com/mexico/liga-mx/tigres-vs-chivas-en-vivo-hoy-via-tudn-gratis-online-a-que-hora-juegan-en-directo-y-como-ver-partido-por-canal-5-tv-azteca-7-star-plus-y-las-estrellas-final-liga-mx-torneo-clausura-2023-noticia/",
+            "https://elcomercio.pe/deporte-total/futbol-mundial/canal-5-chivas-vs-tigres-en-vivo-tv-abierta-en-directo-online-que-canal-y-horario-pasa-final-liguilla-mx-futbol-libre-video-noticia/",
+            "https://elcomercio.pe/deporte-total/futbol-mundial/tv-azteca-tigres-vs-chivas-en-vivo-tv-abierta-como-y-donde-ver-transmision-gratis-liga-mx-chivas-vs-tigres-en-directo-cdmx-video-noticia/",
+            "https://elcomercio.pe/deporte-total/mexico/chivas-tigres-en-vivo-hora-que-canal-transmite-como-verlo-final-liga-mx-nnda-nnrt-noticia",
+            "https://elcomercio.pe/deporte-total/mexico/que-canal-transmite-tigres-vs-chivas-y-a-que-hora-juegan-final-liga-mx-tv-azteca-canal-5-tudn-noticia",
+            "https://elcomercio.pe/deporte-total/mexico/que-canal-transmite-tigres-vs-chivas-y-a-que-hora-juegan-final-liga-mx-tv-azteca-canal-5-tudn-noticia/",
+            "https://elpais.com/mexico/2023-05-25/veljko-paunovic-cicatrices-de-la-guerra-para-resucitar-a-las-chivas.html",
+            "https://juanfutbol.com/liga-mx/que-necesita-chivas-para-avanzar-a-la-final-del-clausura-2023-de-la-liga-mx-20230519-JFB-68324.html",
+            "https://larepublica.pe/deportes/2023/05/25/partidos-de-hoy-25-de-mayo-2023-quien-juega-a-que-hora-inician-y-donde-ver-futbol-en-vivo-gratis-por-internet-sporting-cristal-vs-river-plate-tigres-vs-chivas-358775",
+            "https://lineadirectaportal.com/deportes/coincidencias-conoce-los-datos-curiosos-del-chivas-vs-tigres-final-de-la-liga-mx-2023-05-21__839436",
+            "https://playingfor90.com/2022/10/19/chivas-front-office-overhaul/",
+            "https://somosinvictos.com/2023/05/22/lo-que-les-paso-fue-una-completa-verguenza-el-dolido-mensaje-de-henry-martin-para-los-aficionados-del-america-tras-la-eliminacion-ante-chivas/",
+            "https://worldsoccertalk.com/chivas-vs-tigres-where-to-watch-in-the-us/",
+            "https://www.90min.com/es/posts/batalla-abierta-entre-chivas-y-cruz-azul-por-el-fichaje-de-una-estrella-de-monterrey",
+            "https://www.90min.com/es/posts/chivas-cierra-su-primer-refuerzo-para-el-siguiente-torneo",
+            "https://www.90min.com/es/posts/chivas-de-guadalajara-lesionados-y-suspendidos-vs-tigres-en-la-final-de-ida-de-la-liguilla",
+            "https://www.90min.com/es/posts/chivas-ya-habria-cerrado-a-su-segundo-refuerzo-en-el-mercado-de-verano",
+            "https://www.90min.com/es/posts/los-5-futbolistas-claves-de-chivas-y-tigres-para-la-final-de-ida-en-el-clausura-2023-01h18b2n6183/app/",
+            "https://www.90min.com/es/posts/ultimos-enfrentamientos-tigres-vs-chivas-cara-a-cara-estadisticas-y-mas",
+            "https://www.90min.com/posts/chivas-vs-tigres-uanl-liga-mx-final-preview-tv-channel-live-stream-team-news-prediction",
+            "https://www.am.com.mx/superdeportivo/futbol/2023/5/25/chivas-se-refuerza-con-ricardo-marin-goleador-con-celaya-en-la-liga-de-expansion-661739.html",
+            "https://www.betclan.com/fr/predictionsdetails/football/138133605/tigres-uanl-v-chivas-guadalajara-prediction-h2h-conseils-de-paris-et-prevision-du-match/",
+            "https://www.cbssports.com/soccer/news/tigres-vs-chivas-live-stream-how-to-watch-liga-mx-final-live-online-tv-channel-prediction-odds/",
+            "https://www.debate.com.mx/guadalajara/Colocaran-pantallas-en-Guadalajara-para-ver-partidos-de-las-Chivas-en-la-final-de-la-Liga-Mx-20230524-0162.html",
+            "https://www.elfutbolero.com.mx/ligamx/America-se-la-cobro-le-saca-a-la-pieza-clave-de-Chivas-en-plena-final-20230524-0003.html",
+            "https://www.elfutbolero.us/ligamx/A-few-days-before-playing-the-final-the-great-betrayal-that-Hierro-made-to-Chivas-20230523-0015.html",
+            "https://www.eluniversal.com.mx/deportes/david-beckham-envia-mensaje-de-apoyo-a-tigres-de-cara-a-la-final-ante-chivas/",
+            "https://www.eluniversal.com.mx/espectaculos/lucero-traiciono-al-america-y-asi-luce-con-la-casaca-del-chivas/",
+            "https://www.espn.com.mx/futbol/mexico/nota/_/id/12090587/america-roger-martinez-encabeza-bajas-tras-eliminacion-vs-chivas",
+            "https://www.espn.com.mx/futbol/mexico/nota/_/id/12103451/chivas-vs-tigres-el-pronostico-el-factor-x-y-el-duelo-a-seguir-en-la-final",
+            "https://www.espn.com.mx/futbol/mexico/nota/_/id/12105597/chivas-pocho-guzman-que-cambio-pachuca-guadalajara-revela-guillermo-almada",
+            "https://www.excelsior.com.mx/adrenalina/final-liga-mx-2023-chivas-vs-tigres-boletos-cuanto-cuestan/1588485",
+            "https://www.foxdeportes.com/liga-mx/nota/estos-son-los-horarios-oficiales-de-la-final-entre-chivas-y-tigres",
+            "https://www.goal.com/es-mx/noticias/a-que-hora-juega-chivas/1vigfzxihbjhm1i36me5ctwuuy",
+            "https://www.goal.com/es-mx/noticias/cuantas-finales-jugado-chivas/blt479f4f65a186b7a7",
+            "https://www.goal.com/es-mx/noticias/cuantos-anos-chivas-sin-campeon-liga-mx/euau9feuj8ct1q0fmwztmmzvp",
+            "https://www.goal.com/es-mx/noticias/cuantos-anos-chivas-sin-campeon-liga-mx/euau9feuj8ct1q0fmwztmmzvp#",
+            "https://www.informador.mx/America-vs-Chivas-Momentos-destacados-EN-VIVO--Semifinal-vuelta--Clausura-2023--t202305210001.html",
+            "https://www.informador.mx/deportes/Chivas-vs-Tigres-Aficionados-rojiblancos-ya-acampan-en-el-Estadio-Akron-para-conseguir-un-boleto-para-la-gran-final-20230523-0149.html",
+            "https://www.informador.mx/deportes/Tigres-vs-Chivas-Aficionado-de-103-anos-quiere-que-lo-inviten-a-la-final-para-ver-al-Rebano-20230524-0064.html",
+            "https://www.latimes.com/espanol/deportes/articulo/2023-05-23/horarios-como-donde-ver-la-gran-final-de-la-liga-mx-de-chivas-vs-tigres",
+            "https://www.latimes.com/espanol/deportes/articulo/2023-05-25/chivas-enfrenta-a-tigres-en-la-final-del-clausura-de-mexico",
+            "https://www.mediotiempo.com/futbol/liga-mx/aficionados-buscan-boletos-chivas-vs-tigres-largas-filas-mandan-casas",
+            "https://www.mediotiempo.com/futbol/liga-mx/a-que-hora-juega-tigres-vs-chivas-donde-ver-gratis-final-liga-mx",
+            "https://www.mediotiempo.com/futbol/liga-mx/luis-enrique-santander-no-pitara-chivas-vs-tigres-y-lo-hara-en-final-de-cuart",
+            "https://www.mediotiempo.com/futbol/liga-mx/luis-enrique-santander-no-pitara-chivas-vs-tigres-y-lo-hara-en-final-de-cuarta-division-en-mexico",
+            "https://www.mediotiempo.com/futbol/liga-mx/mhoni-vidente-predice-quien-sera-campeon-chivas-tigres-en-liga-mx",
+            "https://www.mediotiempo.com/futbol/liga-mx/tigres-la-revancha-ante-chivas-la-final-de-2017",
+            "https://www.mediotiempo.com/futbol/partidos-hoy-futbol-envivo-tigres-vs-chivas-25-de-mayo-2023",
+            "https://www.mediotiempo.com/otros-mundos/abuelita-aficionada-chivas-se-volvio-viral-por-su-festejo-tras-eliminar-america-video",
+            "https://www.milenio.com/deportes/liga-mx/mhoni-vidente-predice-chivas-tigres-ganara-liga-mx-2023",
+            "https://www.milenio.com/deportes/liga-mx/ver-tigres-vs-chivas-en-vivo-transmision-final-de-ida-liga-mx-2023",
+            "https://www.msn.com/es-mx/deportes/futbol/as%C3%AD-fue-la-pintoresca-llegada-de-chivas-a-monterrey-para-la-ida-de-la-final-del-clausura-2023/ar-AA1bERFv",
+            "https://www.msn.com/es-mx/deportes/futbol/chivas-con-nueva-piel-as%C3%AD-es-su-jersey-para-el-apertura-2023/ar-AA1bF0lk",
+            "https://www.msn.com/es-mx/deportes/futbol/chivas-liga-mx-invita-a-abuelito-de-103-a%C3%B1os-a-la-final-vs-tigres-en-el-estadio-akron/ar-AA1bF7RP",
+            "https://www.msn.com/es-mx/deportes/futbol/chivas-veljko-paunovic-y-su-curioso-rega%C3%B1o-para-los-jugadores-previo-a-la-final-vs-tigres/ar-AA1bG8hC",
+            "https://www.msn.com/es-mx/deportes/futbol/chivas-ya-cerr%C3%B3-su-primer-refuerzo-para-el-apertura-2023-de-espa%C3%B1a-a-m%C3%A9xico-sin-escalas-fichajes/ar-AA1bGArz",
+            "https://www.msn.com/es-mx/deportes/futbol/qu%C3%A9-ha-sido-de-jimena-s%C3%A1nchez-fan-1-de-chivas-y-conductora-de-fox-sports/ss-AA1bGIPy",
+            "https://www.msn.com/es-mx/deportes/futbol/tigres-uanl-david-beckham-manda-mensaje-especial-previo-a-la-final-vs-chivas/ar-AA1bH1wr",
+            "https://www.msn.com/es-mx/deportes/liga-mx/d%C3%B3nde-ver-tigres-vs-chivas-hora-y-canal-de-transmisi%C3%B3n-final-ida-liga-mx-hoy/ar-AA1bH5z9",
+            "https://www.msn.com/es-mx/deportes/other/aficionado-chivas-de-103-pide-que-lo-inviten-a-la-final-del-futbol-mexicano-esto-respondi%C3%B3-la-liga-mx/ar-AA1bHa2m",
+            "https://www.msn.com/es-mx/deportes/other/a-qu%C3%A9-hora-es-el-partido-tigres-vs-chivas-hoy-d%C3%B3nde-ver-gratis-la-final-de-ida-de-la-liga-mx-2023/ar-AA1bH5z9",
+            "https://www.msn.com/es-mx/deportes/other/a-qu%C3%A9-hora-tigres-vs-chivas-hoy-d%C3%B3nde-ver-gratis-final-de-liga-mx-2023/ar-AA1bH5z9",
+            "https://www.msn.com/es-mx/noticias/other/chivas-prohibe-a-sus-estrellas-algo-inaudito-previo-a-la-final-ante-tigres-clausura-2023-video/ar-AA1bGp6l",
+            "https://www.msn.com/es-mx/noticias/otras/liga-mx-fechas-y-horarios-de-la-final-chivas-vs-tigres/ar-AA1bxZC7",
+            "https://www.record.com.mx/empelotados/chivas-lucerito-perdio-apuesta-por-el-clasico-nacional-y-canto-el-himno-del-rebano",
+            "https://www.record.com.mx/futbol-liga-mx-chivas/chivas-alan-pulido-modo-final-con-la-cabala-del-rebano-cantando-te-deseo-lo",
+            "https://www.record.com.mx/futbol-liga-mx-chivas-tigres/liga-mx-listos-los-horarios-de-la-gran-final-entre-chivas-y-tigres",
+            "https://www.record.com.mx/futbol-liga-mx-chivas-tigres/tigres-vs-chivas-quien-es-el-favorito-para-llevarse-la-final-de-ida-en",
+            "https://www.record.com.mx/futbol-liga-mx-noticias/tigres-vs-chivas-donde-y-a-que-hora-ver-la-gran-final-de-ida-entre-felinos-y",
+            "https://www.record.com.mx/futbol-liga-mx-tigres/colaboradores-de-cemex-viven-fiesta-previo-a-la-gran-final-tigres-vs-chivas",
+            "https://www.si.com/soccer/2019/01/13/la-emotiva-carta-que-un-pequeno-fan-de-chivas-le-envio-alan-pulido",
+            "https://www.soyfutbol.com/fueradejuego/Tigres-UANL-vs-Chivas-Karely-Ruiz-y-Marzhe-Ponce-prenden-la-Final-con-duelo-de-chikinis-20230522-0025.html",
+            "https://www.soyfutbol.com/ligas/Chivas-Veljko-Paunovic-y-su-curioso-regano-para-los-jugadores-previo-a-la-Final-vs-Tigres-20230525-0007.html",
+            "https://www.soyfutbol.com/ligas/Chivas-ya-cerro-el-fichaje-de-Ricardo-Marin-canterano-del-Club-America--20230525-0036.html",
+            "https://www.soyfutbol.com/tendencias/Chivas-vs-Tigres-Mhoni-Vidente-predice-quien-sera-el-campeon-de-la-Liga-MX-20230525-0012.html",
+            "https://www.sportingnews.com/ca/soccer/news/watch-tigres-vs-chivas-live-stream-tv-channel-liga-mx-final/f8lrn3qeahop0hxq",
+            "https://www.sportingnews.com/ca/soccer/news/watch-tigres-vs-chivas-live-stream-tv-channel-liga-mx-final/f8lrn3qeahop0hxqgd1jakij",
+            "https://www.sportingnews.com/mx/futbol/news/america-vs-chivas-vivo-marcador-resumen-goles-vuelta-semifinal-liguilla-clausura-2023/b9ltoroipcklumhwv51xzncp",
+            "https://www.sportingnews.com/mx/futbol/news/chivas-vs-tigres-dia-hora-donde-ver-tv-streaming-final-liguilla-clausura-2023/ob0zyx3kcrbtriykdwsh9hoo",
+            "https://www.sportingnews.com/mx/futbol/news/chivas-vs-tigres-final-liguilla-clausura-2023-historias/xydoa4g9zcrezblbufsedzyk",
+            "https://www.sportingnews.com/mx/futbol/news/como-donde-comprar-boletos-chivas-vs-tigres-final-liguilla-clausura-2023-liga-mx/effv6tymuzggnxixxbcqspxm",
+            "https://www.sportingnews.com/mx/futbol/news/cuando-juega-donde-ver-a-chivas-hora-canal-tv-streaming-online-partido/sdu1kr9b88sjzyrt5gw3ryz8",
+            "https://www.sportingnews.com/mx/futbol/news/cuantos-titulos-tiene-chivas-palmares-completo/ivalgyzji04fav2vzkbw8tut",
+            "https://www.sportingnews.com/us-es/futbol/news/chivas-vs-tigres-dia-hora-donde-ver-tv-streaming-final-liguilla-clausura-2023/ob0zyx3kcrbtriykdwsh9hoo",
+            "https://www.sportingnews.com/us-es/futbol/news/cuando-juega-donde-ver-a-chivas-hora-canal-tv-streaming-online-partido/sdu1kr9b88sjzyrt5gw3ryz8",
+            "https://www.sportingnews.com/us-es/futbol/news/que-necesita-chivas-para-ganar-final-clausura-2023-vs-tigres/sxdtn7igp3gknunfw5jsqnsq",
+            "https://www.sportingnews.com/us-es/futbol/news/tigres-vs-chivas-hoy-canal-tv-streaming-online-final-ida-liguilla-clausura-2023/izm74brp1rnf6s1aliomvxi9",
+            "https://www.sportingnews.com/us-es/futbol/news/tigres-vs-chivas-hoy-hora-final-ida-liguilla-clausura-2023/ica3ov9qjlradgymajnoajeg",
+            "https://www.sportingnews.com/us/soccer/news/watch-tigres-vs-chivas-live-stream-tv-channel-liga-mx-final/f8lrn3qeahop0hxq",
+            "https://www.telediario.mx/comunidad/maria-julia-advierte-chivas-venganza-tigres-video",
+            "https://www.televisa.com/canal5/tigres-vs-chivas-horario-y-donde-ver-el-partido-de-hoy-la-final-de-ida",
+            "https://www.tvazteca.com/aztecadeportes/chivas-vs-tigres-fecha-horario-final-ida",
+            "https://www.tvazteca.com/aztecadeportes/pocho-guzman-tundio-america-vestidor-chivas-clasico-nacional",
+            "https://www.unotv.com/deportes/chivas-remonta-derrota-a-domicilio-al-america-3-1-jugara-la-final-contra-tigres/",
+            "https://www.unotv.com/deportes/tigres-vs-chivas-fecha-hora-y-donde-ver-el-partido-de-ida-de-la-final-de-la-liga-mx/",
+            "www.sportingnews.com/us-es/futbol/news/chivas-vs-tigres-dia-hora-donde-ver-tv-streaming-final-liguilla-clausura-2023/ob0zyx3kcrbtriykdwsh9hoo"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 3,
+          "sampleSize": 664385,
+          "urls": [
+            "https://es.besoccer.com/noticia/fernando-hierro-responsable-resurreccion-chivas-1256163",
+            "https://espanol.yahoo.com/deportes/nino-fan-de-chivas-lloraba-de-emocion-hasta-que-vio-a-su-hermano-aguila-mal-e-inconsolable-225958123.html",
+            "https://www.goal.com/es/noticias/cual-es-cancion-cantan-jugadores-chivas-cabala/blta45040d5d842555b"
+          ]
+        },
+        "source4": {
+          "quantity": 13,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://10sports.live/match/club-tijuana-vs-guadalajara-chivas-864209/",
+            "https://ovaciones.com/tigres-vs-chivas-la-revancha-de-una-final-polemica-y-datos-en-la-previa/",
+            "https://tv.desinglezarq.xyz/tigres-vs-chivas-2/",
+            "https://veviski.com/category/chivas-regal/",
+            "https://veviski.com/chivas-regal-25/",
+            "https://veviski.com/chivas-regal-extra-13/",
+            "https://www.futbolmundial.com/2023/05/22/chivas-da-el-gole-ante-el-america/",
+            "https://www.futbolmundial.com/2023/05/24/chivas-y-tigres-arrancan-la-final-del-clausura-2023/",
+            "https://www.minejerseys.ru/category-detail-cid-680/Chivas_Guadalajara/",
+            "https://www.projerseyshop.net/team/Chivas/1080",
+            "https://www.rojadirectaenvivo.fr/2023/tigres-vs-chivas-final-ida-en-vivo.php",
+            "https://www.xeudeportes.mx/liga-mx/1272884/chivas-tendra-nuevo-delantero",
+            "https://xmovies.ws/search/chivas"
+          ]
+        },
+        "source5": {
+          "quantity": 311,
+          "sampleSize": 950989,
+          "urls": [
+            "americamonumental.bolavip.com/noticias/america-vs-chivas-confirmada-fecha-y-horario-del-juego-por-la-liguilla-del-clausura-2023-20230515-AME-5044.html",
+            "americamonumental.bolavip.com/noticias/fichajes-chivas-se-asegura-a-un-ex-america-como-refuerzo-para-el-apertura-2023-20230523-AME-6015.html",
+            "americamonumental.bolavip.com/noticias/las-noticias-de-america-hoy-marcelo-gallardo-diego-alonso-y-ricardo-marin-a-chivas-20230524-AME-6116.html",
+            "amp-milenio-com.cdn.ampproject.org/v/s/amp.milenio.com/deportes/liga-mx/ver-tigres-vs-chivas-en-vivo-transmision-final-de-ida-liga-mx-2023",
+            "bolavip.com/mx/chivas/Fichajes-2023-Chivas-aguarda-el-pasaporte-mexicano-para-amarrar-a-portero-espanol-20230413-0050.html",
+            "bolavip.com/mx/chivas-guadalajara/chivas-de-guadalajara-suma-a-un-ex-america-como-refuerzo-para-el-apertura-2023-20230523-BMX-2611.html",
+            "bolavip.com/mx/chivas-guadalajara/pesimas-noticias-antes-de-la-final-de-la-liga-mx-2023-chivas-revela-la-verdad-sobre-la-lesion-de-carlos-cisneros-20230523-BMX-2776.html",
+            "bolavip.com/mx/chivas-guadalajara/sinceridad-total-la-confesion-de-pocho-guzman-sobre-la-campana-de-chivas-a-horas-de-la-gran-final-ante-tigres-uanl-20230525-BMX-3270.html",
+            "bolavip.com/mx/club-america/fichajes-2023-bombazo-america-ya-tendria-listo-su-primer-refuerzo-5-estrellas-tras-el-fracaso-ante-chivas-20230522-BMX-2531.html",
+            "bolavip.com/mx/club-america/los-tres-jugadores-del-america-que-rindieron-por-debajo-de-lo-esperado-en-la-semifinal-frente-a-chivas-20230522-BMX-2443.html",
+            "bolavip.com/mx/ligamx/aseguran-que-chivas-cerro-este-fichaje-a-horas-de-jugar-la-final-del-clausura-2023-2023052",
+            "bolavip.com/mx/ligamx/aseguran-que-chivas-cerro-este-fichaje-a-horas-de-jugar-la-final-del-clausura-2023-20230524-BMX-3036.html",
+            "bolavip.com/mx/ligamx/Chivas-de-Guadalajara-vs.-America-EN-VIVO---Semifinal-de-ida-Torneo-Clausura-2023-de-Liga-MX-Donde-verlo-formaciones-minuto-a-minuto-y-arbitro-20230518-0002.html",
+            "bolavip.com/mx/ligamx/falta-de-alvarado-sobre-zendejas-ramos-rizo-sentencio-la-polemica-del-america-vs-chivas-20230522-BMX-2237.html",
+            "bolavip.com/mx/ligamx/fichajes-2023-chivas-y-cruz-azul-se-pelean-por-una-figura-de-rayados-y-seleccion-mexicana-20230523-BMX-2709.html",
+            "bolavip.com/mx/ligamx/final-de-la-liga-mx-2023-mhoni-vidente-predice-quien-sera-el-campeon-entre-tigres-uanl-y-chivas-20230525-BMX-3317.html",
+            "bolavip.com/mx/ligamx/hay-gol-de-visitante-en-tigres-vs-chivas-por-la-final-de-la-liga-mx-20230525-BMX-3292.html",
+            "bolavip.com/mx/ligamx/se-tomo-revancha-victor-guzman-le-respondio-a-henry-martin-tras-la-historica-clasificacion-de-chivas-ante-america-20230522-BMX-2462.html",
+            "bolavip.com/mx/ligamx/traiciona-a-chivas-america-sondeara-a-matias-almeyda-idolo-del-guadalajara-20230525-BMX-3318.html",
+            "bolavip.com/trends/famosos-y-deportistas-que-le-van-a-chivas-y-no-lo-sabias/28",
+            "chivaspasion.bolavip.com/fuerzasbasicas/chivas-tapatio-vs-atlante-confirmada-fecha-y-horario-del-campeon-de-campeones-del-clausura-2023-20230524-CHI-5851.html",
+            "chivaspasion.bolavip.com/ligamx/25-cosas-que-no-sabias-de-Alan-Mozo-el-rival-mas-querido-en-la-plantilla-de-las-Chivas-de-Guadalajara-y-ahora-flamante-fichaje-para-el-Apertura-2022-20220602-0006.html",
+            "chivaspasion.bolavip.com/ligamx/25-cosas-que-no-sabias-de-Veljko-Paunovic-el-inesperado-pastor-de-las-Chivas-de-Guadalajara-20221103-0008.html",
+            "chivaspasion.bolavip.com/ligamx/Alexis-Vega-no-sera-sancionado-por-Chivas-tras-escandalo-en-video-despues-del-Clasico-de-Mexico-20230322-0012.html",
+            "chivaspasion.bolavip.com/ligamx/captan-efusivo-festejo-de-fernando-hierro-tras-la-clasificacion-de-chivas-a-la-final-del-clausura-2023-20230523-CHI-5724.html",
+            "chivaspasion.bolavip.com/ligamx/castigo-ejemplar-extecnico-de-chivas-recibe-tremenda-sancion-por-agredir-en-el-clausura-2023-20230520-CHI-5485.html",
+            "chivaspasion.bolavip.com/ligamx/Chivas-de-Guadalajara-asi-jugo-en-el-ultimo-titulo-del-Clausura-2017-ante-Tigres-en-el-Estadio-Akron-el-28-de-mayo-dirigido-por-Matias-Almeyda-I-Liga-MX--20210908-0005.html",
+            "chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-alineacion-para-el-partido-del-ida-de-la-gran-final-del-clausura-2023-20230524-CHI-5832.html",
+            "chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-cuanto-cuestan-y-cuando-salen-a-la-venta-boletos-para-la-final-en-el-estadio-akron-20230523-CHI-5736.html",
+            "chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-fecha-horario-y-como-ver-en-directo-la-final-de-ida-del-clausura-2023-20230522-CHI-5654.html",
+            "chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-la-sorpresiva-decision-de-paunovic-para-la-final-de-ida-del-clausura-2023-20230525-CHI-5902.html",
+            "chivaspasion.bolavip.com/ligamx/chivas-vs-tigres-tendra-la-transmision-sonada-por-los-aficionados-en-la-final-del-clausura-2023-20230523-CHI-5715.html",
+            "chivaspasion.bolavip.com/ligamx/Chivas-vs.-Tigres-UANL-Que-canal-transmite-y-donde-ver-EN-VIVO-ONLINE-Y-EN-DIRECTO-el-partido-de-la-Copa-Sky--Estadio-Universitario-20221221-0001.html",
+            "chivaspasion.bolavip.com/ligamx/como-conseguir-boletos-para-la-gran-final-del-futbol-mexicano-entre-chivas-y-tigres-20230522-CHI-5609.html",
+            "chivaspasion.bolavip.com/ligamx/fernando-beltran-para-decir-que-chivas-es-el-mas-grande-hay-que-darle-titulos-20230525-CHI-5876.html",
+            "chivaspasion.bolavip.com/ligamx/fichajes-a-horas-de-jugar-la-final-chivas-cierra-a-su-primer-refuerzo-para-el-apertura-2023-20230525-CHI-5892.html",
+            "chivaspasion.bolavip.com/ligamx/fichajes-canterano-de-santos-acepta-jugar-en-chivas-en-el-2023-refuerzo-de-lujo-20230524-CHI-5825.html",
+            "chivaspasion.bolavip.com/ligamx/la-celebracion-de-chicharito-hernandez-por-pase-de-chivas-a-la-final-del-clausura-2023-ya-vuelve-20230522-CHI-5663.html",
+            "chivaspasion.bolavip.com/ligamx/la-clave-que-victor-guzman-le-dio-a-sus-companeros-de-chivas-para-jugar-la-final-del-clausura-2023-20230525-CHI-5920.html",
+            "chivaspasion.bolavip.com/ligamx/no-es-cisneros-la-baja-de-chivas-para-la-final-ante-tigres-por-el-clausura-2023-20230524-CHI-5798.html",
+            "chivaspasion.bolavip.com/ligamx/noticias-de-chivas-hoy-25-de-mayo-primer-fichaje-van-por-almeyda-sorprende-paunovic-20230525-CHI-5905.html",
+            "chivaspasion.bolavip.com/ligamx/primer-refuerzo-el-canterano-del-america-que-seria-el-nuevo-fichaje-de-fernando-hierro-para-chivas-20230523-CHI-5695.html",
+            "chivaspasion.bolavip.com/ligamx/se-arrepintio-chivas-no-le-cumplio-al-bofo-bautista-su-mensaje-no-sirvio-de-nada-20230512-CHI-4740.html",
+            "chivaspasion.bolavip.com/ligamx/se-ilusiono-oswaldo-sanchez-recordo-y-advirtio-que-levantar-el-trofeo-con-chivas-es-espectacular-20230525-CHI-5860.html",
+            "chivaspasion.bolavip.com/ligamx/veljko-paunovic-quiero-que-la-gente-de-chivas-se-acuerde-de-este-torneo-y-ojala-con-el-titulo-20230524-CHI-5761.html",
+            "chivaspasion.bolavip.com/ligamx/video-asi-fue-el-recibimiento-de-la-aficion-de-chivas-a-su-llegada-a-monterrey-para-la-final-de-ida-20230525-CHI-5864.html",
+            "chivaspasion.bolavip.com/noticias/chivas-vs-tigres-confirmada-fecha-y-horario-de-los-partidos-de-la-gran-final-del-clausura-2023-20230522-CHI-5627.html",
+            "chivaspasion.bolavip.com/noticias/famosa-actriz-y-cantante-pago-apuesta-al-posar-con-la-playera-de-chivas-y-cantar-guadalajara-20230525-CHI-5867.html",
+            "chivaspasion.bolavip.com/noticias/la-burla-nacional-la-increible-lluvia-de-memes-tras-la-epica-remontada-de-chivas-sobre-america-20230522-CHI-5615.html",
+            "chivaspasion.bolavip.com/noticias/marco-fabian-y-oswaldo-alanis-fuera-de-mazatlan-vuelven-a-chivas-20230430-CHI-3728.html",
+            "depor.com/futbol-internacional/mexico/giovani-dos-santos-diagnostico-oficial-dura-lesion-america-chivas-estara-baja-partidos-liga-mx-nczd-133886/",
+            "depor.com/mexico/liga-mx/a-que-hora-juegan-tigres-vs-chivas-y-donde-ver-la-transmision-la-gran-final-de-mexico-via-tv-azteca-televisa-tudn-universo-y-futbol-libre-mx-deportes-noticia/",
+            "depor.com/mexico/liga-mx/a-que-hora-juega-y-en-que-canal-ver-chivas-vs-america-hoy-jueves-18-semifinal-ida-clasico-nacional-liguilla-mx-2023-tv-azteca-7-canal-5-deportes-noticia/",
+            "depor.com/mexico/liga-mx/canal-5-america-vs-chivas-en-vivo-en-directo-online-via-vix-tv-azteca-y-futbol-libre-a-que-hora-juegan-y-donde-ver-semifinales-vuelta-liguilla-mx-clasico-nacional-video-deportes-noticia/",
+            "depor.com/mexico/liga-mx/canal-5-en-vivo-tigres-vs-chivas-en-directo-online-hoy-transmision-gratis-canales-via-tudn-tv-azteca-7-televisa-star-plus-y-horarios-por-final-de-la-liga-mx-video-alineaciones-noticia/",
+            "depor.com/mexico/liga-mx/link-online-final-tigres-vs-chivas-guadalajara-en-vivo-canal-tv-como-ver-partido-liga-mx-internet-futbol-mexicano-streaming-apps-ios-android-nnda-nnrt-noticia/",
+            "depor.com/mexico/liga-mx/que-canal-transmite-tigres-uanl-vs-chivas-guadalajara-desde-mexico-usa-nnda-nnrt-noticia/",
+            "depor.com/mexico/liga-mx/tigres-vs-chivas-en-vivo-hoy-via-tudn-gratis-online-a-que-hora-juegan-en-directo-y-como-ver-partido-por-canal-5-tv-azteca-7-star-plus-y-las-estrellas-final-liga-mx-torneo-clausura-2023-noticia/",
+            "descubreenmexico.com/guia-basica-para-disfrutar-el-tigres-vs-chivas-en-nuevo-leon/",
+            "elcomercio.pe/deporte-total/futbol-mundial/canal-5-chivas-vs-tigres-en-vivo-tv-abierta-en-directo-online-que-canal-y-horario-pasa-final-liguilla-mx-futbol-libre-video-noticia/",
+            "elcomercio.pe/deporte-total/futbol-mundial/tigres-vs-chivas-en-vivo-hoy-a-que-hora-es-canales-y-link-transmision-canal-5-tv-azteca-tv-abierta-futbol-libre-final-de-liga-mx-2023-minuto-a-minuto-lbposting-video-noticia/",
+            "elcomercio.pe/deporte-total/futbol-mundial/tv-azteca-tigres-vs-chivas-en-vivo-tv-abierta-como-y-donde-ver-transmision-gratis-liga-mx-chivas-vs-tigres-en-directo-cdmx-video-noticia/",
+            "elcomercio.pe/deporte-total/mexico/chivas-tigres-en-vivo-hora-que-canal-transmite-como-verlo-final-liga-mx-nnda-nnrt-noticia/",
+            "elcomercio.pe/deporte-total/mexico/que-canal-transmite-tigres-vs-chivas-y-a-que-hora-juegan-final-liga-mx-tv-azteca-canal-5-tudn-noticia/",
+            "elcomercio.pe/deporte-total/mexico/tigres-vs-chivas-dia-hora-y-canal-tv-para-ver-final-del-torneo-clausura-2023-de-la-liga-mx-video-noticia/",
+            "elcomercio.pe/deporte-total/mexico/tudn-en-vivo-como-ver-chivas-de-guadalajara-vs-tigres-por-tv-y-online-nnda-nnrt-noticia/",
+            "elcomercio.pe/redes-sociales/facebook/facebook-chivas-vs-tigres-divertidos-memes-final-futbol-mexicano-426792-noticia/",
+            "elcomercio.pe/respuestas/mexico/final-chivas-vs-tigres-precios-y-como-comprar-boletos-para-la-gran-final-de-liga-mx-2023-tdex-noticia/",
+            "elpais.com/mexico/2023-05-24/chivas-tigres-horario-venta-de-boletos-y-donde-ver-la-final-del-futbol-mexicano.html",
+            "esto.com.mx/731513-oswaldo-sanchez-levantar-el-trofeo-con-chivas-es-espectacular/",
+            "esto.com.mx/731678-chivas-viajo-a-monterrey-para-la-final-de-ida/",
+            "esto.com.mx/731714-chivas-llego-a-monterrey-en-medio-de-una-fiesta-rojiblanca/",
+            "fortnitetracker.com/profile/kbm/Chivas%20xChris/events",
+            "larepublica.pe/deportes/2023/05/24/tudn-en-vivo-tigres-vs-chivas-final-liga-mx-liguilla-2023-horario-y-canal-de-transmision-partido-de-hoy-en-mexico-676944",
+            "lifeandstyle.expansion.mx/entretenimiento/2023/05/25/chivas-tigres-a-que-hora-juegan",
+            "mexico.as.com/futbol/futbol-mexicano/chivas-elimina-al-america-del-clausura-2023-n/",
+            "ovaciones.com/mhoni-vidente-predijo-que-equipo-sera-campeon-del-torneo-de-clausura-2023-chivas-o-tigres/",
+            "politica.expansion.mx/cdmx/2023/05/21/ssc-cdmx-despliega-a-miles-de-policias-para-vigilar-el-partido-america-chivas",
+            "sinlineamx.com/ya-chole-ahora-frena-convoca-a-manifestarse-vs-amlo-en-la-final-chivas-tigres/",
+            "somosinvictos.com/2023/05/21/ya-rompio-el-silencio-el-devastador-discurso-de-alvaro-fidalgo-tras-su-expulsion-contra-chivas",
+            "somosinvictos.com/2023/05/22/lo-que-les-paso-fue-una-completa-verguenza-el-dolido-mensaje-de-henry-martin-para-los-aficionados-del-america-tras-la-eliminacion-ante-chivas/",
+            "traficozmg.com/2023/05/donde-ver-tigres-vs-chivas-si-andas-por-el-centro-de-guadalajara/",
+            "trivela.com.br/mexico/o-chivas-provocou-um-aztecazo-ao-eliminar-o-america-nas-semifinais-com-um-gol-aos-43-do-2-tempo/",
+            "us.as.com/futbol/tigres-vs-chivas-horario-canal-de-tv-como-y-donde-ver-la-final-de-liga-mx-en-usa-n/",
+            "worldsoccertalk.com/chivas-vs-tigres-where-to-watch-in-the-us/",
+            "www.90min.com/es/posts/alineacion-chivas-ultima-vez-campeon-liga-mx",
+            "www.90min.com/es/posts/asi-reacciono-twitter-a-la-victoria-de-las-chivas-por-3-1-ante-el-america/partners/36692",
+            "www.90min.com/es/posts/batalla-abierta-entre-chivas-y-cruz-azul-por-el-fichaje-de-una-estrella-de-monterrey",
+            "www.90min.com/es/posts/batalla-abierta-entre-chivas-y-cruz-azul-por-el-fichaje-de-una-estrella-de-monterrey/partners/36692",
+            "www.90min.com/es/posts/chivas-cierra-su-primer-refuerzo-para-el-siguiente-torneo",
+            "www.90min.com/es/posts/chivas-cierra-su-primer-refuerzo-para-el-siguiente-torneo/partners/36692",
+            "www.90min.com/es/posts/chivas-cierra-su-primer-refuerzo-para-el-siguiente-torneo/partners/45499",
+            "www.90min.com/es/posts/chivas-lo-dara-todo-por-el-fichaje-de-alan-pulido/partners/36692",
+            "www.90min.com/es/posts/chivas-ya-habria-cerrado-a-su-segundo-refuerzo-en-el-mercado-de-verano/partners/36692",
+            "www.90min.com/es/posts/el-once-ideal-combinado-de-tigres-uanl-y-chivas-rumbo-a-la-final-del-clausura-2023/partners/36692",
+            "www.90min.com/es/posts/henry-martin-habla-sobre-la-derrota-ante-chivas-en-las-semifinales-y-asi-califico-el-partido-del-america/partners/36692",
+            "www.90min.com/es/posts/henry-martin-habla-sobre-la-derrota-ante-chivas-en-las-semifinales-y-asi-califico-el-partido-del-america/partners/46371",
+            "www.90min.com/es/posts/los-5-futbolistas-claves-de-chivas-y-tigres-para-la-final-de-ida-en-el-clausura-2023-01h18b2n6183/app/",
+            "www.90min.com/es/posts/tigres-vs-chivas-horario-canal-de-tv-streaming-online-posibles-alineaciones-pronostico-y-mas-25-5-2023",
+            "www.90min.com/es/posts/tigres-vs-chivas-horario-canal-de-tv-streaming-online-posibles-alineaciones-pronostico-y-mas-25-5-2023/partners/36692",
+            "www.90min.com/es/posts/ultimas-noticias-del-mercado-de-fichajes-en-chivas-se-confirman-los-acercamientos-por-el-fichaje-de-andres-sanchez",
+            "www.90min.com/es/posts/ultimas-noticias-del-mercado-de-fichajes-en-chivas-se-confirman-los-acercamientos-por-el-fichaje-de-andres-sanchez/partners/36692",
+            "www.90min.com/es/teams/chivas",
+            "www.aztecajalisco.com/azteca-noticias/taqueria-regalara-tacos-chivas-queda-campeon",
+            "www.aztecajalisco.com/deportes/asi-se-vivio-pase-final-interior-chivas-video",
+            "www.aztecajalisco.com/deportes/esto-cuestan-reventa-boletos-chivas-vs-tigres",
+            "www.aztecajalisco.com/deportes/video-dale-rebano-mayo-loro-canta-porras-chivas",
+            "www.aztecapuebla.com/deportes/aficionados-cambian-boletos-concierto-luis-miguel-por-final-tigres-vs-chivas-ligamx",
+            "www.debate.com.mx/guadalajara/VIDEO-Tapatios-abarrotaron-La-Minerva-para-celebrar-que-Chivas-esta-en-la-final-de-la-Liga-MX-20230522-0062.html",
+            "www.deviantart.com/okumurajaqueline/art/Pumas-x-Chivas-Comic-Yaoi-Parte-28-649803780",
+            "www.elfinanciero.com.mx/deportes/2023/05/24/tigres-vs-chivas-fecha-hora-y-canal-de-transmision-del-partido-de-ida-de-la-final-de-la-liga-mx/",
+            "www.elfutbolero.com.mx/ligamx/America-se-la-cobro-le-saca-a-la-pieza-clave-de-Chivas-en-plena-final-20230524-0003.html",
+            "www.elfutbolero.com.mx/ligamx/Bienvenido-Chivas-Fernando-Hierro-y-el-fichaje-que-paraliza-a-toda-Europa-20230524-0026.html",
+            "www.elfutbolero.com.mx/ligamx/Chivas-juega-contra-12-lo-que-hace-la-FMF-para-quedar-bien-con-Tigres-20230525-0035.html",
+            "www.elfutbolero.com.mx/ligamx/Chivas-no-le-asusta-esto-dijo-Siboldi-y-preocupa-a-Paunovic-20230525-0016.html",
+            "www.elfutbolero.com.mx/ligamx/Chivas-sonrie-Banos-lo-pone-transferible-y-el-Rebano-lo-tendria-ya-firmado-20230524-0004.html",
+            "www.elfutbolero.com.mx/ligamx/Con-razon-se-hizo-expulsar-ante-Chivas-el-club-que-sacaria-a-Fidalgo-del-America-20230522-0020.html",
+            "www.elfutbolero.com.mx/ligamx/Cuando-mejor-iba-Chivas-destapan-pelea-en-entrenamientos-Briseno-involucrado-20230525-0013.html",
+            "www.elfutbolero.com.mx/ligamx/Cuesta-100-M-bailo-a-Chivas-y-seria-el-nuevo-10-del-America-20230518-0054.html",
+            "www.elfutbolero.com.mx/ligamx/Dijo-que-Chivas-era-para-calentar-la-final-ahora-el-karma-le-llega-a-Raoul-Ortiz-20230524-0045.html",
+            "www.elfutbolero.com.mx/ligamx/El-equipo-que-quiere-sacarle-a-Chivas-a-Antonio-Briseno-tras-ver-que-la-rompe-20230525-0061.html",
+            "www.elfutbolero.com.mx/ligamx/En-plena-final-ante-Tigres-se-revela-el-destino-del-Wacho-Jimenez-en-Chivas-20230524-0075.html",
+            "www.elfutbolero.com.mx/ligamx/En-plena-final-Chivas-lo-exhibio-no-soporto-ahora-pierde-la-vida-20230525-0066.html",
+            "www.elfutbolero.com.mx/ligamx/En-plena-final-el-golpe-bajo-de-Chivas-a-Wacho-Jimenez-que-paraliza-Guadalajara-20230524-0090.html",
+            "www.elfutbolero.com.mx/ligamx/Final-arreglada-Destapan-lo-que-hara-Santander-en-pleno-Tigres-vs-Chivas-20230525-0007.html",
+            "www.elfutbolero.com.mx/ligamx/Fue-albanil-le-dio-un-titulo-a-Chivas-ahora-es-millonario-20230523-0040.html",
+            "www.elfutbolero.com.mx/ligamx/Hizo-ver-como-novato-a-Gignac-ahora-firmaria-para-Chivas-gracias-a-Paunovic-20230525-0026.html",
+            "www.elfutbolero.com.mx/ligamx/Hubo-llamadas-destapan-que-el-enemigo-estuvo-en-casa-entrego-al-America-ante-Chivas-20230524-0068.html",
+            "www.elfutbolero.com.mx/ligamx/Humildad-lo-que-hace-Victor-Guzman-fuera-de-Chivas-para-ayudar-a-sus-padres-20230524-0067.html",
+            "www.elfutbolero.com.mx/ligamx/Impacto-mundial-jugo-en-Grecia-ahora-seria-el-refuerzo-sorpresa-de-Chivas-20230525-0014.html",
+            "www.elfutbolero.com.mx/ligamx/Juro-amor-eterno-al-America-ahora-seria-el-fichaje-de-Chivas-gracias-a-Hierro-20230523-0085.html",
+            "www.elfutbolero.com.mx/ligamx/La-imagen-que-confirma-el-regalo-de-Caceres-a-Chivas-ante-el-America-20230521-0073.html",
+            "www.elfutbolero.com.mx/ligamx/La-TV-pudre-el-futbol-destapan-lo-que-censuraron-para-anular-el-gol-de-Chivas-20230521-0084.html",
+            "www.elfutbolero.com.mx/ligamx/Liga-MX-Como-quedaron-Tigres-y-Chivas-en-la-ida-de-la-Final-del-Clausura-2017-20230524-0054.html",
+            "www.elfutbolero.com.mx/ligamx/Lo-elimino-y-puede-volver-a-humillarlo-Chivas-le-pone-picante-al-Clasico-Nacional.-20230524-0057.html",
+            "www.elfutbolero.com.mx/ligamx/Mientras-Ortiz-gasto-26-M-la-leccion-de-Paunovic-en-la-clasificacion-de-Chivas-20230521-0086.html",
+            "www.elfutbolero.com.mx/ligamx/Paunovic-abre-el-paraguas-la-mayor-preocupacion-de-Chivas-previo-a-Tigres-20230524-0051.html",
+            "www.elfutbolero.com.mx/ligamx/Pidio-mas-dinero-para-quedarse-en-Chivas-Vergara-no-cedio-ahora-iria-a-Cruz-Azul-20230518-0105.html",
+            "www.elfutbolero.com.mx/ligamx/Por-eso-no-rinde-en-Chivas-lo-que-hace-Alexis-Vega-cuando-sale-de-Verde-Valle-20230524-0014.html",
+            "www.elfutbolero.com.mx/ligamx/Tigres-lo-desperdicio-y-salio-del-club-ahora-Chivas-lo-ficharia-por-15-millones-20230523-0010.html",
+            "www.elfutbolero.com.mx/ligamx/Tigres-vs-Chivas-Final-Ida-Clausura-2023-EN-VIVO-Donde-ver-el-partido-hora-y-canales-20230524-0018.html",
+            "www.elfutbolero.com.mx/ligamx/Tigres-vs-Chivas-Final-Ida-Clausura-2023-Pronostico-Quien-tiene-mas-chance-de-ganar-20230524-0022.html",
+            "www.elfutbolero.com.mx/ligamx/Verguenza-nacional-el-regalo-de-la-FMF-a-Tigres-para-quitarle-la-13-a-Chivas-20230524-0031.html",
+            "www.elfutbolero.com.mx/ligamx/Vio-el-America-vs-Chivas-hablo-mal-del-club-ahora-pierde-la-vida-20230519-0016.html",
+            "www.elfutbolero.us/ligamx/Hours-before-the-final-Chivas-has-its-first-reinforcement-for-next-season-20230524-0026.html",
+            "www.elimparcial.com/deporte/Final-Liga-MX-Donde-cuando-y-a-que-hora-ver-el-partido-de-ida-de-Chivas-vs-Tigres-20230525-0002.html",
+            "www.espn.com.mx/futbol/mexico/nota/_/id/12100333/chivas-vs-tigres-final-se-agotaron-los-boletos-estadio-akron",
+            "www.espn.com.mx/futbol/mexico/nota/_/id/12105759/tigres-vs-chivas-beckham-inclinacion-final-liga-mx",
+            "www.excelsior.com.mx/adrenalina/canales-de-tv-mexico-y-eu-para-tigres-chivas-ida-final-clausura-2023/1588828",
+            "www.excelsior.com.mx/adrenalina/caos-por-la-final-entre-chivas-y-tigres-alguien-sabe-donde-comprar-un-boleto/1588797",
+            "www.excelsior.com.mx/adrenalina/el-mexicano-es-chingon-chivas-inspira-en-mexico-y-eu-salcido/1588811",
+            "www.futboltotal.com.mx/futbol-mexicano/liga-mx/el-historial-de-finales-entre-tigres-vs-chivas/2023/05",
+            "www.goal.com/es-mx/noticias/chivas-cuando-juega-calendario-partidos/1q9szu2xjwb0r1cd1ef23jii4x",
+            "www.goal.com/es-mx/noticias/cuantas-finales-jugado-chivas/blt479f4f65a186b7a7",
+            "www.goal.com/es-mx/noticias/cuantos-anos-chivas-sin-campeon-liga-mx/euau9feuj8ct1q0fmwztmmzvp",
+            "www.goal.com/es-mx/noticias/cuantos-titulos-nacionales-e-internacionales-tiene-chivas/lxpcr5xtta99139ff0ptz9pdo",
+            "www.goal.com/es-mx/noticias/en-que-canal-juega-chivas/cyayl364b4121nsdt8cs1erh8",
+            "www.goal.com/es-mx/noticias/quien-es-veljko-paunovic-nuevo-director-tecnico-chivas-logros-trayectoria/bltcc420a0139aa0edd",
+            "www.informador.mx/Chivas-vs.-Tigres-Primer-episodio-de-la-final-de-las-coincidencias-l202305250001.html",
+            "www.informador.mx/deportes/Chivas-Union-la-clave-para-estar-en-la-Final-Pauno-20230524-0161.html",
+            "www.informador.mx/deportes/Chivas-vs-Tigres-Asi-sera-la-venta-de-boletos-para-la-final-ojo-20230524-0107.html",
+            "www.informador.mx/deportes/Chivas-vs-Tigres-Chivahermanos-mandan-mensaje-de-aliento-al-Rebano-Sagrado-VIDEO-20230524-0146.html",
+            "www.informador.mx/deportes/Chivas-vs-Tigres-Regalazo-Zoologico-de-Guadalajara-anuncia-premio-si-el-Rebano-es-campeon-20230525-0110.html",
+            "www.informador.mx/deportes/Chivas-vs-Tigres-Revenden-hasta-en-90-mil-pesos-los-boletos-de-la-Final-de-la-Liga-MX-en-el-Akron-20230524-0156.html",
+            "www.informador.mx/deportes/Liga-MX-Toma-nota-Final-del-Clausura-2023-Chivas-vs-Tigres-ya-tiene-fecha-y-horario-20230522-0076.html",
+            "www.informador.mx/deportes/Tigres-vs-Chivas-Cual-es-la-plantilla-mas-cara-Estos-son-los-jugadores-mejor-cotizados-de-cada-equipo-de-la-final-20230525-0088.html",
+            "www.informador.mx/deportes/Tigres-vs-Chivas-Donde-ver-EN-VIVO-el-partido-de-ida-de-la-final-del-Clausura-2023-canales-horario-20230524-0048.html",
+            "www.informador.mx/deportes/Tigres-vs-Chivas-Los-sobrevivientes-de-la-final-de-2017-que-quieren-ser-campeones-del-Clausura-2023-20230524-0123.html",
+            "www.informador.mx/deportes/Tigres-vs-Chivas-Meras-coincidencias-El-Rebano-comparte-video-que-ilusiona-a-chivahermanos-20230524-0072.html",
+            "www.informador.mx/ideas/Diego-Petersen-Chivas-dias-de-guardar-20230525-0027.html",
+            "www.informador.mx/ideas/Los-tenis-de-las-Chivas-y-la-crisis-forense-20230524-0033.html",
+            "www.informador.mx/jalisco/Chivas-vs.-Tigres-Listo-el-operativo-vial-para-el-partido-del-domingo-20230525-0080.html",
+            "www.latimes.com/espanol/deportes/articulo/2023-05-15/chivas-derrota-al-atlas-y-se-citara-con-el-america-en-las-semifinales",
+            "www.latimes.com/espanol/deportes/articulo/2023-05-23/horarios-como-donde-ver-la-gran-final-de-la-liga-mx-de-chivas-vs-tigres",
+            "www.lids.com/international-clubs-chivas/jerseys/chivas-puma-2022/23-away-replica-jersey-white/o-19871311+t-14744840+d-288853+f-5045633+z-9-902892811",
+            "www.lids.com/international-clubs-chivas/kids/o-64216888+t-36304873+ga-36+z-8-3203551523",
+            "www.mediotiempo.com/futbol/liga-mx/aficionados-buscan-boletos-chivas-vs-tigres-largas-filas-mandan-casas",
+            "www.mediotiempo.com/futbol/liga-mx/aficion-del-america-revento-a-azcarraga-tras-la-eliminacion-ante-las-chivas",
+            "www.mediotiempo.com/futbol/liga-mx/alvaro-morales-asegura-que-le-van-a-regalar-el-titulo-a-chivas",
+            "www.mediotiempo.com/futbol/liga-mx/a-que-hora-juega-tigres-vs-chivas-donde-ver-gratis-final-liga-mx",
+            "www.mediotiempo.com/futbol/liga-mx/cag-pocho-guzman-impulso-chivas-vestidor-mozo-presagio-3-1-video",
+            "www.mediotiempo.com/futbol/liga-mx/carlos-guerrero-se-burla-celebracion-omar-villalbazo-tras-victoria-de-chivas-ante-america",
+            "www.mediotiempo.com/futbol/liga-mx/chivas-america-directiva-tigres-respondio-destaco-labor-siboldi",
+            "www.mediotiempo.com/futbol/liga-mx/chivas-es-favorito-tigres-tiene-mayor-experiencia-en-finales-de-liga-mx",
+            "www.mediotiempo.com/futbol/liga-mx/chivas-tigres-carlos-salcedo-pilar-defensas-solidas",
+            "www.mediotiempo.com/futbol/liga-mx/chivas-vs-tigres-estos-son-los-jugadores-que-estuvieron-en-la-final-clausura-",
+            "www.mediotiempo.com/futbol/liga-mx/cuando-juega-chivas-vs-tigres-la-final-de-la-liga-mx-horarios",
+            "www.mediotiempo.com/futbol/liga-mx/cuando-salen-a-la-venta-los-boletos-para-final-chivas-vs-tigres-2023",
+            "www.mediotiempo.com/futbol/liga-mx/donde-ver-monterrey-vs-chivas-transmision-partido-de-rayados-hoy-fox-sports-premium-j1-liga-mx-2023",
+            "www.mediotiempo.com/futbol/liga-mx/john-sutcliffe-se-retracta-a-mi-las-chivas-me-callaron-la-boca",
+            "www.mediotiempo.com/futbol/liga-mx/luis-enrique-santander-no-pitara-chivas-vs-tigres-y-lo-hara-en-final-de-cuarta-division-en-mexico",
+            "www.mediotiempo.com/futbol/liga-mx/mhoni-vidente-predice-quien-sera-campeon-chivas-tigres-en-liga-mx",
+            "www.mediotiempo.com/futbol/liga-mx/nuevo-dt-chivas-veljko-paunovic-quien-es-historial-y-clubes",
+            "www.mediotiempo.com/futbol/liga-mx/paunovic-alienta-chivas-palabra-presion-convertimos-motivacion",
+            "www.mediotiempo.com/futbol/liga-mx/paunovic-el-primer-dt-de-chivas-que-va-a-la-final-en-su-debut",
+            "www.mediotiempo.com/futbol/liga-mx/tigres-la-revancha-ante-chivas-la-final-de-2017",
+            "www.mediotiempo.com/futbol/partidos-hoy-futbol-envivo-tigres-vs-chivas-25-de-mayo-2023",
+            "www.milenio.com/deportes/liga-mx/boletos-para-tigres-vs-chivas-final-de-ida-precio-y-donde-comprarlos",
+            "www.milenio.com/deportes/liga-mx/busca-chivas-romper-racha-negativa-de-4-decadas-en-final-vs-tigres",
+            "www.milenio.com/deportes/liga-mx/fernando-hierro-el-efecto-que-ha-tenido-en-el-equipo-de-chivas",
+            "www.milenio.com/deportes/liga-mx/final-chivas-vs-tigres-cuando-es-la-venta-general-de-boletos",
+            "www.milenio.com/deportes/liga-mx/historial-chivas-vs-tigres-previo-a-la-final-de-la-liga-mx-2023",
+            "www.milenio.com/deportes/liga-mx/mhoni-vidente-predice-chivas-tigres-ganara-liga-mx-2023",
+            "www.milenio.com/deportes/liga-mx/piden-chivas-invite-abuelito-103-anos-tigres",
+            "www.milenio.com/deportes/liga-mx/ver-tigres-vs-chivas-en-vivo-transmision-final-de-ida-liga-mx-2023",
+            "www.msn.com/es-mx/deportes/futbol/chivas-liga-mx-invita-a-abuelito-de-103-a%C3%B1os-a-la-final-vs-tigres-en-el-estadio-akron/ar-AA1bF7RP",
+            "www.msn.com/es-mx/deportes/futbol/chivas-ricardo-pel%C3%A1ez-dedica-emotivo-mensaje-al-cone-brizuela-previo-a-la-final/ar-AA1bEEUV",
+            "www.msn.com/es-mx/deportes/futbol/eso-genera-paunovic-fernando-beltr%C3%A1n-cont%C3%B3-lo-que-provoca-el-entrenador-en-los-jugadores-de-chivas/ar-AA1bGtMd",
+            "www.mundodeportivo.com/us/futbol/liga-mx/20230524/591379/veljko-paunovic-sorprendente-advertencia-chivas-les-costar-titulo.html",
+            "www.nmas.com.mx/tendencias/chivas-vs-tigres-mhoni-vidente-predice-al-campeon-de-la-liga-mx",
+            "www.publimetro.com.mx/deportes/2023/05/21/america-vs-chivas-semifinales-liga-mx-minuto-a-minuto-en-vivo-online/",
+            "www.publimetro.com.mx/deportes/2023/05/25/chivas-aficionado-que-ha-visto-todos-los-titulos-pide-que-lo-inviten-al-estadio/",
+            "www.publimetro.com.mx/deportes/2023/05/25/chivas-vs-tigres-modelos-de-onlyfans-marzhe-ponce-de-leon-contra-ennid-wong/",
+            "www.record.com.mx/empelotados/abuelita-enloquece-por-clasificacion-de-chivas-y-se-hace-viral",
+            "www.record.com.mx/empelotados/aficionado-de-chivas-de-103-anos-pide-que-lo-inviten-a-la-final-contra-tigres",
+            "www.record.com.mx/empelotados/chivas-lucerito-perdio-apuesta-por-el-clasico-nacional-y-canto-el-himno-del-rebano",
+            "www.record.com.mx/empelotados/chivas-mhoni-vidente-predice-que-el-equipo-sera-campeon-de-la-liga-mx",
+            "www.record.com.mx/empelotados/chivas-vs-tigres-la-final-se-transmitira-en-pantallas-gigantes-en-guadalajara",
+            "www.record.com.mx/empelotados/clasico-nacional-asi-vivio-zague-la-eliminacion-del-america-a-manos-de-chivas",
+            "www.record.com.mx/empelotados/miguel-layun-comparte-foto-llorando-tras-la-eliminacion-de-america-ante-chivas",
+            "www.record.com.mx/empelotados/zague-revento-al-america-tras-su-eliminacion-ante-chivas-vergonzoso",
+            "www.record.com.mx/futbol/liga-mx/chivas",
+            "www.record.com.mx/futbol-liga-mx-chivas/asi-fue-la-pintoresca-llegada-de-chivas-a-monterrey-para-la-ida-de-la-final",
+            "www.record.com.mx/futbol-liga-mx-chivas/cabala-paunovic-advirtio-a-jugadores-de-chivas-no-toquen-la-copa",
+            "www.record.com.mx/futbol-liga-mx-chivas/carlos-salcido-balconeo-a-oswaldo-alanis-y-cuenta-anecdota-del-dia-que-rompio",
+            "www.record.com.mx/futbol-liga-mx-chivas/chivas-alan-pulido-modo-final-con-la-cabala-del-rebano-cantando-te-deseo-lo",
+            "www.record.com.mx/futbol-liga-mx-chivas/chivas-carlos-cisneros-tiene-rotura-de-ligamentos-y-se-perdera-la-gran-final",
+            "www.record.com.mx/futbol-liga-mx-chivas/chivas-ricardo-marin-deja-la-liga-de-expansion-y-es-nuevo-delantero-del-rebano",
+            "www.record.com.mx/futbol-liga-mx-chivas/fernando-beltran-sobre-union-en-chivas-todos-nos-tiramos-de-cabeza-por",
+            "www.record.com.mx/futbol-liga-mx-chivas/las-coincidencias-del-campeonato-de-2017-que-ilusionan-a-la-aficion-de-chivas",
+            "www.record.com.mx/futbol-liga-mx-chivas/pollo-briseno-previo-a-la-final-ante-tigres-ser-campeon-con-chivas-es-mi-mayor",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/chivas-vs-tigres-cuando-salen-a-la-venta-los-boletos-de-la-gran-final",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/chivas-vs-tigres-cuando-sera-la-venta-y-cuanto-costaran-los-boletos",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/chivas-vs-tigres-quienes-son-los-jugadores-sobrevivientes-de-la-final",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/claudio-suarez-ve-a-chivas-favorito-en-la-final-y-les-pide-asumir-esa",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/fernando-gorriaran-reconoce-gran-torneo-de-chivas-sabemos-que-son",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/juan-pablo-vigon-advierte-a-chivas-previo-a-la-final-tenemos-hambre-de",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/liga-mx-estos-son-los-antecedentes-en-liguilla-entre-chivas-y-tigres",
+            "www.record.com.mx/futbol-liga-mx-chivas-tigres/liga-mx-listos-los-horarios-de-la-gran-final-entre-chivas-y-tigres",
+            "www.record.com.mx/futbol-liga-mx-chivas/veljko-paunovic-niega-que-chivas-sea-favorito-ante-tigres-en-la-gran-final-del",
+            "www.record.com.mx/futbol-liga-mx-chivas/veljko-paunovic-no-se-intimida-previo-a-la-final-de-ida-ante-tigres-en-el",
+            "www.record.com.mx/futbol-liga-mx-noticias/chivas-vs-tigres-el-juego-de-vuelta-de-la-final-sera-narrado-en-lenguaje-de",
+            "www.record.com.mx/futbol-liga-mx-noticias/tigres-vs-chivas-donde-y-a-que-hora-ver-la-gran-final-de-ida-entre-felinos-y",
+            "www.songsterr.com/a/wsa/chivas-anyzowe-zelki-tab-s531121",
+            "www.soyfutbol.com/fueradejuego/Chivas-Ella-es-Karen-Ulloa-la-guapa-esposa-de-Isaac-Brizuela-20200914-0062.html",
+            "www.soyfutbol.com/fueradejuego/Chivas-Jimena-Sanchez-presume-su-figura-en-encantadora-postal-en-la-piscina-20230524-0039.html",
+            "www.soyfutbol.com/fueradejuego/Tigres-UANL-vs-Chivas-Karely-Ruiz-y-Marzhe-Ponce-prenden-la-Final-con-duelo-de-chikinis-20230522-0025.html",
+            "www.soyfutbol.com/ligas/Chivas-Alvaro-Morales-llama-FRACASADO-a-Paunovi-previo-a-la-final-contra-Tigres-20230523-0035.html",
+            "www.soyfutbol.com/ligas/Chivas-amarro-nuevo-portero-revelan-detalles-del-contrato-de-Oscar-Whalley-20230524-0012.html",
+            "www.soyfutbol.com/ligas/Chivas-Eduardo-Chofis-Lopez-seria-vendido-al-Pachuca-Cuanto-cuesta-20220715-0001.html",
+            "www.soyfutbol.com/ligas/Chivas-Jordan-Carrillo-desea-jugar-con-el-Rebano-Sagrado-y-pone-fecha-de-llegada-20230524-0011.html",
+            "www.soyfutbol.com/ligas/Chivas-Paunovic-deja-claro-mensaje-contra-Tigres-UANL-no-nos-asustan-20230524-0063.html",
+            "www.soyfutbol.com/ligas/Chivas-Pocho-Guzman-lanza-mensaje-a-los-detractores-del-Rebano-previo-a-la-final-20230524-0066.html",
+            "www.soyfutbol.com/ligas/Chivas-Se-va-Amaury-Vergara-aclara-el-futuro-de-Gerardo-Espinoza-en-el-CD-Tapatio-20230521-0040.html",
+            "www.soyfutbol.com/ligas/Chivas-ya-cerro-el-fichaje-de-Ricardo-Marin-canterano-del-Club-America--20230525-0036.html",
+            "www.soyfutbol.com/ligas/Liga-MX-Cuanto-cuestan-los-boletos-para-la-final-Chivas-vs-Tigres--20230523-0044.html",
+            "www.soyfutbol.com/ligas/Santander-en-la-Vuelta-Fernando-Guerrero-el-arbitro-de-la-Ida-del-Tigres-vs-Chivas-20230523-0022.html",
+            "www.soyfutbol.com/ligas/Tigres-Gorriaran-niega-que-tengan-un-plantel-viejo-de-cara-a-la-final-contra-Chivas-20230524-0057.html",
+            "www.soyfutbol.com/ligas/Tigres-UANL-Siboldi-respalda-a-Gignac-y-lo-pone-como-la-clave-para-la-final-vs-Chivas--20230524-0069.html",
+            "www.soyfutbol.com/tendencias/Chivas-Alexis-Vega-y-su-emotivo-festejo-tras-pase-a-la-final-vs-Tigres-UANL-Video-20230523-0060.html",
+            "www.soyfutbol.com/tendencias/Chivas-Arrepentido-John-Sutcliffe-se-retracta-de-sus-declaraciones-sobre-el-Rebano-20230522-0049.html",
+            "www.soyfutbol.com/tendencias/Chivas-Lucero-paga-apuesta-tras-derrota-del-Club-America-en-el-Clasico-Nacional-20230524-0009.html",
+            "www.soyfutbol.com/tendencias/Chivas-vs-Tigres-Mhoni-Vidente-predice-quien-sera-el-campeon-de-la-Liga-MX-20230525-0012.html",
+            "www.sportingnews.com/mx/futbol/news/calendario-chivas-clausura-2023-liga-mx-cuando-juega-jornadas-dias-rivales-horarios-resultados/y1qinqtkxmfiopqflvwxxjhs",
+            "www.sportingnews.com/mx/futbol/news/chivas-vs-atlas-vivo-marcador-resumen-goles-vuelta-cuartos-liguilla-clausura-2023/x7zj3ptydz1ny6wqskio96b0",
+            "www.sportingnews.com/mx/futbol/news/chivas-vs-tigres-antecedentes-historial/vxdvadctcxoirecw34k1hybu",
+            "www.sportingnews.com/mx/futbol/news/chivas-vs-tigres-dia-hora-donde-ver-tv-streaming-final-liguilla-clausura-2023/ob0zyx3kcrbtriykdwsh9hoo",
+            "www.sportingnews.com/mx/futbol/news/como-donde-comprar-boletos-chivas-vs-tigres-final-liguilla-clausura-2023-liga-mx/effv6tymuzggnxixxbcqspxm",
+            "www.sportingnews.com/mx/futbol/news/cuando-juega-donde-ver-a-chivas-hora-canal-tv-streaming-online-partido/sdu1kr9b88sjzyrt5gw3ryz8",
+            "www.sportingnews.com/mx/futbol/news/cuantos-titulos-tiene-chivas-palmares-completo/ivalgyzji04fav2vzkbw8tut",
+            "www.sportingnews.com/mx/futbol/news/memes-chivas-america/krsk0zcskqvp0ejamwfwnrfg",
+            "www.sportingnews.com/mx/futbol/news/que-necesita-chivas-para-ganar-final-clausura-2023-vs-tigres/sxdtn7igp3gknunfw5jsqnsq",
+            "www.sportingnews.com/mx/futbol/news/quien-es-veljko-paunovic-tecnico-chivas-reading-chicago-fire-serbia/yona589foq8rbib5fhrjtwzz",
+            "www.sportingnews.com/us-es/futbol/news/boletos-chivas-vs-atlas-como-donde-comprar/zjfii3sdauzlpwqfwvee16wz",
+            "www.sportingnews.com/us-es/futbol/news/chivas-vs-tigres-antecedentes-historial/vxdvadctcxoirecw34k1hybu",
+            "www.sportingnews.com/us-es/futbol/news/chivas-vs-tigres-dia-hora-donde-ver-tv-streaming-final-liguilla-clausura-",
+            "www.sportingnews.com/us-es/futbol/news/cuando-juega-donde-ver-a-chivas-hora-canal-tv-streaming-online-partido/sdu1kr9b88sjzyrt5gw3ryz8",
+            "www.sportingnews.com/us-es/futbol/news/cuantos-titulos-tiene-chivas-palmares-completo/ivalgyzji04fav2vzkbw8tut",
+            "www.sportingnews.com/us-es/futbol/news/que-necesita-chivas-para-ganar-final-clausura-2023-vs-tigres/sxdtn7igp3gknunfw5jsqnsq",
+            "www.sportingnews.com/us-es/futbol/news/tigres-vs-chivas-hoy-canal-tv-streaming-online-final-ida-liguilla-clausura-2023/izm74brp1rnf6s1aliomvxi9",
+            "www.sportingnews.com/us-es/futbol/news/tigres-vs-chivas-hoy-hora-final-ida-liguilla-clausura-2023/ica3ov9qjlradgymajnoajeg",
+            "www.sportingnews.com/us-es/futbol/news/tigres-vs-chivas-pronosticos-apuestas-momios-cuotas-picks-marcador-final-liguilla-clausura-2023/ec13cuuzpx9eaihnti0cxudt",
+            "www.telediario.mx/comunidad/licenciada-maria-julia-manda-mensaje-partido-tigres-vs-chivas",
+            "www.telediario.mx/comunidad/maria-julia-advierte-chivas-venganza-tigres-video",
+            "www.telediario.mx/deportes/venta-chivas-vs-tigres-precio-boletos",
+            "www.telediario.mx/futbol/liga-mx/chivas-campeon-todas-las-casualidades-del-2017-y-2023",
+            "www.telediario.mx/futbol/liga-mx/tigres-vs-chivas-canal-horario-clausura-2023-liga-mx",
+            "www.telediario.mx/futbol/liga-mx/vuelta-chivas-vs-tigres-transmitida-tv-azteca",
+            "www.telediario.mx/liga-mx/club-santos/eduardo-aguirre-saldria-santos-rumbo-chivas",
+            "www.telediario.mx/liga-mx/club-tigres/siboldi-prepara-un-cambio-en-la-alineacion-para-la-final-ante-chivas",
+            "www.telediario.mx/nacional/abuelito-103-anos-pide-inviten-partido-tigres-vs-chivas",
+            "www.telediario.mx/tendencias/liga-mx-mhoni-vidente-predice-campeon-chivas-tigres",
+            "www.televisa.com/canal5/tigres-vs-chivas-horario-y-donde-ver-el-partido-de-hoy-la-final-de-ida",
+            "www.tvazteca.com/aztecadeportes/alvaro-fidalgo-sera-sancionado-expulsion-ante-chivas",
+            "www.tvazteca.com/aztecadeportes/analisis-semifinal-america-vs-chivas-vuelta",
+            "www.tvazteca.com/aztecadeportes/cruz-azul-chivas-interes-jesus-gallardo",
+            "www.tvazteca.com/aztecadeportes/cuanto-cuestan-boletos-final-chivas-vs-tigres",
+            "www.tvazteca.com/aztecadeportes/emocionante-discurso-pollo-briseno-vestidor-chivas-ganarle-america",
+            "www.tvazteca.com/aztecadeportes/final-chivas-vs-tigres-horarios-definidos",
+            "www.tvazteca.com/aztecadeportes/futbolista-america-amenazados-eliminacion-chivas",
+            "www.tvazteca.com/aztecadeportes/oscar-whalley-seria-nuevo-portero-chivas-apertura-2023",
+            "www.tvazteca.com/aztecadeportes/pocho-guzman-tundio-america-vestidor-chivas-clasico-nacional",
+            "www.tvazteca.com/aztecadeportes/precio-boletos-reventa-chivas-vs-tigres-estadio-akron",
+            "www.tvazteca.com/aztecadeportes/resumen-america-1-3-chivas-semifinal-vuelta-clausura-2023",
+            "www.tvazteca.com/aztecadeportes/tigres-vs-chivas-posibles-alineaciones-final-ida-clausura-2023",
+            "www.unotv.com/deportes/chivas-remonta-derrota-a-domicilio-al-america-3-1-jugara-la-final-contra-tigres/",
+            "www.unotv.com/deportes/chivas-y-tigres-protagonizaran-la-gran-final-del-futbol-mexicano/",
+            "www.unotv.com/deportes/tigres-vs-chivas-fecha-hora-y-donde-ver-el-partido-de-ida-de-la-final-de-la-liga-mx/",
+            "www.unotv.com/estados/jalisco/abuelito-de-103-anos-quiere-ir-al-estadio-y-ver-campeon-a-chivas/",
+            "www.wdeportes.com/2023/05/23/chivas-vs-tigres-comparativa-de-finales-de-liga-mx-que-han-disputado-ambos-equipos-en-lo-que-va-del-siglo/",
+            "www.whitepages.com/name/Chivas-Williams"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Chivas Regal",
+    "option": "ctx",
+    "form": "chivas",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "18-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "extra-13",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/chivas-regal-extra-13/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

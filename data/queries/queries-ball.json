@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Ballantine's",
+    "option": "base",
+    "form": "ballantines",
+    "query": {
+      "required": [
+        {
+          "keyword": "ballantines",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Ballantine's",
+    "option": "ctx",
+    "form": "ballantines",
+    "query": {
+      "required": [
+        {
+          "keyword": "ballantines",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "finest",
+          "mode": "m"
+        },
+        {
+          "keyword": "30-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year-old",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Ballantine's",
+    "option": "base",
+    "form": "ballantine-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "ballantine-s",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Ballantine's",
+    "option": "ctx",
+    "form": "ballantine-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "ballantine-s",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "finest",
+          "mode": "m"
+        },
+        {
+          "keyword": "30-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year-old",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

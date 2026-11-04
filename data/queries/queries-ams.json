@@ -1,0 +1,61 @@
+[
+  {
+    "id": "New Amsterdam",
+    "option": "base",
+    "form": "new-amsterdam",
+    "query": {
+      "required": [
+        {
+          "keyword": "new-amsterdam",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "New Amsterdam",
+    "option": "ctx",
+    "form": "new-amsterdam",
+    "query": {
+      "required": [
+        {
+          "keyword": "new-amsterdam",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "original",
+          "mode": "m"
+        },
+        {
+          "keyword": "peach",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "Roku",
+    "option": "ctx",
+    "form": "roku",
+    "query": {
+      "required": [
+        {
+          "keyword": "roku",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

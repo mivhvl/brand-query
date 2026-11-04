@@ -1,0 +1,350 @@
+[
+  {
+    "id": "Malibu",
+    "option": "base",
+    "form": "malibu",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "malibu",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 49,
+          "sampleSize": 460974,
+          "urls": [
+            "https://alchetron.com/Street-Fighter-%28Malibu-Comics%29",
+            "https://aspiringwinos.com/cocktails/marvelous-malibu-rum-cocktails/",
+            "https://cancanawards.com/malibu-sizes/",
+            "https://gatewayclassiccars.com/vehicle/nsh/1853/1975-chevrolet-malibu",
+            "https://hollywoodlife.com/2023/05/19/jay-z-beyonce-200-million-malibu-beach-house-photos/",
+            "https://netflixlife.com/2020/08/05/malibu-rescue-ricardo-hurtado-age-height/",
+            "https://swellmagnet.com/surf-cams/malibu-first-point-surf-cam-and-report/",
+            "https://swellmagnet.com/surf-cams/malibu-surf-cam-and-report/",
+            "https://thedriveradviser.com/types-of-fuel-a-chevy-malibu-uses-all-generations/",
+            "https://www.acouplecooks.com/malibu-sunset/",
+            "https://www.averiecooks.com/malibu-sunset/",
+            "https://www.bottledprices.com/rum/malibu/",
+            "https://www.busytourist.com/things-to-do-in-malibu-ca/",
+            "https://www.chevelles.com/threads/1964-malibu-rear-brake-light-problems.536145/",
+            "https://www.chevymalibuforum.com/threads/2000-malibu-new-fuel-pump-wont-start.8149/",
+            "https://www.dailymail.co.uk/news/article-12095663/General-Hospital-star-Haley-Pullos-24-driven-luxury-Malibu-rehab-dad-DUI-crash.html",
+            "https://www.dailymail.co.uk/tvshowbiz/article-8611285/Rambo-gets-beer-belly-Sylvester-Stallone-74-displays-fuller-physique-Malibu.html",
+            "https://www.dirt.com/gallery/entertainers/influencers/cody-ko-house-malibu-1203445696/",
+            "https://www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/",
+            "https://www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb20/",
+            "https://www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb2/#recipient_hashed=40c5512f74f049d8d540375cb3395af099714167a6f31f74976cb717cccfe158&recipient_salt=bf63325a1aa6ad4310cb60f1082b423c358c6e7af00e2bf6c0f042bfd78fcb67",
+            "https://www.favfamilyrecipes.com/malibu-chicken/",
+            "https://www.foodlovinfamily.com/malibu-sunset/",
+            "https://www.foxla.com/news/anthony-rauda-trial-closing-arguments-2018-murder-scientist-tristan-beaudette-malibu-creek-state-park",
+            "https://www.greatgrubdelicioustreats.com/malibu-chicken/",
+            "https://www.kbb.com/chevrolet/malibu/2017/lt-sedan-4d/contact-form/",
+            "https://www.lovetoknow.com/food-drink/cocktails/malibu-rum-drinks",
+            "https://www.msn.com/en-ca/lifestyle/shopping/beyonc%C3%A9-and-jay-z-buy-most-expensive-malibu-estate-for-200m/ar-AA1bDURW",
+            "https://www.msn.com/en-us/money/personalfinance/a-50-year-old-mom-claims-she-emptied-her-daughter-s-college-fund-to-keep-her-malibu-dream-home-the-teen-is-furious-5-tips-to-retire-comfortably-without-raiding-your-kid-s-account/ar-AA1bGyrF",
+            "https://www.msn.com/en-us/money/personalfinance/a-50-year-old-mom-claims-she-emptied-her-daughters-college-fund-to-keep-her-malibu-dream-home-—-the-teen-is-furious-5-tips-to-retire-comfortably-without-raiding-your-kids-account/ar-AA1bGyrF",
+            "https://www.msn.com/en-us/travel/tripideas/17-best-hotels-and-resorts-in-california-from-malibu-to-napa-valley/ss-AA1bDgI0",
+            "https://www.organizedisland.com/malibu-rum-punch/",
+            "https://www.petalrepublic.com/best-flower-delivery-malibu/",
+            "https://www.realtor.com/realestateandhomes-detail/20616-Pacific-Coast-Hwy-2_Malibu_CA_90265_M97375-37475",
+            "https://www.realtor.com/realestateandhomes-detail/5811-Murphy-Way_Malibu_CA_90265_M15689-00081",
+            "https://www.realtor.com/rentals/details/33410-Pacific-Coast-Hwy_Malibu_CA_90265_M16615-05948",
+            "https://www.redfin.com/TX/Kerrville/1306-Malibu-Dr-78028/home/135349530",
+            "https://www.scmp.com/magazines/style/celebrity/article/3221678/inside-beyonce-and-jay-zs-new-record-breaking-mansion-couple-splashed-us200-million-malibu-home",
+            "https://www.sugarandsoul.co/malibu-bay-breeze",
+            "https://www.sugarandsoul.co/malibu-bay-breeze/",
+            "https://www.sugarandsoul.co/rumchata-malibu-lime-soda/",
+            "https://www.surfline.com/surf-report/malibu-first-point/584204214e65fad6a7709b9f",
+            "https://www.thrillist.com/news/nation/little-mermaid-malibu-beach-house",
+            "https://www.tmz.com/2023/05/19/jay-z-beyonce-home-purchase-malibu-record-breaking-mansion/",
+            "https://www.tmz.com/2023/05/25/dean-cain-sell-malibu-home-house-superman/",
+            "https://www.viaggi-usa.it/malibu-california-cosa-vedere/",
+            "https://www.viaggi-usa.it/malibu-california-cosa-vedere/#Topanga_Beach",
+            "https://www.wsj.com/articles/in-malibu-a-concrete-compound-designed-by-japanese-starchitect-asks-75-million-11582563329",
+            "https://www.zillow.com/homedetails/3843-Rambla-Pacifico-Way-Malibu-CA-90265/299558022_zpid/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 13,
+          "sampleSize": 664385,
+          "urls": [
+            "https://news.ohmymag.com/people/actu-people/david-charvet-alerte-a-malibu-au-coeur-dune-enquete-criminelle-apres-avoir-menace-son-ex-compagne_art158075.html",
+            "https://realestate-news.space/2023/luxury/beyonce-jay-z-buy-malibu-mega-home-for-200-million/",
+            "https://www.autoscout24.ch/de/autos/chevrolet--malibu",
+            "https://www.caraworld.de/campervans/malibu/van/15893495/malibu-van-600-db-fahrzeug.html",
+            "https://www.cuisineaz.com/recettes/cocktail-bmw-baileys-malibu-whisky-23570.aspx",
+            "https://www.dailymail.co.uk/tvshowbiz/article-2336193/Swapsies-Chris-Hemsworth-wife-Elsa-Pataky-turns-cradle-daughter-India-Rose-head-lunch-Malibu.html",
+            "https://www.daskochrezept.de/rezepte/malibu-muffins",
+            "https://www.deine-tierwelt.de/kleinanzeigen/liebes-zuhause-fuer-malibu-gesucht-a85483339/",
+            "https://www.leggo.it/persone/beyonce_jay_z_villa_malibu-7413545.html",
+            "https://www.marmiton.org/recettes/recette_cocktail-rhum-malibu-le-muyel_319572.aspx",
+            "https://www.programme-tv.net/news/series-tv/327205-alerte-a-malibu-meconnaissable-ce-celebre-super-heros-a-fait-ses-debuts-dans-la-serie-culte/",
+            "https://www.public.fr/Toutes-les-photos/Kim-Kardashian-milliardaire-La-femme-d-affaires-se-lache-et-s-offre-un-manoir-a-Malibu-a-70-millions-de-dollars-1742465",
+            "https://www.surfer.com/trending-news/crowded-surfing-chaos-malibu"
+          ]
+        },
+        "source4": {
+          "quantity": 91,
+          "sampleSize": 1130461,
+          "urls": [
+            "http://barbiedollscollection.com/malibu-barbie-beach-diorama/",
+            "http://goexplorenature.com/2010/10/birdwatching-with-kids-at-malibu-lagoon.html",
+            "http://gotoycrazy.com/location/malibu-country-mart/",
+            "https://allevents.in/malibu/june",
+            "https://atwoodmagazine.com/mbco-coin-malibu-1992-song-review/",
+            "https://blog.itrip.net/7-places-to-shop-near-malibu-ca/",
+            "https://carprotectionpros.com/2014-2015-chevrolet-malibu-3m-scotchgard-clear-bra-paint-protection-deluxe-film-kit",
+            "https://cdn.dealeraccelerate.com/volo/1/20606/836248/1920x1440/1968-chevrolet-chevelle-malibu",
+            "https://classifieds.castanet.net/details/malibu_wakesetter_21-mlx/4852707/",
+            "https://dirtyships.net/video/2183/sophia-del-mar-malibu-mansion-w-troy-francisco",
+            "https://earth-base.org/what-does-service-esc-mean-on-a-malibu",
+            "https://freemovies2021.com/search/malibu-most-wanted",
+            "https://hdtoday.tv/production/malibu-bay-films",
+            "https://hdtoday.tv/watch-movie/watch-malibu-rescue-hd-45249",
+            "https://jendisney.com/2014/06/23/a-magical-day-calamigos-ranch-wedding-malibu/#addcomment",
+            "https://jpauto.com/2004-2008-chevrolet-malibu-headlights-driver-left-and-passenger-right-side-halogen/",
+            "https://jpauto.com/2008-2012-chevrolet-malibu-headlights-driver-left-and-passenger-right-side-halogen/",
+            "https://jpauto.com/2016-2018-chevrolet-malibu-front-fender-liner-passenger-right-side/",
+            "https://lsm2.net/autos/2017-CHEVROLET-MALIBU-Fort-Worth-TX-440",
+            "https://mattamyhomes.com/florida/orlando/kissimmee/solara-resort/malibu-ii",
+            "https://sparkys-answers.com/2014/02/2011-chevrolet-malibu-low-beam.html",
+            "https://trexbillet.com/i-20468751-2008-2012-chev-malibu-ls-lt-upper-class-series-mesh-bumper-grille-polished-1-pc-overlay-part-55168.html",
+            "https://workshop-manuals.com/chevrolet/malibu/l4-2.4l/body_and_frame/doors_hood_and_trunk/doors/front_door/front_door_panel/system_information/service_and_repair/front_side_door_window_switch_bezel_replacement/",
+            "https://workshop-manuals.com/chevrolet/malibu/l4-2.4l/body_and_frame/doors_hood_and_trunk/doors/front_door/front_door_window_glass/system_information/technical_service_bulletins/body_vehicle_glass_distortion_information/",
+            "https://workshop-manuals.com/chevrolet/malibu/l4-2.4l/body_and_frame/doors_hood_and_trunk/doors/rear_door/rear_door_weatherstrip/component_information/service_and_repair/rear_side_door_window_inner_weatherstrip_replacement/",
+            "https://workshop-manuals.com/chevrolet/malibu/l4-2.4l/brakes_and_traction_control/disc_brake_system/brake_rotor/disc/component_information/testing_and_inspection/brake_rotor_assembled_lateral_runout_correction/page_4801/",
+            "https://www.5starcar.com/st-charles-used-cars-for-sale/2018_Chevrolet_Malibu/details/1G1ZD5ST0JF150634/",
+            "https://www.affordableusedcarsfairbanks.com/autos/2022-CHEVROLET-MALIBU-Fairbanks-AK-27359",
+            "https://www.affordableusedcarsfairbanks.com/autos/2022-CHEVROLET-MALIBU-Fairbanks-AK-28152",
+            "https://www.bajarosaritorealty.com/Tijuana/Baja_California/Homes/Baja_Malibu_Beach_side/Agent/Listing_559018029.html",
+            "https://www.berkshirehathawayautomotive.com/new/Chevrolet/2023-Chevrolet-Malibu-4f78dd180a0e0a90410d65da2841c8af.htm",
+            "https://www.bestbuddieschallenge.org/malibu/about/",
+            "https://www.bestbuddieschallenge.org/malibu/register/",
+            "https://www.beststeakrestaurant.com/ca/los-angeles/restaurants/mastros-ocean-club-malibu",
+            "https://www.beverlyhillscarclub.com/1964-chevrolet-malibu-ss-c-6967.htm",
+            "https://www.beverlyhillscarclub.com/1965-chevrolet-chevelle-malibu-ss-sport-coupe-c-14916.htm",
+            "https://www.boatdealers.ca/boats-for-sale/529017/malibu-m220-temiscouata-sur-le-lac-quebec",
+            "https://www.boatdealers.ca/boats-for-sale/530253/malibu-vlx-saint-boniface-manitoba",
+            "https://www.boatdealers.ca/boats-for-sale/532144/malibu-sunsetter-lxi-grosse-ile-michigan",
+            "https://www.boatdealers.ca/boats-for-sale/canada/power/ski-and-wakeboard/malibu-boats",
+            "https://www.boatdealers.ca/boats-for-sale/malibu-boats",
+            "https://www.carcredit7600.com/autos/2019-Chevrolet-Malibu-Chicago-IL-2472",
+            "https://www.carnival.com/in-room-food-beverages/liquor/malibu-coconut-rum-521",
+            "https://www.carsbeaumont.com/autos/2013-Chevrolet-Malibu-Beaumont-3614",
+            "https://www.carsmartnow.com/temple-hills-used-cars/price/1-12000/make/Chevrolet/model/Malibu/",
+            "https://www.christin.com/fr/inventaire-neuf/chevrolet/malibu/chevrolet-malibu-2023-id28776294",
+            "https://www.covingtonfabric.com/Product/Sd-ziggy/110-MALIBU-BEIGE/195391",
+            "https://www.drivehublerpreowned.com/vehicle-details/used-2012-chevrolet-malibu-ltz-w-1lz-1G1ZE5E02CF308215",
+            "https://www.drivehublerpreowned.com/vehicle-details/used-2019-chevrolet-malibu-lt-1G1ZD5STXKF158435",
+            "https://www.drivehublerpreowned.com/vehicle-details/used-2020-chevrolet-malibu-lt-1G1ZD5ST0LF063044",
+            "https://www.drivehublerpreowned.com/vehicle-details/used-2020-chevrolet-malibu-lt-1G1ZD5ST1LF062937",
+            "https://www.drivehublerpreowned.com/vehicle-details/used-2021-chevrolet-malibu-lt-1G1ZD5ST0MF006487",
+            "https://www.emmys.com/news/features/macho-malibu",
+            "https://www.garagekeptmotors.com/vehicles/2933/1967-chevrolet-chevelle-malibu",
+            "https://www.gotceleb.com/emma-watson-leaving-a-three-hour-lunch-at-nobu-in-malibu-2023-03-26.html/emma-watson-leaving-a-three-hour-lunch-at-nobu-in-malibu-02",
+            "https://www.hbbeautybar.com/products/bebella-cosmetics-take-me-to-malibu-brush-set",
+            "https://www.henna.com/vehicle-details/new-2023-chevrolet-malibu-lt-1G1ZD5STXPF194620",
+            "https://www.highlineautosinc.com/vehicle-details/used-2018-chevrolet-malibu-ls-1G1ZB5ST1JF198858",
+            "https://www.lamag.com/editorsbuzz/reflecting-timeless-mystique-malibu/",
+            "https://www.landersmclartynissanhuntsville.com/vehicle-details/used-2020-chevrolet-malibu-lt-1G1ZD5ST2LF098863",
+            "https://www.letsfixthatcar.com/tpms-reset-chevrolet-malibu-2016-tire-pressure-sensor",
+            "https://www.localconditions.com/weather-malibu-beach-california/ca497/alerts.php",
+            "https://www.lowcostcars.com/vehicle-details/used-2012-chevrolet-malibu-ls-w-1ls-1G1ZB5E00CF263655",
+            "https://www.mavi.com/malibu-acik-mavi-gold-icon-jean-pantolon/p/1010152-81461",
+            "https://www.mavi.com/malibu-acik-mavi-yirtikli-street-jean-pantolon/p/1010152-83664",
+            "https://www.mavi.com/malibu-beach-baskili-mavi-tisort/p/1611497-70882",
+            "https://www.mavi.com/malibu-buz-mavi-gold-icon-jean-pantolon/p/1010152-85138",
+            "https://www.mavi.com/malibu-koyu-gri-jean-pantolon/p/1010152-84023",
+            "https://www.myairbags.com/product/chevrolet-malibu-seat-belt-pretensioner-repair-1-stage/",
+            "https://www.myairbags.com/product/chevrolet-malibu-srs-sdm-derm-sensing-diagnostic-module-airbag-computer-control-module-part-13592409/",
+            "https://www.nissanofsanjose.com/vehicle-details/used-2020-chevrolet-malibu-lt-1G1ZD5ST2LF072621",
+            "https://www.novelforfree.com/malibu-rising_chapter_page-51_31119_5143.html",
+            "https://www.powerbrokersinc.com/inventory/details/used/MALIBU/Wakesetter-21-MLX/2021/Sioux-Falls/South-Dakota/5878696/W5F121",
+            "https://www.raulsautosales.com/autos/2016-CHEVROLET-MALIBU-Harrisburg-PA-781",
+            "https://www.ridetimeautocredit.com/autos/2016-Chevrolet-Malibu-Monroe-LA-2239",
+            "https://www.rosaritorealty.com/Playas_de_Tijuana/Baja_California/Homes/Baja_Malibu_Beach_side/Agent/Listing_556056998.html",
+            "https://www.simpleaz.com/autos/2017-Chevrolet-Malibu-Mesa-AZ-5886",
+            "https://www.streetmusclemag.com/features/rare-rides-the-1965-chevrolet-chevelle-malibu-ss-396-z16/",
+            "https://www.summitdodge.ca/en/used-inventory/chevrolet/malibu/2010-chevrolet-malibu-id30308456",
+            "https://www.thriftymotorsonline.com/autos/2016-Chevrolet-Malibu-Limited-Houston-TX-765",
+            "https://www.trendyporn.com/video/atkgirlfriends-leana-lovings-malibu-part-2-51500.html#!/WwRUt8Sqs",
+            "https://www.truenorthchev.com/en/new-catalog/chevrolet/2023-chevrolet-malibu-rs-id23156",
+            "https://www.usedcarsbartonmd.com/autos/2012-Chevrolet-Malibu-Barton-MD-5825",
+            "https://www.usedcarsdaytonohio.com/autos/2015-Chevrolet-Malibu-New-Carlisle-OH-11493",
+            "https://www.volocars.com/auto-sales/vehicles/17793/1968-chevrolet-chevelle-malibu",
+            "https://www.volocars.com/auto-sales/vehicles/17847/1967-chevrolet-chevelle-malibu",
+            "https://www.volocars.com/vehicles/17847/1967-chevrolet-chevelle-malibu",
+            "https://www.westernerinns.com/malibu-landscape-light-replacement-parts/",
+            "https://www.yachtworld.com/yacht/2008-malibu-247rx-8601214/",
+            "https://www.yachtworld.com/yacht/2014-malibu-wakesetter-23-lsv-8671741/",
+            "https://www.yachtworld.com/yacht/2016-malibu-wakesetter-24-mxz-8668142/"
+          ]
+        },
+        "source5": {
+          "quantity": 65,
+          "sampleSize": 950989,
+          "urls": [
+            "allevents.in/malibu/june",
+            "boingboing.net/2023/05/24/kanye-wests-4000-square-foot-malibu-mansion-is-crumbling.html",
+            "boingboing-net.cdn.ampproject.org/v/s/boingboing.net/2023/05/24/kanye-wests-4000-square-foot-malibu-mansion-is-crumbling.html/amp",
+            "celebmafia.com/pamela-anderson-street-style-out-in-malibu-october-2014-200316/",
+            "classiccars.com/listings/view/1729065/1964-chevrolet-chevelle-malibu-ss-for-sale-in-williston-florida-32696",
+            "classiccars.com/listings/view/1731308/1971-chevrolet-malibu-for-sale-in-clarkston-michigan-48346",
+            "hdontap.com/index.php/video/stream/malibu-pier-cam",
+            "hdontap.com/index.php/video/stream/malibu-sunset-blvd-surf-cam-live-cam",
+            "hollywoodlife.com/pics/celebrities-wearing-bikinis-photos/emily-ratajkowski-sun-bathes-at-paradise-cove-in-malibu-ca-6",
+            "hollywoodlife.com/pics/celebrities-wearing-bikinis-photos/exclusive-willow-smith-takes-a-dip-with-a-male-companion-in-malibu-web-must-call-for-pricing",
+            "hollywoodlife.com/pics/pregnant-celebrities-bikinis-beach-pics/tori-spelling-and-family-at-the-beach-in-malibu-los-angeles-america-30-may-2011",
+            "news.ohmymag.com/people/actu-people/david-charvet-alerte-a-malibu-au-coeur-dune-enquete-criminelle-apres-avoir-menace-son-ex-compagne_art158075.html",
+            "pagesix.com/2023/05/22/jay-z-beyonce-paid-cash-for-200-million-malibu-estate/",
+            "robbreport.com/shelter/celebrity-homes/beyonce-jayz-200-million-malibu-house-1234846185/",
+            "robbreport.com/shelter/homes-for-sale/gallery/most-expensive-houses-world-sale-now-1234805804/hotw-paradise-cove-malibu-courtyard-fountain/",
+            "soaphub.com/general-hospital/news-gh/general-hospitals-haley-pullos-enters-rehab-clinic-in-malibu/",
+            "swellmagnet.com/surf-cams/malibu-first-point-surf-cam-and-report/",
+            "swellmagnet.com/surf-cams/malibu-overview-surf-cam-and-report/",
+            "www.acouplecooks.com/malibu-drinks-coconut-rum/",
+            "www.apartmenttherapy.com/jason-statham-malibu-house-36670554",
+            "www.billboard.com/lists/best-disney-songs-movies-tv/ill-get-you-what-you-want-a-cockatoo-in-malibu-muppets-most-wanted-2014/",
+            "www.boattrader.com/boat/1996-malibu-response-lx-8274717/",
+            "www.boattrader.com/boat/2007-malibu-wakesetter-lsv-247-8802812/",
+            "www.boattrader.com/boat/2023-malibu-wakesetter-lsv-23-8562135/",
+            "www.boattrader.com/boats/make-malibu/price-1481,57407/",
+            "www.boattrader.com/boats/makemodel-malibu+axis+centurion+nautique/length-22,26/price-0,85000/year-17,2025/condition-used/",
+            "www.chevymalibuforum.com/threads/2011-malibu-starts-then-immediately-stalls.89202/",
+            "www.dailymail.co.uk/news/article-12095663/General-Hospital-star-Haley-Pullos-24-driven-luxury-Malibu-rehab-dad-DUI-crash.html",
+            "www.dailymail.co.uk/tvshowbiz/article-12108389/Beyonce-Jay-Z-keeping-88M-Bel-Air-mansion-despite-just-buying-200M-Malibu-mansion.html",
+            "www.dirt.com/gallery/entertainers/musicians/beyonce-jay-z-spend-200-million-on-californias-most-expensive-house-1203639435/carter-malibu1/",
+            "www.dirt.com/gallery/entertainers/musicians/cher-malibu-house-for-sale-1203625864/cher_mal2023_13/",
+            "www.dirt.com/gallery/entertainers/musicians/skrillex-house-malibu-1203424706/skrillexhouse_mb18/",
+            "www.dirt.com/gallery/entertainers/performers/sandra-lee-house-malibu-1203638943/sandraleehouse_mb6/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb1/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb12/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb13/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb20/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb4/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb5/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb6/",
+            "www.dirt.com/gallery/more-dirt/real-estate-listings/kaizen-house-malibu-1203640131/kaizenhouse_mb8/",
+            "www.fixya.com/cars/t26374849-cooling_fan_switch_located_2005_malibu",
+            "www.foxla.com/news/anthony-rauda-trial-closing-arguments-2018-murder-scientist-tristan-beaudette-malibu-creek-state-park",
+            "www.hemmings.com/classifieds/dealer/chevrolet/malibu/2587194.html",
+            "www.imcdb.org/vehicle_75395-Chevrolet-Chevelle-Malibu-1973.html",
+            "www.jdpower.com/boats/2003/malibu-boats/wakesetter-vlx/10204410/values",
+            "www.latimes.com/california/story/2023-05-19/beyonce-jay-z-malibu-mansion-200-million-record",
+            "www.lipstickalley.com/threads/beyonc%C3%A9-jay-z-drop-200-million-on-malibu-property-set-state-record.5265793/page-5",
+            "www.motorverso.com/chevy-malibu-years-to-avoid/",
+            "www.msn.com/en-us/money/personalfinance/a-50-year-old-mom-claims-she-emptied-her-daughters-college-fund-to-keep-her-malibu-dream-home-%e2%80%94-the-teen-is-furious-5-tips-to-retire-comfortably-without-raiding-your-kids-account/ar-AA1bGyrF",
+            "www.msn.com/en-us/money/personalfinance/a-50-year-old-mom-claims-she-emptied-her-daughter-s-college-fund-to-keep-her-malibu-dream-home-the-teen-is-furious-5-tips-to-retire-comfortably-without-raiding-your-kid-s-account/ar-AA1bGyrF",
+            "www.msn.com/en-us/news/crime/york-co-suspect-who-stole-from-cars-switched-plates-on-stolen-malibu-deputies-say/ar-AA1bGrYu",
+            "www.redfin.com/CA/Malibu/19820-Pacific-Coast-Hwy-90265/home/6852265",
+            "www.redfin.com/CA/Malibu/20644-Pacific-Coast-Hwy-90265/home/6852409",
+            "www.redfin.com/CA/Malibu/23334-Malibu-Colony-Rd-90265/home/6853258",
+            "www.redfin.com/CA/Malibu/23936-Malibu-Rd-90265/home/6854627",
+            "www.redfin.com/CA/Malibu/24186-Case-Ct-90265/home/169936587",
+            "www.redfin.com/CA/Malibu/24834-Pacific-Coast-Hwy-90265/home/26850250",
+            "www.redfin.com/CA/Malibu/31506-Broad-Beach-Rd-90265/home/6858490",
+            "www.redfin.com/CA/Malibu/41800-Pacific-Coast-Hwy-90265/home/4694546",
+            "www.smartmarineguide.com/2013-malibu-boats-for-sale",
+            "www.surfer.com/trending-news/crowded-surfing-chaos-malibu",
+            "www.surfline.com/surf-report/malibu-first-point/584204214e65fad6a7709b9f",
+            "www.surfline.com/surf-report/malibu-third-point/5842041f4e65fad6a7708817",
+            "www.thesimsresource.com/downloads/details/category/sims4/title/malibu-bedroom/id/1489685/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Malibu",
+    "option": "ctx",
+    "form": "malibu",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "malibu",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "pineapple",
+          "mode": "m"
+        },
+        {
+          "keyword": "coconut",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 4,
+          "sampleSize": 460974,
+          "urls": [
+            "https://aspiringwinos.com/cocktails/marvelous-malibu-rum-cocktails/",
+            "https://www.bottledprices.com/rum/malibu/",
+            "https://www.lovetoknow.com/food-drink/cocktails/malibu-rum-drinks",
+            "https://www.organizedisland.com/malibu-rum-punch/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.carnival.com/in-room-food-beverages/liquor/malibu-coconut-rum-521"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.acouplecooks.com/malibu-drinks-coconut-rum/"
+          ]
+        }
+      }
+    }
+  }
+]

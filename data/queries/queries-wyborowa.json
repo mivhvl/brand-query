@@ -1,0 +1,61 @@
+[
+  {
+    "id": "Wyborowa",
+    "option": "base",
+    "form": "wyborowa",
+    "query": {
+      "required": [
+        {
+          "keyword": "wyborowa",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Wyborowa",
+    "option": "ctx",
+    "form": "wyborowa",
+    "query": {
+      "required": [
+        {
+          "keyword": "wyborowa",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "classic",
+          "mode": "m"
+        },
+        {
+          "keyword": "pure",
+          "mode": "m"
+        },
+        {
+          "keyword": "premium",
+          "mode": "m"
+        },
+        {
+          "keyword": "granat",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

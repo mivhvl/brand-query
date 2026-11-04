@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Sobieski",
+    "option": "base",
+    "form": "sobieski",
+    "query": {
+      "required": [
+        {
+          "keyword": "sobieski",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Sobieski",
+    "option": "ctx",
+    "form": "sobieski",
+    "query": {
+      "required": [
+        {
+          "keyword": "sobieski",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "black",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

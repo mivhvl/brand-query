@@ -1,0 +1,345 @@
+[
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "base",
+    "form": "titos-handmade-vodka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "titos-handmade-vodka",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "ctx",
+    "form": "titos-handmade-vodka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "titos-handmade-vodka",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "base",
+    "form": "tito-s-handmade-vodka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "tito-s-handmade-vodka",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "ctx",
+    "form": "tito-s-handmade-vodka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "tito-s-handmade-vodka",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "base",
+    "form": "titos",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "titos",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://juliesfreebies.com/sweepstake/titos-soccer-sweepstakes/",
+            "https://sweepstakesfanatics.com/summer-x-titos-sweepstakes/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 5,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://goodpop.com/titos/",
+            "https://thefreebieguy.com/sweepstakes/titos-cooldown-sweepstakes/",
+            "https://www.hunt4freebies.com/summer-x-titos-sweepstakes-425-winners/",
+            "https://www.hunt4freebies.com/titos-soccer-gear-sweepstakes-500-winners/",
+            "https://www.hunt4freebies.com/you-choose-titos-gives-sweepstakes-401-winners/"
+          ]
+        },
+        "source5": {
+          "quantity": 6,
+          "sampleSize": 950989,
+          "urls": [
+            "blitz.gg/v2.1.37/valorant/match/titos-dn69/2de5423b-4aad-02ad-8d9b-c0a931958861/8c39f647-1bc9-4d59-a3db-5d62cdc0538e",
+            "sot.com.al/gossip/behet-virale-ne-rrjet-ja-cfare-i-ndodhi-kiara-titos-live-me-fustanin-vide-i590725",
+            "sweepstakesfanatics.com/summer-x-titos-sweepstakes/",
+            "sweepstakesfanatics.com/you-choose-titos-gives-sweepstakes/",
+            "thefreebieguy.com/sweepstakes/titos-cooldown-sweepstakes/",
+            "www.neakriti.gr/article/sport/podosfairo/1717428/epsi-o-ploutarhos-o-telikos-sto-panthessaliko-kai-o-fadaros-titos/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "ctx",
+    "form": "titos",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "titos",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://juliesfreebies.com/sweepstake/titos-soccer-sweepstakes/",
+            "https://sweepstakesfanatics.com/summer-x-titos-sweepstakes/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 4,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://thefreebieguy.com/sweepstakes/titos-cooldown-sweepstakes/",
+            "https://www.hunt4freebies.com/summer-x-titos-sweepstakes-425-winners/",
+            "https://www.hunt4freebies.com/titos-soccer-gear-sweepstakes-500-winners/",
+            "https://www.hunt4freebies.com/you-choose-titos-gives-sweepstakes-401-winners/"
+          ]
+        },
+        "source5": {
+          "quantity": 3,
+          "sampleSize": 950989,
+          "urls": [
+            "sweepstakesfanatics.com/summer-x-titos-sweepstakes/",
+            "sweepstakesfanatics.com/you-choose-titos-gives-sweepstakes/",
+            "thefreebieguy.com/sweepstakes/titos-cooldown-sweepstakes/"
+          ]
+        }
+      }
+    }
+  }
+]

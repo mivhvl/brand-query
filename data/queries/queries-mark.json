@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Maker's Mark",
+    "option": "base",
+    "form": "makers-mark",
+    "query": {
+      "required": [
+        {
+          "keyword": "makers-mark",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Maker's Mark",
+    "option": "ctx",
+    "form": "makers-mark",
+    "query": {
+      "required": [
+        {
+          "keyword": "makers-mark",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "cask-strength",
+          "mode": "m"
+        },
+        {
+          "keyword": "46",
+          "mode": "m"
+        },
+        {
+          "keyword": "private-selection",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Maker's Mark",
+    "option": "base",
+    "form": "maker-s-mark",
+    "query": {
+      "required": [
+        {
+          "keyword": "maker-s-mark",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Maker's Mark",
+    "option": "ctx",
+    "form": "maker-s-mark",
+    "query": {
+      "required": [
+        {
+          "keyword": "maker-s-mark",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "cask-strength",
+          "mode": "m"
+        },
+        {
+          "keyword": "46",
+          "mode": "m"
+        },
+        {
+          "keyword": "private-selection",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "Tanqueray",
+    "option": "base",
+    "form": "tanqueray",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "tanqueray",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/tanqueray-london-dry-gin/"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "el.forvo.com/word/tanqueray/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Tanqueray",
+    "option": "ctx",
+    "form": "tanqueray",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "tanqueray",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "no-10",
+          "mode": "m"
+        },
+        {
+          "keyword": "rangpur",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/tanqueray-london-dry-gin/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "Żubrówka",
+    "option": "base",
+    "form": "zubrowka",
+    "query": {
+      "required": [
+        {
+          "keyword": "zubrowka",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Żubrówka",
+    "option": "ctx",
+    "form": "zubrowka",
+    "query": {
+      "required": [
+        {
+          "keyword": "zubrowka",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "bison-grass",
+          "mode": "m"
+        },
+        {
+          "keyword": "czarna",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

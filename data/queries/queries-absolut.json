@@ -1,0 +1,61 @@
+[
+  {
+    "id": "Absolut",
+    "option": "base",
+    "form": "absolut",
+    "query": {
+      "required": [
+        {
+          "keyword": "absolut",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Absolut",
+    "option": "ctx",
+    "form": "absolut",
+    "query": {
+      "required": [
+        {
+          "keyword": "absolut",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "elderflower",
+          "mode": "m"
+        },
+        {
+          "keyword": "peach",
+          "mode": "m"
+        },
+        {
+          "keyword": "vanilla",
+          "mode": "m"
+        },
+        {
+          "keyword": "citron",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

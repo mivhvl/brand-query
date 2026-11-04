@@ -1,0 +1,315 @@
+[
+  {
+    "id": "Appleton Estate",
+    "option": "base",
+    "form": "appleton-estate",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "appleton-estate",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/18/appleton-estate-17-year-old-legend-rum/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Appleton Estate",
+    "option": "ctx",
+    "form": "appleton-estate",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "appleton-estate",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "signature",
+          "mode": "m"
+        },
+        {
+          "keyword": "reserve",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-cask",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/18/appleton-estate-17-year-old-legend-rum/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Appleton Estate",
+    "option": "base",
+    "form": "appleton",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "appleton",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 6,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.autotrader.com/cars-for-sale/new-cars/kia/forte/appleton-wi",
+            "https://www.mapquest.com/directions/from/us/massachusetts/littleton/01460-1545/186-harwood-ave-42.52883,-71.4935/to/us/massachusetts/lowell/01852-2533/230-appleton-st-42.63955,-71.31288",
+            "https://www.msn.com/en-us/travel/tripideas/appleton-tried-to-recreate-the-1940s-rum-used-to-make-the-original-mai-tai/ar-AA1bHAV1",
+            "https://www.postcrescent.com/story/money/companies/buzz/2016/04/05/buzz-bamboo-opens-appleton/82628158/",
+            "https://www.tvtv.us/wi/appleton/54915/luUSA-OTA54915",
+            "https://www.wearegreenbay.com/news/local-news/appleton-man-with-warrants-leads-police-chase-suffers-injuries-after-hitting-with-tree/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 2,
+          "sampleSize": 664385,
+          "urls": [
+            "https://quizlet.com/769557027/head-neck-appleton-lange-flash-cards",
+            "https://www.hellomagazine.com/film/20220524141066/escape-to-the-country-alistair-appleton-husband-rare-photo"
+          ]
+        },
+        "source4": {
+          "quantity": 35,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://123moviestv.net/cast/emma-appleton",
+            "https://allevents.in/appleton/food-trucks",
+            "https://allevents.in/appleton/this-weekend",
+            "https://appletonmfg.com/",
+            "https://appletonmfg.com/events#core-cutters",
+            "https://appletonmfg.com/products",
+            "https://appletonmfg.com/products/core-cutters-a400p-for-plastic",
+            "https://appletonmfg.com/products/sub/core-cutters",
+            "https://appletonmfg.com/products/sub/roll-movers-cart-movers",
+            "https://backpagegals.com/body-rubs_appleton-c50431/2",
+            "https://beveragedynamics.com/2023/05/18/appleton-estate-17-year-old-legend-rum/",
+            "https://healthcare.ascension.org/doctors/wi/appleton",
+            "https://stacker.com/wisconsin/appleton/most-expensive-homes-sale-appleton",
+            "https://www.appleton-theater.com/",
+            "https://www.governmentjobs.com/careers/appletonwi",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/2759242/recreation-programmer",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/3401868/volunteer-coach-youth-baseball-t-ball-softball",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/3871392/seasonal-preschool-instructor-for-appletots-learning-center",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/4018248/hvac-building-inspector",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/4051440/wastewater-plant-operator",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/4051697/parking-enforcement-person",
+            "https://www.governmentjobs.com/careers/appletonwi/jobs/4058088/coordinated-entry-specialist",
+            "https://www.localconditions.com/weather-appleton-wisconsin/54911/traffic.php",
+            "https://www.massagebook.com/Appleton~Massage~PinnacleTherapySolutionsLLC",
+            "https://www.massagebook.com/Appleton~Massage~SunriseTherapyLLC#contact",
+            "https://www.mc-mc.com/Product/appleton-eds2714",
+            "https://www.playgroundequipment.com/appleton/",
+            "https://www.rachaelrayshow.com/video/high-ponytail-hack-for-lots-of-volume-chris-appleton",
+            "https://www.sellyourhomegreenbay.com/homes-for-sale/wi/appleton/54915/815-s-matthias-st/lid-6446b05656bfef1d1fc5642d",
+            "https://www.sherwin-williams.com/store-locator/paint-store/appleton/wi/703114",
+            "https://www.sherwin-williams.com/store-locator/paint-store/appleton/wi/703520",
+            "https://www.thomasnet.com/profile/10025391/appleton-mfg-div-productive-solutions-inc.html",
+            "https://www.yorkpress.co.uk/news/4555519.umay-gelgor-and-thomas-jones-who-married-five-times-including-two-ceremonies-in-turkey-then-two-more-in-appleton-le-moors-and-kirkbymoorside/",
+            "http://www.3409appleton.com/",
+            "http://www.appletonnutrition.com/"
+          ]
+        },
+        "source5": {
+          "quantity": 16,
+          "sampleSize": 950989,
+          "urls": [
+            "allevents.in/appleton/lgbt-pride",
+            "allevents.in/appleton/tou-long-yang-and-creative-results-2023-summer-kickoff/200024572863406",
+            "fox11online.com/news/local/appleton-fox-commons-city-center-plaza-redevelopment-money-vote-downtown-boldt-dark-horse",
+            "fox11online.com/news/local/multiple-fox-valley-institutions-still-hold-native-american-remains-after-repatriation-law-oshkosh-public-museum-lawrence-university-uw-wisconsin-graves-protection-act-nagpra-appleton",
+            "gsalr.com/yard-sale-appleton-wi-37202555.html",
+            "www.carsoup.com/for-sale/Used/Appleton-WI",
+            "www.legacy.com/us/obituaries/local/wisconsin/appleton-area",
+            "www.msn.com/en-us/news/crime/appleton-man-leads-police-on-chase-in-stolen-vehicle-later-crashes-into-tree-dodge-county-sheriff-s-office-says/ar-AA1bEH2w",
+            "www.nbc26.com/appleton/revitalization-of-appletons-city-center-plaza-brings-new-hope-to-downtown",
+            "www.redfin.com/city/35753/WI/Appleton/cheap-homes",
+            "www.redfin.com/MO/Kansas-City/9721-Appleton-Ave-64134/home/93259100",
+            "www.redfin.com/NV/Las-Vegas/6942-Appleton-Dr-89156/home/29372997",
+            "www.redfin.com/RI/Pawtucket/26-Appleton-Ave-02860/home/52014225",
+            "www.redfin.com/WI/Appleton/1919-N-Superior-St-54911/home/57837282",
+            "www.redfin.com/WI/Appleton/314-E-South-River-St-54915/home/89608953",
+            "www.wearegreenbay.com/news/local-news/appleton-police-department-raises-most-money-in-state-during-cop-on-a-rooftop/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Appleton Estate",
+    "option": "ctx",
+    "form": "appleton",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "appleton",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "signature",
+          "mode": "m"
+        },
+        {
+          "keyword": "reserve",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-cask",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/travel/tripideas/appleton-tried-to-recreate-the-1940s-rum-used-to-make-the-original-mai-tai/ar-AA1bHAV1"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/18/appleton-estate-17-year-old-legend-rum/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Tyskie",
+    "option": "base",
+    "form": "tyskie",
+    "query": {
+      "required": [
+        {
+          "keyword": "tyskie",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Tyskie",
+    "option": "ctx",
+    "form": "tyskie",
+    "query": {
+      "required": [
+        {
+          "keyword": "tyskie",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "gronie",
+          "mode": "m"
+        },
+        {
+          "keyword": "pils",
+          "mode": "m"
+        },
+        {
+          "keyword": "export",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

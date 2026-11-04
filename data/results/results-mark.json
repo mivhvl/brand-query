@@ -1,0 +1,264 @@
+[
+  {
+    "id": "Maker's Mark",
+    "option": "base",
+    "form": "makers-mark",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "makers-mark",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.breakingbourbon.com/review/makers-mark-wood-finishing-series-2023-limited-release-bep"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "http://bourbonr.com/blog/makers-mark-mash-bill-breakdown/",
+            "https://whiskyoftheweek.co.uk/makers-mark-vs-makers-46/",
+            "https://whitmanstrategies.com/our-work/makers-mark-returning-to-double-digit-growth/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Maker's Mark",
+    "option": "ctx",
+    "form": "makers-mark",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "makers-mark",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "cask-strength",
+          "mode": "m"
+        },
+        {
+          "keyword": "46",
+          "mode": "m"
+        },
+        {
+          "keyword": "private-selection",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://whiskyoftheweek.co.uk/makers-mark-vs-makers-46/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Maker's Mark",
+    "option": "base",
+    "form": "maker-s-mark",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "maker-s-mark",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.danmurphys.com.au/product/DM_49750/maker-s-mark-kentucky-straight-bourbon-whisky-700ml"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Maker's Mark",
+    "option": "ctx",
+    "form": "maker-s-mark",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "maker-s-mark",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "cask-strength",
+          "mode": "m"
+        },
+        {
+          "keyword": "46",
+          "mode": "m"
+        },
+        {
+          "keyword": "private-selection",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.danmurphys.com.au/product/DM_49750/maker-s-mark-kentucky-straight-bourbon-whisky-700ml"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

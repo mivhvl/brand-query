@@ -1,0 +1,147 @@
+[
+  {
+    "id": "Wild Turkey",
+    "option": "base",
+    "form": "wild-turkey",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "wild-turkey",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.thewhiskeyshelf.com/wild-turkey-13-year-distillers-reserve-review/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://oodmag.com/potential-record-wild-turkey-harvested-near-fenelon-falls/#:~:text=The turkey topped the scale,Guess in Lyon County%2C Kentucky.",
+            "https://thejigsawpuzzles.com/Animals/Wild-Turkey-jigsaw-puzzle",
+            "https://www.whitetailsunlimited.com/media/articles/the-food-plot-doctor-chufa-for-wild-turkey/"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "thebourbonculture.com/whiskey-reviews/wild-turkey-rare-breed-w-t-01-99-2001/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Wild Turkey",
+    "option": "ctx",
+    "form": "wild-turkey",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "wild-turkey",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "101",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-breed",
+          "mode": "m"
+        },
+        {
+          "keyword": "kentucky-spirit",
+          "mode": "m"
+        },
+        {
+          "keyword": "american-honey",
+          "mode": "m"
+        },
+        {
+          "keyword": "distillers-reserve",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.thewhiskeyshelf.com/wild-turkey-13-year-distillers-reserve-review/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "thebourbonculture.com/whiskey-reviews/wild-turkey-rare-breed-w-t-01-99-2001/"
+          ]
+        }
+      }
+    }
+  }
+]

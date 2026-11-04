@@ -1,0 +1,271 @@
+[
+  {
+    "id": "Warka",
+    "option": "base",
+    "form": "warka",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "warka",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 6,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.hindustantimes.com/cities/gurugram-news/gurugrams-central-peripheral-road-cpr-opened-for-traffic-nhai-officials-to-discuss-loop-connecting-dwarka-expressway-with-nh8-101684953813528.html",
+            "https://www.hindustantimes.com/india-news/dwarka-expressway-indias-first-access-controlled-8-lane-expressway-nitin-gadkari-101684486237826.html",
+            "https://www.newarkadvocate.com/",
+            "https://www.newarkadvocate.com/life-events",
+            "https://www.newarkadvocate.com/news/",
+            "https://www.newarkadvocate.com/story/sports/high-school/2023/05/24/live-updates-from-licking-county-baseball-softball-ohsaa-games/70249688007/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 47,
+          "sampleSize": 664385,
+          "urls": [
+            "http://chomikuj-wyszukiwarka.eu",
+            "http://chomikuj-wyszukiwarka.eu/",
+            "http://chomikuj-wyszukiwarka.eu/szukaj.html",
+            "http://newarkadvertisergroup.1xl.co.uk/newarkadvertiser.co.uk",
+            "https://genialne.pl/zmywarka-ma-wiecej-zastosowan-niz-myslisz-oto-jej-dodatkowe-funkcje",
+            "https://m.meteo.pl/warka/60",
+            "https://m.olx.pl/chelmno/q-Zmywarka-45/",
+            "https://m.olx.pl/d/oferta/ladowarka-weidemann-120-CID757-IDUvoTM.html",
+            "https://m.olx.pl/d/oferta/merlo-32-6-top-2m-szer-ladowarka-teleskopowa-manitou-627-523-jcb-526-CID757-IDRL9ij.html",
+            "https://m.olx.pl/motoryzacja/bilgoraj/q-%C5%82adowarka-ko%C5%82owa",
+            "https://m.olx.pl/motoryzacja/budowlane/koparko-ladowarki/q-koparko-%C5%82adowarka/",
+            "https://m.olx.pl/motoryzacja/q-%C5%82adowarka-hsw-%C5%8234",
+            "https://m.olx.pl/motoryzacja/q-%C5%82adowarka-hsw-%C5%8234/",
+            "https://m.olx.pl/motoryzacja/q-koparko-%C5%82adowarka/",
+            "https://m.olx.pl/rolnictwo/maszyny-rolnicze/q-mini-%C5%82adowarka",
+            "https://m.olx.pl/rolnictwo/maszyny-rolnicze/q-mini-%C5%82adowarka/",
+            "https://m.olx.pl/rolnictwo/q-%C5%82adowarka-merlo-32.6/#832979963",
+            "https://m.wirtualnemedia.pl/m/artykul/tvp-netia-giganagrywarka-koniec-emisji",
+            "https://open.fm/wyszukiwarka",
+            "https://pogoda.interia.pl/prognoza-dlugoterminowa-warka,cId,36896",
+            "https://upflix.pl/wyszukiwarka",
+            "https://www.asianetnews.com/auto-blog/central-govt-plans-to-complete-dwarka-elevated-urban-expressway-before-diwali-prn-rv3sge",
+            "https://www.fronda.pl/a/Kuchnia-z-dziecinstwa-kluski-kladzione-ze-skwarkami-5,215577.html",
+            "https://www.komputerswiat.pl/aktualnosci/sprzet/ta-ladowarka-to-prawdziwy-skarb-jej-niezwykla-funkcja-przyda-sie-w-niespodziewanym/bx1yc5f",
+            "https://www.komputerswiat.pl/artykuly/redakcyjne/ladowarka-czy-nalezy-wyjmowac-ja-z-gniazdka-rozwiewamy-watpliwosci/t7g6fvp",
+            "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taki-b%C5%82%C4%85d-przy-korzystaniu-ze-zmywarki-mo%C5%BCe-sporo-kosztowa%C4%87-przez-to-zmywarka-zu%C5%BCywa-wi%C4%99cej-pr%C4%85du-i-wody/ar-AA1bzUrO",
+            "https://www.newarkadvertiser.co.uk/",
+            "https://www.newarkadvertiser.co.uk/news/family-tributes-to-characterful-teen-who-died-in-van-crash-9313876/",
+            "https://www.newarkadvertiser.co.uk/news/life-of-the-late-george-sims-19-to-be-celebrated-with-larg-9314152/",
+            "https://www.newarkadvertiser.co.uk/news/national-strikes-to-affect-train-services-9313961",
+            "https://www.newarkadvertiser.co.uk/news/new-leader-of-council-appointed-9314029/",
+            "https://www.newarkadvertiser.co.uk/news/new-supermarket-opening-its-doors-9314153/",
+            "https://www.newarkadvertiser.co.uk/news/plans-for-new-homes-on-site-of-former-post-office-9314117/",
+            "https://www.newarkadvertiser.co.uk/news/tree-works-paused-to-protect-wildife-9313956/",
+            "https://www.newarkadvertiser.co.uk/news/update-on-plans-for-new-helipad-on-hospital-site-9314067/",
+            "https://www.newarkadvertiser.co.uk/sport/",
+            "https://www.olx.pl/d/oferta/jcb-525-60-agri-plus-rok-2016-ladowarka-teleskopowa-CID5-IDMW0Lo.html",
+            "https://www.olx.pl/d/oferta/koparko-ladowarka-jcb-3cx-sitemaster-CID5-IDUFnXv.html",
+            "https://www.olx.pl/d/oferta/ladowarka-teleskopowa-jcb-tm320-agri-2014r-lyzka-CID757-IDUCYGF.html",
+            "https://www.olx.pl/d/oferta/spawarka-besterka-CID628-IDTb0BB.html",
+            "https://www.olx.pl/d/oferta/uslugi-koparko-ladowarka-CID4371-IDU6WZB.html",
+            "https://www.olx.pl/elektronika/sprzet-agd/q-zmywarka-45-cm-do-zabudowy/",
+            "https://www.olx.pl/rolnictwo/maszyny-rolnicze/q-%C5%82adowarka-przegubowa/",
+            "https://www.olx.pl/warka/",
+            "https://www.otomoto.pl/maszyny-budowlane/sprzedaz/od-2021/q-koparko-%C5%82adowarka",
+            "https://www.otomoto.pl/maszyny-rolnicze/oferta/bobcat-thomas-t233-hd-miniladowarka-silnik-kubota-6-cylindrow-64-km-ladowarka-oryginal-ID6FvzMg.html",
+            "https://www.telepolis.pl/artykuly/ap/ladowarka-szybka-power-delivery-ibox-konkurs"
+          ]
+        },
+        "source4": {
+          "quantity": 81,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://jakarta.akurat.co/7-hotel-dekat-sirkuit-formula-e-ini-tawarkan-harga-khusus-untuk-penonton-jakarta-e-prix-2023/",
+            "https://jakarta.akurat.co/pemkot-jakut-tawarkan-tempat-tinggal-sementara-bagi-warga-kampung-bayam/",
+            "https://politik.rmol.id/read/2023/05/24/575379/partai-buruh-tawarkan-alternatif-sistem-pemilu-terbuka-tanpa-suara-terbanyak",
+            "https://www.dwarkaonline.in/city-guide/ahir-community-in-dwarka",
+            "https://www.newarkadvertiser.co.uk/",
+            "https://www.newarkadvertiser.co.uk/categories/human-interest/4/",
+            "https://www.newarkadvertiser.co.uk/categories/obituaries/4/",
+            "https://www.newarkadvertiser.co.uk/categories/opinion/",
+            "https://www.newarkadvertiser.co.uk/news/",
+            "https://www.newarkadvertiser.co.uk/news/a-display-of-creativity-9314151/",
+            "https://www.newarkadvertiser.co.uk/news/archive/2/",
+            "https://www.newarkadvertiser.co.uk/news/bank-announces-town-centre-closure-9313655/",
+            "https://www.newarkadvertiser.co.uk/news/beer-festival-returns-to-town-in-scenic-setting-9313451/",
+            "https://www.newarkadvertiser.co.uk/news/bereaved-families-call-for-change-to-maternity-review-after-9314202/",
+            "https://www.newarkadvertiser.co.uk/news/call-for-18m-investment-in-nottingham-lincoln-rail-line-thr-9314258/",
+            "https://www.newarkadvertiser.co.uk/news/car-crash-at-major-junction-9311479/",
+            "https://www.newarkadvertiser.co.uk/news/charity-welcomes-extra-support-to-its-team-9314077/",
+            "https://www.newarkadvertiser.co.uk/news/condolences-offered-after-death-of-teen-9313515/",
+            "https://www.newarkadvertiser.co.uk/news/convicted-of-driving-without-due-care-and-attention-9313786/",
+            "https://www.newarkadvertiser.co.uk/news/crash-causing-delays-at-roundabout-9313928/",
+            "https://www.newarkadvertiser.co.uk/news/crime/",
+            "https://www.newarkadvertiser.co.uk/news/dangerous-driver-jailed-for-more-than-a-year-9314291/",
+            "https://www.newarkadvertiser.co.uk/news/driver-dies-following-a-single-vehicle-collision-9313449/",
+            "https://www.newarkadvertiser.co.uk/news/energy-firm-to-explore-options-for-new-solar-farm-9314252/",
+            "https://www.newarkadvertiser.co.uk/news/enforcement-welcomed-9314196/",
+            "https://www.newarkadvertiser.co.uk/news/family-tributes-to-characterful-teen-who-died-in-van-crash-9313876/",
+            "https://www.newarkadvertiser.co.uk/news/festival-full-of-flavour-9312974/",
+            "https://www.newarkadvertiser.co.uk/news/fire-risk-warning-for-improper-use-and-disposal-of-vapes-9300365/",
+            "https://www.newarkadvertiser.co.uk/news/first-cabinet-meeting-postponed-9314360/",
+            "https://www.newarkadvertiser.co.uk/news/flooding-latest-river-levels-set-to-fall-9089014/",
+            "https://www.newarkadvertiser.co.uk/news/fly-tippers-targeted-as-police-clamp-down-on-rural-criminals-9314079/",
+            "https://www.newarkadvertiser.co.uk/news/gillie-goes-through-in-great-british-sewing-bee-thanks-to-c-9314407/",
+            "https://www.newarkadvertiser.co.uk/news/heart-attack-victim-thanks-the-paramedic-who-9019722/",
+            "https://www.newarkadvertiser.co.uk/news/historic-season-adds-to-memories-9313726/",
+            "https://www.newarkadvertiser.co.uk/news/housebuilder-helps-schoolchidren-be-better-gardeners-9314428/",
+            "https://www.newarkadvertiser.co.uk/news/hundreds-of-pounds-worth-of-alcohol-stolen-from-supermarket-9305657/",
+            "https://www.newarkadvertiser.co.uk/news/investment-to-benefit-bar-9313503/",
+            "https://www.newarkadvertiser.co.uk/news/keeping-wheels-turning-for-rural-bus-service-9313516/",
+            "https://www.newarkadvertiser.co.uk/news/kitten-rescued-by-fire-crews-9314100/",
+            "https://www.newarkadvertiser.co.uk/news/life-of-the-late-george-sims-19-to-be-celebrated-with-larg-9314152/",
+            "https://www.newarkadvertiser.co.uk/news/man-arrested-after-instance-of-grievous-bodily-harm-in-newark-9107687/",
+            "https://www.newarkadvertiser.co.uk/news/man-arrested-in-woodland-hideout-9314282/",
+            "https://www.newarkadvertiser.co.uk/news/man-in-court-after-police-respond-to-knife-reports-9313973/",
+            "https://www.newarkadvertiser.co.uk/news/memories-stirred-9313313/",
+            "https://www.newarkadvertiser.co.uk/news/mp-seeks-clarificaiton-following-bank-closure-annoucement-9314177/",
+            "https://www.newarkadvertiser.co.uk/news/national-strikes-to-affect-train-services-9313961/",
+            "https://www.newarkadvertiser.co.uk/news/new-and-unique-tropical-exhibit-opens-at-farm-9313596/",
+            "https://www.newarkadvertiser.co.uk/news/newark/",
+            "https://www.newarkadvertiser.co.uk/news/newark-man-admits-possessing-drug-9008968/",
+            "https://www.newarkadvertiser.co.uk/news/new-supermarket-opening-its-doors-9314153/",
+            "https://www.newarkadvertiser.co.uk/news/new-workout-experience-on-offer-9314433/",
+            "https://www.newarkadvertiser.co.uk/news/no-end-date-in-site-as-sinkhole-repairs-continue-9313906/",
+            "https://www.newarkadvertiser.co.uk/news/ofgem-s-price-cap-is-changing-but-what-does-it-mean-for-ener-9314404/",
+            "https://www.newarkadvertiser.co.uk/news/payback-time-for-ebay-fraudster-9018711/",
+            "https://www.newarkadvertiser.co.uk/news/plastic-surgeon-s-attempted-murder-trial-further-delayed-9312229/",
+            "https://www.newarkadvertiser.co.uk/news/police-interceptors-star-to-offer-inspiration-to-guests-at-n-9256100/",
+            "https://www.newarkadvertiser.co.uk/news/politics/",
+            "https://www.newarkadvertiser.co.uk/news/professor-to-speak-at-women-s-institute-9314423/",
+            "https://www.newarkadvertiser.co.uk/news/proud-of-town-9314194/",
+            "https://www.newarkadvertiser.co.uk/news/public-urged-to-report-sightings-of-caterpillar-that-must-no-9312339/",
+            "https://www.newarkadvertiser.co.uk/news/restoring-of-nature-involves-everyone-9287490/",
+            "https://www.newarkadvertiser.co.uk/news/salon-takes-top-place-in-competition-9313819/",
+            "https://www.newarkadvertiser.co.uk/news/station-not-suitable-for-use-9313723/",
+            "https://www.newarkadvertiser.co.uk/news/steampunks-to-take-over-town-for-festival-9313499/",
+            "https://www.newarkadvertiser.co.uk/news/the-vintage-americana-seller-and-film-prop-supplier-just-up-9195808/",
+            "https://www.newarkadvertiser.co.uk/news/traffic-and-travel/",
+            "https://www.newarkadvertiser.co.uk/news/triple-arrest-on-suspicion-of-drug-dealing-9314389/",
+            "https://www.newarkadvertiser.co.uk/news/what-does-netflixs-password-crackdown-mean-for-your-account-9314122/",
+            "https://www.newarkadvertiser.co.uk/news/youth-club-funding-secured-for-young-residents-in-area-of-ne-9233669/",
+            "https://www.newarkadvertiser.co.uk/search/",
+            "https://www.newarkadvertiser.co.uk/sport/club-gathers-for-boat-naming-ceremony-9314408/",
+            "https://www.newarkadvertiser.co.uk/sport/japanese-tv-comes-to-town-to-document-fighter-s-journey-9314159/",
+            "https://www.newarkadvertiser.co.uk/sport/stannard-aims-to-be-last-man-standing-9314199/",
+            "https://www.newarkadvertiser.co.uk/sport/young-newarkers-become-national-champions-9313853/",
+            "https://www.newarkadvertiser.co.uk/whats-on/a-revolutionary-look-at-power-9314098/",
+            "https://www.newarkadvertiser.co.uk/whats-on/eighties-extravaganza-for-concert-in-the-castle-9314198/",
+            "https://www.newarkadvertiser.co.uk/whats-on/jam-packed-four-days-of-music-promised-for-festival-9313484/",
+            "https://www.newarkadvertiser.co.uk/whats-on/start-of-summer-for-duo-9313616/",
+            "https://www.newarkadvocate.com/",
+            "https://www.sepatahdua.my/2021/12/08/leret-hill-homestay-tawarkan-pakej-penginapan-menyeronokkan-ada-jacuzi-sauna-dan-kolam-renang/",
+            "https://www.southeastasiapost.com/news/273042583/nhrc-issues-notice-to-delhi-govt-over-uzbek-women-going-missing-from-dwarka-shelter-home"
+          ]
+        },
+        "source5": {
+          "quantity": 6,
+          "sampleSize": 950989,
+          "urls": [
+            "niezalezna.pl/wyszukiwarka",
+            "www.olx.pl/d/oferta/ladowarka-teleskopowa-jcb-527-58mechaniczna-perkins-4x4-manitou-cat-CID757-IDUIhwB.html",
+            "www.olx.pl/d/oferta/mini-ladowarka-nex-n40-silnik-honda-miniladowarka-CID5-IDLFGPe.html",
+            "www.olx.pl/d/oferta/uslugi-koparko-ladowarka-wywrotka-kruszywa-zuzel-grys-szlaka-koparka-CID4371-IDFlgWF.html",
+            "www.olx.pl/nieruchomosci/warka/",
+            "www.olx.pl/rzeszow/q-mini%C5%82adowarka/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Warka",
+    "option": "ctx",
+    "form": "warka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "warka",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "strong",
+          "mode": "c"
+        },
+        {
+          "keyword": "radler",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 2
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

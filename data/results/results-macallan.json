@@ -1,0 +1,139 @@
+[
+  {
+    "id": "The Macallan",
+    "option": "base",
+    "form": "the-macallan",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "the-macallan",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.nationwideliquor.com/133202/the-macallan-lumina-highland-single-malt-scotch-whisky",
+            "https://www.nicks.com.au/products/the-macallan-double-cask-12-year-old-single-malt-scotch-whisky-700ml",
+            "https://www.vancouverstar.com/news/273842943/the-macallan-unveils-the-reach-single-malt-whisky"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "The Macallan",
+    "option": "ctx",
+    "form": "the-macallan",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "the-macallan",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "sherry-oak",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-cask",
+          "mode": "m"
+        },
+        {
+          "keyword": "fine-oak",
+          "mode": "m"
+        },
+        {
+          "keyword": "triple-cask",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.nationwideliquor.com/133202/the-macallan-lumina-highland-single-malt-scotch-whisky",
+            "https://www.nicks.com.au/products/the-macallan-double-cask-12-year-old-single-malt-scotch-whisky-700ml",
+            "https://www.vancouverstar.com/news/273842943/the-macallan-unveils-the-reach-single-malt-whisky"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

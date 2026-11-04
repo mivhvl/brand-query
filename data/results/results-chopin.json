@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Chopin",
+    "option": "base",
+    "form": "chopin",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "chopin",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 3,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.britannica.com/biography/Frederic-Chopin",
+            "https://www.conversordeletras.com/fonts/ChopinScript/",
+            "https://www.mumsnet.com/talk/relationships/4671913-where-is-chopinandchampagne-lb-update"
+          ]
+        },
+        "source2": {
+          "quantity": 6,
+          "sampleSize": 10640,
+          "urls": [
+            "https://muzeum.nifc.pl/en/muzeum/kolekcja-artykul/1027_chopins-birthplace",
+            "https://muzeum.nifc.pl/pl/muzeum/kolekcja-artykul/1027_dom-urodzenia-fryderyka-chopina",
+            "https://muzeum.nifc.pl/pl/muzeum/koncerty/29_sobotnie-recitale-chopinowskie-w-zelazowej-woli",
+            "https://muzeum.nifc.pl/pl/muzeum/koncerty/30_niedzielne-recitale-chopinowskie-w-zelazowej-woli",
+            "https://muzeum.nifc.pl/pl/muzeum/wizyta-informacje-miejsce/2_dom-urodzenia-fryderyka-chopina-i-park-w-zelazowej-woli",
+            "https://muzeum.nifc.pl/pl/muzeum/wizyta-informacje-miejsce/2_the-birthplace-of-fryderyk-chopin-and-park-in-zelazowa-wola/"
+          ]
+        },
+        "source3": {
+          "quantity": 19,
+          "sampleSize": 664385,
+          "urls": [
+            "https://i.pl/na-lotnisku-chopina-w-warszawie-wyrobisz-teraz-paszport-w-15-minut-kto-moze-skorzystac-z-tej-opcji/ar/c7-17476915",
+            "https://podroze.onet.pl/aktualnosci/lapanie-taksowek-na-lotnisku-chopina-to-sztuka-niewydolny-system/pm9kmg5",
+            "https://podroze.wprost.pl/11231269/kuriozalna-sytuacja-na-lotnisku-chopina-sluzby-zabraly-dziecku-zabawke.html",
+            "https://podroze.wprost.pl/11233021/niecodzienny-widok-na-lotnisku-chopina-wbiegl-na-plyte-lotniska-bo-chcial-wrocic-po-zgube.html",
+            "https://turysci.pl/horror-na-lotnisku-chopina-bez-komentarza-bo-bylaby-wiazanka-brzydkich-slow-kz-kz-230523",
+            "https://turystyka.wp.pl/wbiegl-na-plyte-lotniska-chopina-zlamal-wszelkie-procedury-bezpieczenstwa-6901383641123744a",
+            "https://tvn24.pl/tvnwarszawa/najnowsze/lotnisko-chopina-w-warszawie-zarekwirowali-dziecku-pistolet-na-wode-tlumacza-to-przepisami-7141232",
+            "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-dron-minal-samolot-na-lotnisku-chopina-policja-przyjela-zawiadomienie-7126436",
+            "https://wiadomosci.radiozet.pl/polska/Warszawa/afera-na-lotnisku-chopina-internet-zawrzal-po-interwencji-wobec-4-latka",
+            "https://www.classicfm.com/composers/chopin/martina-meola-airport-piano/",
+            "https://www.fly4free.pl/20-letni-brytyjczyk-wbiegl-na-plyte-lotniska-chopina-tlumaczyl-sie-zezostawil-w-samolocie-paszport/",
+            "https://www.fly4free.pl/lotnisko-chopina-zabrali-dziecku-pistolet-zabawke-kontrola/",
+            "https://www.funda.nl/koop/verkocht/tilburg/huis-42069606-chopinstraat-21/",
+            "https://www.onet.pl/styl-zycia/onetkobieta/mateusz-morawiecki-zabral-rodzine-do-lazienek-przyszli-na-koncert-chopinowski/0ht0cbp,2b83378a",
+            "https://www.onet.pl/turystyka/onetpodroze/lapanie-taksowek-na-lotnisku-chopina-to-sztuka-niewydolny-system/pm9kmg5,07640b54",
+            "https://www.polsatnews.pl/wiadomosc/2023-05-23/glosno-o-lotnisku-chopina-sluzby-zarekwirowaly-dziecku-zabawke/",
+            "https://www.songtexte.com/uebersetzung/gazebo/i-like-chopin-deutsch-3d69567.html",
+            "https://wydarzenia.interia.pl/mazowieckie/news-dinozaur-zakazany-w-samolocie-lotnisko-chopina-odpowiada-rod,nId,6797816",
+            "https://wydarzenia.interia.pl/mazowieckie/news-dinozaur-zakazany-w-samolocie-lotnisko-chopina-odpowiada-rod,nId,6797816#parametr=zobacz_takze"
+          ]
+        },
+        "source4": {
+          "quantity": 6,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://nog.nogomi.ru/song/%E9%83%8E%E6%9C%97-%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F-%E8%90%A7%E9%82%A6%E5%8D%8E%E4%B8%BD%E5%A4%A7%E5%9C%86%E8%88%9E%E6%9B%B2-chopin-grande-valse-brillante-op-18-no-1.html",
+            "https://online-ucpress-edu.proxy.library.ucsb.edu/res/article/3/4/344/195041/Henri-ChopinFrom-the-Paper-Civilization-to-the",
+            "https://tmms.co.uk/frederic-chopin-a-great-master-of-romantic-music-1810-1849/",
+            "https://www.musicaviva.com.au/concert-season/past-seasons/concerts-2021/chopin-s-piano-with-aura-go/",
+            "https://www.rockol.it/news-490759/andrea-casta-rivisita-i-like-chopin-di-gazebo-per-i-trent-anni-del-brano",
+            "https://www.sucessofm1001.com.br/site2/noticias/lojas-sao-arrombadas-no-centro-de-chopinzinho"
+          ]
+        },
+        "source5": {
+          "quantity": 6,
+          "sampleSize": 950989,
+          "urls": [
+            "ciekawostkihistoryczne.pl/2019/05/16/sercem-polak-a-pochodzeniem-na-ile-fryderyk-chopin-faktycznie-byl-polakiem/",
+            "natemat.pl/489287,na-lotnisku-chopina-zarekwirowano-dziecku-pistolet-na-wode-ojciec-oburzony",
+            "tvmalbork.pl/kamery/41,malbork-kamera-aleja-wojska-polskiego-ul-chopina-n",
+            "tvn24.pl/tvnwarszawa/najnowsze/lotnisko-chopina-w-warszawie-zarekwirowali-dziecku-pistolet-na-wode-tlumacza-to-przepisami-7141232",
+            "wiadomosci.radiozet.pl/polska/Warszawa/afera-na-lotnisku-chopina-internet-zawrzal-po-interwencji-wobec-4-latka",
+            "www.jetpunk.com/user-quizzes/1334944/warsaw-chopin-waw-airport-destinations"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Chopin",
+    "option": "ctx",
+    "form": "chopin",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "chopin",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "rye",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

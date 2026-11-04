@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Havana Club",
+    "option": "base",
+    "form": "havana-club",
+    "query": {
+      "required": [
+        {
+          "keyword": "havana-club",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Havana Club",
+    "option": "ctx",
+    "form": "havana-club",
+    "query": {
+      "required": [
+        {
+          "keyword": "havana-club",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "3-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "5-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "7-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-anos",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

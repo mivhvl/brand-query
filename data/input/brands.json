@@ -1,0 +1,744 @@
+[
+ {
+  "name": "Budweiser",
+  "category": "beer",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Bud"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also a Czech city name",
+  "context": [
+   "select",
+   "copper",
+   "zero",
+   "bud-light"
+  ]
+ },
+ {
+  "name": "Coors",
+  "category": "beer",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "stadium in Colorado",
+  "context": [
+   "light",
+   "banquet",
+   "extra-gold"
+  ]
+ },
+ {
+  "name": "Guinness",
+  "category": "beer",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "surname and famous reference book",
+  "context": [
+   "draught",
+   "extra-stout",
+   "foreign-extra-stout"
+  ]
+ },
+ {
+  "name": "Lech",
+  "category": "beer",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a common Polish male name",
+  "context": [
+   "pils",
+   "free",
+   "premium"
+  ]
+ },
+ {
+  "name": "Miller",
+  "category": "beer",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "common surname",
+  "context": [
+   "lite",
+   "high-life"
+  ]
+ },
+ {
+  "name": "Samuel Adams",
+  "category": "beer",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Sam Adams"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also name of a US founding father",
+  "context": [
+   "boston-lager",
+   "octoberfest",
+   "summer-ale",
+   "amber-ale"
+  ]
+ },
+ {
+  "name": "Tyskie",
+  "category": "beer",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "gronie",
+   "pils",
+   "export"
+  ]
+ },
+ {
+  "name": "Warka",
+  "category": "beer",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also name of a Polish town",
+  "context": [
+   "strong",
+   "radler"
+  ]
+ },
+ {
+  "name": "Żubr",
+  "category": "beer",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also name of the European bison",
+  "context": [
+   "classic",
+   "strong",
+   "bison"
+  ]
+ },
+ {
+  "name": "Żywiec",
+  "category": "beer",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also name of a Polish town",
+  "context": [
+   "porter",
+   "biale"
+  ]
+ },
+ {
+  "name": "Aviation American Gin",
+  "category": "gin",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+  "Aviation American"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also a term for flight",
+  "context": []
+ },
+ {
+  "name": "Beefeater",
+  "category": "gin",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "london-dry"
+  ]
+ },
+ {
+  "name": "Bombay Sapphire",
+  "category": "gin",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "shares name with Indian city",
+  "context": [
+   "east"
+  ]
+ },
+ {
+  "name": "Gordon's",
+  "category": "gin",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "common surname and place name",
+  "context": [
+   "london-dry"
+  ]
+ },
+ {
+  "name": "Hendrick's",
+  "category": "gin",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "common male name",
+  "context": [
+   "cucumber"
+  ]
+ },
+ {
+  "name": "Monkey 47",
+  "category": "gin",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "forest-dry",
+   "elderflower"
+  ]
+ },
+ {
+  "name": "New Amsterdam",
+  "category": "gin",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also the historic name of New York City",
+  "context": [
+   "original",
+   "peach"
+  ]
+ },
+ {
+  "name": "Roku",
+  "category": "gin",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a streaming platform brand",
+  "context": []
+ },
+ {
+  "name": "Tanqueray",
+  "category": "gin",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a surname and appears in literature",
+  "context": [
+   "london-dry",
+   "no-10",
+   "rangpur"
+  ]
+ },
+ {
+  "name": "The Botanist",
+  "category": "gin",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a term for a plant expert",
+  "context": []
+ },
+ {
+  "name": "Appleton Estate",
+  "category": "rum",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Appleton"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also the name of a rum-producing estate",
+  "context": [
+   "signature",
+   "reserve",
+   "rare-cask"
+  ]
+ },
+ {
+  "name": "Bacardi",
+  "category": "rum",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a family name and company",
+  "context": [
+   "superior",
+   "oakheart",
+   "spiced",
+   "151"
+  ]
+ },
+ {
+  "name": "Captain Morgan",
+  "category": "rum",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [
+   "Captain"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also the name of a historic privateer",
+  "context": [
+   "original-spiced"
+  ]
+ },
+ {
+  "name": "Diplomatico",
+  "category": "rum",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "reserva-exclusiva",
+   "mantuano",
+   "planas",
+   "xo"
+  ]
+ },
+ {
+  "name": "Don Q",
+  "category": "rum",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "gold",
+   "cristal"
+  ]
+ },
+ {
+  "name": "Havana Club",
+  "category": "rum",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also refers to a type of club or venue in Havana",
+  "context": [
+   "3-anos",
+   "5-anos",
+   "7-anos",
+   "15-anos"
+  ]
+ },
+ {
+  "name": "Kraken Rum",
+  "category": "rum",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "shares name with mythological sea monster",
+  "context": [
+   "black-spiced"
+  ]
+ },
+ {
+  "name": "Malibu",
+  "category": "rum",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a coastal city in California",
+  "context": [
+   "pineapple",
+   "coconut"
+  ]
+ },
+ {
+  "name": "Mount Gay",
+  "category": "rum",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a location in Barbados",
+  "context": [
+   "extra-aged",
+   "black-barrel",
+   "spiced"
+  ]
+ },
+ {
+  "name": "Ron Zacapa",
+  "category": "rum",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [
+   "Zacapa"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "Zacapa is also a city in Guatemala",
+  "context": [
+   "no-23",
+   "edicion-negra",
+   "xo"
+  ]
+ },
+ {
+  "name": "Absolut",
+  "category": "vodka",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a common German word meaning 'absolute/absolutely'",
+  "context": [
+   "elderflower",
+   "peach",
+   "vanilla",
+   "citron"
+  ]
+ },
+ {
+  "name": "Belvedere",
+  "category": "vodka",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a place name and used for other products",
+  "context": [
+   "premium"
+  ]
+ },
+ {
+  "name": "Chopin",
+  "category": "vodka",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also the name of a famous composer",
+  "context": [
+   "rye"
+  ]
+ },
+ {
+  "name": "Grey Goose",
+  "category": "vodka",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a species of goose",
+  "context": [
+   "le-citron"
+  ]
+ },
+ {
+  "name": "Skyy",
+  "category": "vodka",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": []
+ },
+ {
+  "name": "Smirnoff",
+  "category": "vodka",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a Russian surname",
+  "context": [
+   "vanilla",
+   "raspberry",
+   "green-apple",
+   "berry",
+   "ice",
+   "malt"
+  ]
+ },
+ {
+  "name": "Sobieski",
+  "category": "vodka",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also the surname of a historic Polish king",
+  "context": [
+   "black"
+  ]
+ },
+ {
+  "name": "Tito's Handmade Vodka",
+  "category": "vodka",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Titos"
+  ],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "sweepstakes"
+  ]
+ },
+ {
+  "name": "Wyborowa",
+  "category": "vodka",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a common adjective meaning 'choice' in Polish",
+  "context": [
+   "classic",
+   "pure",
+   "premium",
+   "granat"
+  ]
+ },
+ {
+  "name": "Żubrówka",
+  "category": "vodka",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "bison-grass",
+   "czarna"
+  ]
+ },
+ {
+  "name": "Ballantine's",
+  "category": "whisky",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a surname",
+  "context": [
+   "finest",
+   "30-year-old",
+   "12-year-old"
+  ]
+ },
+ {
+  "name": "Chivas Regal",
+  "category": "whisky",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Chivas"
+  ],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "12-year",
+   "15-year",
+   "18-year",
+   "extra-13"
+  ]
+ },
+ {
+  "name": "Glenfiddich",
+  "category": "whisky",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "12-year-old",
+   "15-year-old",
+   "18-year-old",
+   "21-year-old",
+   "rare-collection"
+  ]
+ },
+ {
+  "name": "Jack Daniel's",
+  "category": "whisky",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "named after founder",
+  "context": [
+   "old-no-7",
+   "gentleman-jack",
+   "single-barrel",
+   "fire"
+  ]
+ },
+ {
+  "name": "Jameson",
+  "category": "whisky",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a surname",
+  "context": [
+   "black-barrel",
+   "caskmates-stout-edition",
+   "caskmates-ipa-edition"
+  ]
+ },
+ {
+  "name": "Jim Beam",
+  "category": "whisky",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a person's name",
+  "context": [
+   "devils-cut",
+   "rye",
+   "double-oak"
+  ]
+ },
+ {
+  "name": "Johnnie Walker",
+  "category": "whisky",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [
+   "Walker"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also a personal name",
+  "context": [
+   "black-label",
+   "red-label",
+   "gold-label",
+   "blue-label",
+   "green-label",
+   "double-black"
+  ]
+ },
+ {
+  "name": "Maker's Mark",
+  "category": "whisky",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "cask-strength",
+   "46",
+   "private-selection"
+  ]
+ },
+ {
+  "name": "The Macallan",
+  "category": "whisky",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "sherry-oak",
+   "double-cask",
+   "fine-oak",
+   "triple-cask"
+  ]
+ },
+ {
+  "name": "Wild Turkey",
+  "category": "whisky",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a bird species",
+  "context": [
+   "101",
+   "rare-breed",
+   "kentucky-spirit",
+   "american-honey",
+   "distillers-reserve"
+  ]
+ }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Bacardi",
+    "option": "base",
+    "form": "bacardi",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "bacardi",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 2,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.regio7.cat/manresa/2023/05/23/bacardit-parare-fins-faci-desdoblament-87768394.html",
+            "https://www.regio7.cat/manresa/2023/05/24/bacardit-demana-explicacions-per-decisio-87759984.html"
+          ]
+        },
+        "source4": {
+          "quantity": 5,
+          "sampleSize": 1130461,
+          "urls": [
+            "http://institucionales.us.es/empresafamiliar/ultimas-noticias/bacardi-hizo-famosa-a-cuba/",
+            "https://shop.bargoodies.nl/products/Bacardi-Glazen-Model-5-Set-van-6.html",
+            "https://shop.bargoodies.nl/products/Bacardi-Mojito-Glazen-Groen-Set-van-6.html",
+            "https://www.carnival.com/in-room-food-beverages/liquor/bacardi-white-rum-504",
+            "https://www.petershamliquormart.com.au/Shop/Spirits/Forgot/Daniella+White+Sambuca+350ml/Page/5/Bacardi+Rum+50ml"
+          ]
+        },
+        "source5": {
+          "quantity": 5,
+          "sampleSize": 950989,
+          "urls": [
+            "blitz.gg/v2.1.37/lol/match/na1/LTBACARDI/4665286113",
+            "depor.com/depor-play/pantalla/la-verdadera-historia-de-2-corazones-que-ocurrio-con-jorge-bacardi-en-la-vida-real-pelicula-de-netflix-nnda-nnlt-noticia/",
+            "mag.elcomercio.pe/fama/2-corazones-que-paso-con-jorge-bacardi-en-la-vida-real-pelicula-de-netflix-nnda-nnlt-noticia/",
+            "sweepstakesfanatics.com/bacardi-concerts-for-a-year-sweepstakes-3/",
+            "www.radioformula.com.mx/estilo-de-vida/2023/5/24/cual-es-el-mejor-refresco-para-tomar-tu-bacardi-763761.html"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Bacardi",
+    "option": "ctx",
+    "form": "bacardi",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "bacardi",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "superior",
+          "mode": "m"
+        },
+        {
+          "keyword": "oakheart",
+          "mode": "m"
+        },
+        {
+          "keyword": "spiced",
+          "mode": "m"
+        },
+        {
+          "keyword": "151",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://shop.bargoodies.nl/products/Bacardi-Mojito-Glazen-Groen-Set-van-6.html",
+            "https://www.carnival.com/in-room-food-beverages/liquor/bacardi-white-rum-504",
+            "https://www.petershamliquormart.com.au/Shop/Spirits/Forgot/Daniella+White+Sambuca+350ml/Page/5/Bacardi+Rum+50ml"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

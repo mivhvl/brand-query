@@ -1,0 +1,73 @@
+[
+  {
+    "id": "The Macallan",
+    "option": "base",
+    "form": "the-macallan",
+    "query": {
+      "required": [
+        {
+          "keyword": "the-macallan",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "The Macallan",
+    "option": "ctx",
+    "form": "the-macallan",
+    "query": {
+      "required": [
+        {
+          "keyword": "the-macallan",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "sherry-oak",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-cask",
+          "mode": "m"
+        },
+        {
+          "keyword": "fine-oak",
+          "mode": "m"
+        },
+        {
+          "keyword": "triple-cask",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

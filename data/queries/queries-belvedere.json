@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Belvedere",
+    "option": "base",
+    "form": "belvedere",
+    "query": {
+      "required": [
+        {
+          "keyword": "belvedere",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Belvedere",
+    "option": "ctx",
+    "form": "belvedere",
+    "query": {
+      "required": [
+        {
+          "keyword": "belvedere",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "premium",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

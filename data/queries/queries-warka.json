@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Warka",
+    "option": "base",
+    "form": "warka",
+    "query": {
+      "required": [
+        {
+          "keyword": "warka",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Warka",
+    "option": "ctx",
+    "form": "warka",
+    "query": {
+      "required": [
+        {
+          "keyword": "warka",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "strong",
+          "mode": "c"
+        },
+        {
+          "keyword": "radler",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 2
+    },
+    "final_eligible": true
+  }
+]

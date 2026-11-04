@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Johnnie Walker",
+    "option": "base",
+    "form": "johnnie-walker",
+    "query": {
+      "required": [
+        {
+          "keyword": "johnnie-walker",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Johnnie Walker",
+    "option": "ctx",
+    "form": "johnnie-walker",
+    "query": {
+      "required": [
+        {
+          "keyword": "johnnie-walker",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "red-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "gold-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "blue-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "green-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-black",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Johnnie Walker",
+    "option": "base",
+    "form": "walker",
+    "query": {
+      "required": [
+        {
+          "keyword": "walker",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Johnnie Walker",
+    "option": "ctx",
+    "form": "walker",
+    "query": {
+      "required": [
+        {
+          "keyword": "walker",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "red-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "gold-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "blue-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "green-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-black",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

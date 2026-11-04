@@ -1,0 +1,220 @@
+[
+  {
+    "id": "Aviation American Gin",
+    "option": "base",
+    "form": "aviation-american-gin",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american-gin",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Aviation American Gin",
+    "option": "ctx",
+    "form": "aviation-american-gin",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american-gin",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Aviation American Gin",
+    "option": "base",
+    "form": "aviation-american",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Aviation American Gin",
+    "option": "ctx",
+    "form": "aviation-american",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

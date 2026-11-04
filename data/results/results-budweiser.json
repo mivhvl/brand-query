@@ -1,0 +1,114 @@
+[
+  {
+    "id": "Budweiser",
+    "option": "ctx",
+    "form": "budweiser",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "budweiser",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "select",
+          "mode": "m"
+        },
+        {
+          "keyword": "copper",
+          "mode": "m"
+        },
+        {
+          "keyword": "zero",
+          "mode": "m"
+        },
+        {
+          "keyword": "bud-light",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 8,
+          "sampleSize": 460974,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/18/budweiser-harley-davidson-beer-cans/",
+            "https://nypost.com/2023/05/16/bud-light-budweiser-packaging-to-get-redesign-over-dylan-mulvaney-crisis-source/",
+            "https://www.dailymail.co.uk/news/article-12124197/Budweiser-gives-beer-away-free-stores-new-promotions-Dylan-Mulvaney-backlash.html",
+            "https://www.msn.com/en-us/money/companies/bud-light-on-us-budweiser-parent-now-offering-money-back-to-boost-sales/ar-AA1bHnWS",
+            "https://www.msn.com/en-us/money/-companies/budweiser-gives-beer-away-for-free-in-stores-with-new-promotions-after-dylan-mulvaney-backlash/ar-AA1bGuXM",
+            "https://www.msn.com/en-us/money/companies/budweiser-gives-beer-away-for-free-in-stores-with-new-promotions-after-dylan-mulvaney-backlash/ar-AA1bGuXM",
+            "https://www.yahoo.com/news/bud-light-given-away-budweiser-162956450.html",
+            "https://www.yahoo.com/news/bud-light-us-budweiser-parent-234257016.html"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/18/budweiser-harley-davidson-beer-cans/",
+            "https://dbertolineandsons.com/product/domestic-beer/budweiser/budweiser/",
+            "https://imgbin.com/png/AsnL9Hw2/miller-lite-natural-light-budweiser-beer-anheuser-busch-png"
+          ]
+        },
+        "source5": {
+          "quantity": 8,
+          "sampleSize": 950989,
+          "urls": [
+            "beveragedynamics.com/2023/05/18/budweiser-harley-davidson-beer-cans/",
+            "dnyuz.com/2023/05/18/budweiser-offers-harley-davidson-beer-cans-but-people-still-havent-forgotten-about-the-bud-light-dylan-mulvaney-fiasco/",
+            "nypost.com/2023/04/17/budweisers-new-patriotic-ad-ripped-by-critics-after-bud-light-saga/",
+            "www.dailymail.co.uk/news/article-12124197/Budweiser-gives-beer-away-free-stores-new-promotions-Dylan-Mulvaney-backlash.html",
+            "www.msn.com/en-us/money/companies/budweiser-gives-beer-away-for-free-in-stores-with-new-promotions-after-dylan-m",
+            "www.msn.com/en-us/money/companies/budweiser-gives-beer-away-for-free-in-stores-with-new-promotions-after-dylan-mulvaney-backlash/ar-AA1bGuXM",
+            "www.newsweek.com/budweiser-ad-backlash-peta-bud-light-1795027",
+            "www.worthpoint.com/worthopedia/vintage-budweiser-beer-pointer-1923421030"
+          ]
+        }
+      }
+    }
+  }
+]

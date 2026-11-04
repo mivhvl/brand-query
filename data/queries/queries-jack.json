@@ -1,0 +1,144 @@
+[
+  {
+    "id": "Jack Daniel's",
+    "option": "base",
+    "form": "jack-daniels",
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniels",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Jack Daniel's",
+    "option": "ctx",
+    "form": "jack-daniels",
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniels",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "old-no-7",
+          "mode": "m"
+        },
+        {
+          "keyword": "gentleman-jack",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "fire",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Jack Daniel's",
+    "option": "base",
+    "form": "jack-daniel-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniel-s",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Jack Daniel's",
+    "option": "ctx",
+    "form": "jack-daniel-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniel-s",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "old-no-7",
+          "mode": "m"
+        },
+        {
+          "keyword": "gentleman-jack",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "fire",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

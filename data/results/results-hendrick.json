@@ -1,0 +1,333 @@
+[
+  {
+    "id": "Hendrick's",
+    "option": "base",
+    "form": "hendricks",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "hendricks",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 20,
+          "sampleSize": 460974,
+          "urls": [
+            "https://clutchpoints.com/cubs-news-chicago-decisions-kyle-hendricks-former-white-sox-prospect",
+            "https://www.amazinavenue.com/2023/5/25/23738050/new-york-mets-chicago-cubs-lineups-broadcast-info-open-thread-mlb-carrasco-hendricks",
+            "https://www.amazinavenue.com/2023/5/25/23738050/new-york-mets-chicago-cubs-lineups-broadcast-info-open-thread-mlb-carrasco-hendricks#comments",
+            "https://www.bleachernation.com/cubs/2023/05/24/kyle-hendricks-will-return-to-the-chicago-cubs-and-start-tomorrow-night/",
+            "https://www.cubsinsider.com/2023/05/24/the-rundown-morels-historic-heater-hoyer-accepts-bullpen-blame-hendricks-working-",
+            "https://www.cubsinsider.com/2023/05/24/the-rundown-morels-historic-heater-hoyer-accepts-bullpen-blame-hendricks-working-at-wrigley-mervis-goes-deep/",
+            "https://www.cubsinsider.com/2023/05/25/kyle-hendricks-activated-nick-madrigal-optioned-to-iowa/",
+            "https://www.essentiallysports.com/nascar-news-hendrick-motorsports-hms-prodigy-lets-slip-rick-hendricks-stance-on-competing-in-dale-earhardt-jrs-million-dollar-event-at-north-wilkesboro/amp/#amp_tf=From %1$s&aoh=16850342036500&csi=1&referrer=https://www.google.com&ampshare=https://www.essentiallysports.com/nascar-news-hendrick-motorsports-hms-prodigy-lets-slip-rick-hendricks-stance-on-competing-in-dale-earhardt-jrs-million-dollar-event-at-north-wilkesboro/",
+            "https://www.essentiallysports.com/nascar-news-hendrick-motorsports-hms-prodigy-lets-slip-rick-hendricks-stance-on-competing-in-dale-earhardt-jrs-million-dollar-event-at-north-wilkesboro/amp/#amp_tf=From %1$s&aoh=16850529762697&csi=0&referrer=https://www.google.com&ampshare=https://www.essentiallysports.com/nascar-news-hendrick-motorsports-hms-prodigy-lets-slip-rick-hendricks-stance-on-competing-in-dale-earhardt-jrs-million-dollar-event-at-north-wilkesboro/",
+            "https://www.essentiallysports.com/nascar-news-hendrick-motorsports-ruling-out-rick-hendricks-warning-denny-hamlin-uneart",
+            "https://www.essentiallysports.com/nascar-news-hendrick-motorsports-ruling-out-rick-hendricks-warning-denny-hamlin-unearths-reality-behind-ross-chastains-uncharacteristic-north-wilkesboro-run/",
+            "https://www.mlb.com/player/kyle-hendricks-543294",
+            "https://www.mlbtraderumors.com/2023/05/the-opener-hendricks-braves-jansen.html",
+            "https://www.msn.com/en-us/foodanddrink/cocktails/how-to-drink-gin-according-to-hendricks-gins-master-distiller/ar-AA1bGT1g",
+            "https://www.msn.com/en-us/sports/mlb/cubs-activate-kyle-hendricks-to-make-first-mlb-start-since-july/ar-AA1bHynT",
+            "https://www.msn.com/en-us/sports/mlb/cubs-make-massive-decisions-on-kyle-hendricks-former-white-sox-top-prospect/ar-AA1bHePe",
+            "https://www.si.com/nba/draft/newsfeed/top-performance-series-taylor-hendricks",
+            "https://www.si.com/nba/jazz/news/jazz-pick-9-taylor-hendricks-nba-draft-rumor",
+            "https://www.wthr.com/article/news/crime/father-and-son-arrested-connection-with-multiple-hendricks-county-burglaries/531-8213c7a7-c4b4-48d5-8094-a07f2fe5c525",
+            "https://www.yahoo.com/lifestyle/christina-hendricks-shares-joyous-photos-162620640.html"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 19,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://drizly.com/liquor/gin/hendricks-gin/p4989",
+            "https://mmajunkie.usatoday.com/2017/03/georges-st-pierre-uninterested-in-johny-hendricks-rematch-hes-not-the-same-anymore",
+            "https://www.clevelandstar.com/news/273842671/kyle-hendricks-set-for-season-debut-as-cubs-face-mets",
+            "https://www.cubshq.com/cubs-baseball/news/chicago-cubs-lineup-vs-mets-kyle-hendricks-to-pitch-patrick-wisdom-at-3b-31801",
+            "https://www.cubshq.com/cubs-baseball/news/cubs-injury-updates-cody-bellinger-codi-heuer-and-kyle-hendricks-31787",
+            "https://www.cubshq.com/cubs-baseball/news/kyle-hendricks-set-to-rejoin-rotation-against-mets-31799",
+            "https://www.hendricksgin.com/cocktail/hendricks-flora-adora-tonic/",
+            "https://www.hendricksgin.com/hendricks-flora-adora/",
+            "https://www.hendricksgin.com/hendricks-gin-collection/",
+            "https://www.hendricksgin.com/hendricks-neptunia/",
+            "https://www.hendricksgin.com/uk/hendricks-neptunia/",
+            "https://www.hendricksgin.com/us/hendricks-flora-adora/",
+            "https://www.hendricksgin.com/us/hendricks-neptunia/",
+            "https://www.hendricksgin.com/us/hendricks-neptunia-gin/",
+            "https://www.hendricksgin.com/us/hendricks-original/",
+            "https://www.lsxmag.com/news/video-check-out-rick-hendricks-insane-car-collection/",
+            "https://www.oklahomastar.com/news/273842671/kyle-hendricks-set-for-season-debut-as-cubs-face-mets",
+            "https://www.utahindependent.com/news/273842671/kyle-hendricks-set-for-season-debut-as-cubs-face-mets",
+            "https://www.wishtv.com/news/local-news/hendricks-county-highway-worker-dies-when-stepping-behind-moving-excavator/"
+          ]
+        },
+        "source5": {
+          "quantity": 33,
+          "sampleSize": 950989,
+          "urls": [
+            "chicago.suntimes.com/cubs/2023/5/23/23735264/cubs-thank-nl-central-rivals-keeping-division-close-poor-play-kyle-hendricks-cody-bellinger",
+            "clutchpoints.com/cubs-news-chicago-decisions-kyle-hendricks-former-white-sox-prospect",
+            "fanrecap.com/cubs-to-reinstate-kyle-hendricks/",
+            "fanrecap.com/kyle-hendricks-will-return-to-the-chicago-cubs-and-start-tomorrow-night/",
+            "nedhardy.com/2022/03/16/charles-wayne-hendricks-everything-you-wanted-to-know-about-ray-charles-son/",
+            "parade.com/news/christina-hendricks-flirty-instagram-photos-with-friends-february-2023",
+            "parade.com/news/christina-hendricks-joyous-photos-new-orleans-trip-instagram-2023",
+            "parade.com/news/christina-hendricks-serene-sea-instagram-photos-january-2023",
+            "wthr.com/article/news/crime/father-and-son-arrested-connection-with-multiple-hendricks-county-burglaries/531-8213c7a7-c4b4-48d5-8094-a07f2fe5c525",
+            "www.bleachernation.com/cubs/2023/05/21/taillon-and-meatball-swings-burdi-and-estrada-wesneski-and-hendricks-umpshows-and-other-cubs-bullets/",
+            "www.bleachernation.com/cubs/2023/05/24/kyle-hendricks-will-return-to-the-chicago-cubs-and-start-tomorrow-night/",
+            "www.cubsinsider.com/2023/05/23/kyle-hendricks-in-chicago-daniel-palencia-promoted-to-iowa-after-brief-stay-on-dev-list/",
+            "www.cubsinsider.com/2023/05/23/the-rundown-blame-hoyer-not-ross-hendricks-should-return-this-homestand-morel-playing-at-historic-level/",
+            "www.cubsinsider.com/2023/05/24/the-rundown-morels-historic-heater-hoyer-accepts-bullpen-blame-hendricks-working-at-wrigley-mervis-goes-deep/",
+            "www.essentiallysports.com/nascar-news-hendrick-motorsports-hms-prodigy-lets-slip-rick-hendricks-stance-on-competing-in-dale-earhardt-jrs-million-dollar-event-at-north-wilkesboro/",
+            "www.essentiallysports.com/nascar-news-hendrick-motorsports-hms-prodigy-lets-slip-rick-hendricks-stance-on-competing-in-dale-earhardt-jrs-million-dollar-event-at-north-wilkesboro/amp/",
+            "www.essentiallysports.com/nascar-news-hendrick-motorsports-ruling-out-rick-hendricks-warning-denny-hamlin-uneart",
+            "www.essentiallysports.com/nascar-news-hendrick-motorsports-ruling-out-rick-hendricks-warning-denny-hamlin-unearths-reality-behind-ross-chastains-uncharacteristic-north-wilkesboro-run",
+            "www.essentiallysports.com/nascar-news-hendrick-motorsports-ruling-out-rick-hendricks-warning-denny-hamlin-unearths-reality-behind-ross-chastains-uncharacteristic-north-wilkesboro-run/",
+            "www.essentiallysports.com/nascar-news-hendrick-motorsports-ruling-out-rick-hendricks-warning-denny-hamlin-unearths-reality-behind-ross-chastains-uncharacteristic-north-wilkesboro-run/amp/",
+            "www.fangraphs.com/players/kyle-hendricks/12049/game-log",
+            "www.fantrax.com/fantasy/league/gp41hgvqlddcdfpv/players;searchName=Kyle%20hendricks;miscDisplayType=1;statusOrTeamFilter=ALL;positionOrGroup=ALL;pageNumber=1",
+            "www.justjared.com/2009/10/12/christina-hendricks-wedding-pictures/",
+            "www.milb.com/player/kyle-hendricks-543294",
+            "www.mlbtraderumors.com/2023/05/cubs-to-reinstate-kyle-hendricks.html",
+            "www.mlbtraderumors.com/2023/05/the-opener-hendricks-braves-jansen.html",
+            "www.msn.com/en-ca/entertainment/tv/what-happened-to-christina-hendricks-after-mad-men/ss-AAWrLAM",
+            "www.redfin.com/TX/Dallas/1022-Hendricks-Ave-75216/home/30829146",
+            "www.si.com/mlb/cubs/news/chicago-cubs-reinstate-hendricks-shocking-corresponding-move-new-york-mets-matchup",
+            "www.si.com/nba/jazz/news/jazz-pick-9-taylor-hendricks-nba-draft-rumor",
+            "www.sports-reference.com/cbb/players/taylor-hendricks-1.html",
+            "www.whitepages.com/name/Adam-Lloyd-Hendricks/Kansas-City-MO/Pg3b2PzY6d3",
+            "www.wthr.com/article/news/crime/father-and-son-arrested-connection-with-multiple-hendricks-county-burglaries/531-8213c7a7-c4b4-48d5-8094-a07f2fe5c525"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Hendrick's",
+    "option": "ctx",
+    "form": "hendricks",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "hendricks",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "cucumber",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/foodanddrink/cocktails/how-to-drink-gin-according-to-hendricks-gins-master-distiller/ar-AA1bGT1g"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 4,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://drizly.com/liquor/gin/hendricks-gin/p4989",
+            "https://www.hendricksgin.com/cocktail/hendricks-flora-adora-tonic/",
+            "https://www.hendricksgin.com/hendricks-gin-collection/",
+            "https://www.hendricksgin.com/us/hendricks-neptunia-gin/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Hendrick's",
+    "option": "base",
+    "form": "hendrick-s",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "hendrick-s",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/foodanddrink/cocktails/how-to-drink-gin-according-to-hendrick-s-gin-s-master-distiller/ar-AA1bGT1g"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 11,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.hendricksgin.com/cocktail/hendrick-s-flora-adora-clover-club/",
+            "https://www.hendricksgin.com/cocktail/hendrick-s-neptunia-curious-margarita/",
+            "https://www.hendricksgin.com/cocktail/hendrick-s-neptunia-fizz/",
+            "https://www.hendricksgin.com/cocktail/hendrick-s-neptunia-gimlet/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-flora-adora-clover-club/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-flora-adora-wildgarden-cup/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-gin-mule/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-martini/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-neptunia-fizz/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-neptunia-gimlet/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-neptunia-tonic/"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.msn.com/en-us/foodanddrink/cocktails/how-to-drink-gin-according-to-hendrick-s-gin-s-master-distiller/ar-AA1bGT1g"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Hendrick's",
+    "option": "ctx",
+    "form": "hendrick-s",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "hendrick-s",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "cucumber",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/foodanddrink/cocktails/how-to-drink-gin-according-to-hendrick-s-gin-s-master-distiller/ar-AA1bGT1g"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 2,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-gin-mule/",
+            "https://www.hendricksgin.com/us/cocktail/hendrick-s-neptunia-tonic/"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.msn.com/en-us/foodanddrink/cocktails/how-to-drink-gin-according-to-hendrick-s-gin-s-master-distiller/ar-AA1bGT1g"
+          ]
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "Belvedere",
+    "option": "base",
+    "form": "belvedere",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "belvedere",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 4,
+          "sampleSize": 460974,
+          "urls": [
+            "https://auralcrave.com/en/2022/11/16/rita-ora-giggs-belvedere-vodka-commercial-song/",
+            "https://www.amusingplanet.com/2018/11/hotel-belvedere-iconic-swiss-hotel-at.html#google_vignette",
+            "https://www.amusingplanet.com/2023/02/the-1957-plymouth-belvedere-that-was.html",
+            "https://www.forbbodiesonly.com/moparforum/threads/find-of-the-day-this-rare-1967-plymouth-belvedere-ii-has-a-426-street-hemi.269302/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 12,
+          "sampleSize": 664385,
+          "urls": [
+            "https://britishlistedbuildings.co.uk/101155089-belvedere-retaining-wall-c30-yards-south-and-east-of-carrycoats-hall-birtley#.ZG48vHbMJPY",
+            "https://www.3bmeteo.com/meteo/belvedere+langhe/4",
+            "https://www.area-c.it/frosinone-apre-la-terrazza-del-belvedere-locali-e-movida-ecco-linaugurazione/",
+            "https://www.derstandard.at/story/2000146612620/ufo-im-belvedere-teich-lockt-zu-anregendem-spaziergang",
+            "https://www.holidaycheck.de/hi/jaz-belvedere-resort/0ae78f60-86e6-30b9-8968-a97b55a40484",
+            "https://www.holidaycheck.de/hi/royal-imperial-belvedere-hotels/420a6ec8-2074-37c9-b8c7-2749c62391cd",
+            "https://www.ilmeteo.it/meteo/Belvedere%20Ostrense",
+            "https://www.ilmeteo.it/meteo/Belvedere+Langhe/amp/3",
+            "https://www.ilmeteo.it/meteo/Belvedere+Marittimo/amp",
+            "https://www.ilmeteo.it/meteo/Belvedere+Ostrense/amp",
+            "https://www.meteo.it/meteo/belvedere-di-spinello-101001",
+            "https://www.perugiatoday.it/provincia/belvedere-di-braccio-dove-panicale-incontra-il-trasimeno.html"
+          ]
+        },
+        "source4": {
+          "quantity": 16,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://drinksint.com/news/fullstory.php/aid/10628/Belvedere_unveils_release_inspired_by_vodka_making_process.html",
+            "https://gomovies.sx/watch-tv/watch-mr-belvedere-gomovies-36275.5180827",
+            "https://www.absalonequipment.com/p-14327-belvedere-sr04c-siesta-shampoo-chair-w-pressurized-cylinder.aspx",
+            "https://www.absalonequipment.com/p-6076-belvedere-20017573sv-heat-control-switch-for-b900c-dryer.aspx",
+            "https://www.archambault.ca/jeux/pyjama-passe-partout-7-8-ans-vente-ferme/belvedere-div-jeux-jouet/742972/",
+            "https://www.bournemouthecho.co.uk/news/15687478.bournemouths-belvedere-hotel-coming-down-after-nearly-160-years/",
+            "https://www.burnleyexpress.net/sport/football/burnley-belvedere-football-club-receives-government-funding-to-improve-facilities-4152851",
+            "https://www.casertanotizie.com/attualita/2023/05/25/250-vanvitelli-domani-al-belvedere-il-convegno-internazionale-il-genio-leredita-1773-2023/",
+            "https://www.equinenow.com/farm/belvedere_farm.htm",
+            "https://www.grossetosport.com/2023/04/16/prima-categoria-3-a-3-tra-belvedere-e-gracciano-il-montiano-perde-a-monterotondo-e-mette-a-rischio-i-play-off-retrocede-anche-il-castelnuovo/",
+            "https://www.newsshopper.co.uk/news/9792477.firefighters-put-out-flaming-exam-papers-in-belvedere-block-of-flats/",
+            "https://www.paesionline.it/italia/guida-belvedere_marittimo",
+            "https://www.thejoshjamesteam.com/homes-for-sale/NY/gates/14624/123_belvedere_drive/bid-186-R1402202",
+            "https://www.volocars.com/vehicles/13466/1967-plymouth-belvedere-ii",
+            "https://www.whatgoesaroundnyc.com/en-us/buy-black-goyardine-canvas-belvedere-mm/QEB05K0LKA001.html",
+            "https://www.whatgoesaroundnyc.com/en-us/buy-brown-goyardine-canvas-belvedere-pm/QEB05K0L0F000.html"
+          ]
+        },
+        "source5": {
+          "quantity": 4,
+          "sampleSize": 950989,
+          "urls": [
+            "df.olx.com.br/distrito-federal-e-regiao/imoveis/condominio-belvedere-green-casa-4-suites-420m-area-util-terreno-1-200m-jardim-botan-1122447621",
+            "living.corriere.it/indirizzi/hotel/gallery/masseria-belvedere-a-carovigno/",
+            "www.centralpark.com/things-to-do/attractions/belvedere-castle/",
+            "www.elperiodico.com/es/videos/gente/daniel-craig-belvedere-vodka/78556751.shtml"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Belvedere",
+    "option": "ctx",
+    "form": "belvedere",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "belvedere",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "premium",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://auralcrave.com/en/2022/11/16/rita-ora-giggs-belvedere-vodka-commercial-song/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://drinksint.com/news/fullstory.php/aid/10628/Belvedere_unveils_release_inspired_by_vodka_making_process.html"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.elperiodico.com/es/videos/gente/daniel-craig-belvedere-vodka/78556751.shtml"
+          ]
+        }
+      }
+    }
+  }
+]

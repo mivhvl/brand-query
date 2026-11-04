@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Żywiec",
+    "option": "base",
+    "form": "zywiec",
+    "query": {
+      "required": [
+        {
+          "keyword": "zywiec",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Żywiec",
+    "option": "ctx",
+    "form": "zywiec",
+    "query": {
+      "required": [
+        {
+          "keyword": "zywiec",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "porter",
+          "mode": "m"
+        },
+        {
+          "keyword": "biale",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

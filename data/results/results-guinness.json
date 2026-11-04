@@ -1,0 +1,380 @@
+[
+  {
+    "id": "Guinness",
+    "option": "base",
+    "form": "guinness",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "guinness",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 65,
+          "sampleSize": 460974,
+          "urls": [
+            "https://bengali.abplive.com/offbeat/world-most-expensive-ice-cream-recorded-in-guinness-book-of-world-record-980400",
+            "https://bigglobaltravel.com/trends/casos-estranhos-recordes-mundiais-guinness-pt-br-fb",
+            "https://bigglobaltravel.com/trends/casos-estranhos-recordes-mundiais-guinness-pt-br-fb/",
+            "https://cafedelites.com/beef-and-guinness-stew/",
+            "https://cookingchew.com/guinness-cocktails.html",
+            "https://punchng.com/nigerian-pupil-declared-guinness-world-record-holder-most-skips-on-one-foot/",
+            "https://simply-delicious-food.com/steak-and-guinness-pie/",
+            "https://thedaddest.com/trending/40-extranos-records-guinness-fb",
+            "https://thedaddest.com/trending/40-extranos-records-guinness-fb/",
+            "https://thedaddest.com/trending/weird-guinness-fb/",
+            "https://thedaddest.com/trending/weird-guinness-fr-ai",
+            "https://thedaddest.com/trending/weird-guinness-fr-ai/",
+            "https://thedaddest.com/trending/weird-guinness-world-records-spt-fb-ai",
+            "https://thedaddest.com/trending/weird-guinness-world-records-spt-fb-ai/",
+            "https://tryhardguides.com/suffix-used-frequently-in-guinness-world-records-crossword-clue/",
+            "https://www.barstoolsports.com/blog/3468368/im-convinced-the-easiest-way-to-get-into-the-guinness-book-of-world-records-is-to-act-like-a-child",
+            "https://www.basketballnetwork.net/old-school/ted-st-martin-holder-of-the-guinness-world-record-for-most-consecutive-free-throws",
+            "https://www.belfastlive.co.uk/incoming/drummer-ali-smashes-guinness-world-12135205",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/paddy-mcguinness-says-its-heaven-26976767",
+            "https://www.eightieskids.com/alec-guinness-actually-loved-star-wars-especially-pay/",
+            "https://www.foxandbriar.com/irish-guinness-brown-bread/",
+            "https://www.goodnewsnetwork.org/girl-autism-earns-guinness-world-record-math-skills-sanaa-hiremath/",
+            "https://www.guinnessworldrecords.com/",
+            "https://www.guinnessworldrecords.com/news/2020/7/k-pop-sensations-bts-set-concert-live-stream-record-with-bang-bang-con-the-live-624548",
+            "https://www.guinnessworldrecords.com/news/2021/10/worlds-oldest-animals-cats-dogs-deep-sea-creatures-and-more-678003",
+            "https://www.guinnessworldrecords.com/news/2021/5/freediver-holds-breath-for-almost-25-minutes-breaking-record-660285",
+            "https://www.guinnessworldrecords.com/news/2021/7/meet-the-woman-whose-record-breaking-mouth-gape-went-viral-on-tiktok-669447",
+            "https://www.guinnessworldrecords.com/news/2022/1/worlds-fastest-drummer-11-year-old-achieves-2-370-bpm-688980",
+            "https://www.guinnessworldrecords.com/news/2022/6/the-tragic-death-of-robert-wadlow-the-tallest-man-ever-708849",
+            "https://www.guinnessworldrecords.com/news/2023/2/oldest-dog-ever-record-broken-by-30-year-old-bobi-from-portugal-736224",
+            "https://www.guinnessworldrecords.com/news/2023/3/the-weeknd-is-officially-the-worlds-most-popular-artist-741774",
+            "https://www.guinnessworldrecords.com/news/2023/5/legend-of-zelda-tears-of-the-kingdom-sells-faster-than-any-nintendo-game-in-hist-750686",
+            "https://www.guinnessworldrecords.com/news/2023/5/one-brain-two-faces-how-the-oldest-ever-janus-cat-defied-all-odds-749917",
+            "https://www.guinnessworldrecords.com/news/commercial/2023/5/long-hair-festival-250-chinese-women-land-record-with-beauti",
+            "https://www.guinnessworldrecords.com/news/commercial/2023/5/long-hair-festival-250-chinese-women-land-record-with-beautiful-combing-ceremony-749771",
+            "https://www.guinnessworldrecords.com/world-records/86527-highest-score-on-ms-pac-man",
+            "https://www.guinnessworldrecords.com/world-records/fastest-propeller-fighter-of-wwii",
+            "https://www.guinnessworldrecords.com/world-records/fastest-run-one-mile-(female)",
+            "https://www.guinnessworldrecords.com/world-records/heaviest-birth",
+            "https://www.guinnessworldrecords.com/world-records/highest-recorded-temperature",
+            "https://www.guinnessworldrecords.com/world-records/longest-scarf-knitted-whilst-running-a-marathon",
+            "https://www.guinnessworldrecords.com/world-records/most-decorated-war-hero#",
+            "https://www.guinnessworldrecords.com/world-records/most-flags-tattooed-on-body",
+            "https://www.guinnessworldrecords.com/world-records/most-golf-holes-played-in-seven-days-(cart)",
+            "https://www.guinnessworldrecords.com/world-records/oldest-trading-card-game",
+            "https://www.intelregion.com/news/17-year-old-determined-nigerian-student-breaks-record-becomes-guinness-world-record-holder-for-most-skips-on-one-foot-video",
+            "https://www.legit.ng/entertainment/celebrities/1535427-2-months-hilda-patient-lata-tondon-shares-how-long-guinness-officially-declare-her",
+            "https://www.lemontreedwelling.com/guinness-beef-sliders/",
+            "https://www.liverpoolecho.co.uk/news/showbiz-news/paddy-mcguinness-heaven-ex-christine-26979050",
+            "https://www.macheesmo.com/guinness-banana-bread",
+            "https://www.mirror.co.uk/3am/celebrity-news/christine-mcguinness-announces-major-change-30063579",
+            "https://www.msn.com/en-us/lifestyle/family/i-made-a-big-mistake-dad-had-to-pick-his-son-from-school-because-he-packed-a-can-of-guinness-beer-in-his-lunchbox-instead-of-sparkling-water/ar-AA1ackKw",
+            "https://www.msn.com/en-us/travel/tripideas/texas-city-loses-guinness-world-record-bid-for-the-biggest-group-of-people-with-the-same-first-name/ar-AA1bCq2w",
+            "https://www.nottinghampost.com/news/celebs-tv/paddy-mcguinness-in-heaven-updates-8465280",
+            "https://www.recipetineats.com/irish-beef-and-guinness-stew",
+            "https://www.recipetineats.com/irish-beef-and-guinness-stew/",
+            "https://www.recipetineats.com/irish-beef-and-guinness-stew/#jump-watch",
+            "https://www.recipetineats.com/irish-beef-and-guinness-stew/#wprm-recipe-container-22096",
+            "https://www.sunstar.com.ph/article/1962104/pangasinan/local-news/pangasinan-town-eyes-guinness-world-record",
+            "https://www.theguardian.com/news/2023/may/25/guinness-world-records-norris-mcwhirter-ashrita-furman",
+            "https://www.thesun.co.uk/tvandshowbiz/22436570/christine-mcguinness-quits-social-media-family-holiday-paddy",
+            "https://www.transfermarkt.fr/mark-mcguinness/profil/spieler/561454",
+            "https://www.upi.com/Odd_News/2023/02/15/nigeria-Guinness-World-Records-rope-skips-one-minute-one-leg/2791676485660/",
+            "https://www.wrestlezone.com/news/1375016-nigel-mcguinness-jay-briscoe-inspired-me-to-chase-my-dream-of-being-a-magician",
+            "www.guinnessworldrecords.com"
+          ]
+        },
+        "source2": {
+          "quantity": 2,
+          "sampleSize": 10640,
+          "urls": [
+            "https://listelist.com/guinness-rekorlar-kitabi-2018/",
+            "https://listelist.com/sacma-guinness-dunya-rekorlari/"
+          ]
+        },
+        "source3": {
+          "quantity": 77,
+          "sampleSize": 664385,
+          "urls": [
+            "https://24.hu/szorakozas/2023/05/23/meghalt-a-vilag-leghosszabb-orru-embere-guinness-rekordok/",
+            "https://actu.caminteresse.fr/societe/ce-quartier-est-le-plus-peuple-de-la-planete-selon-le-guinness-des-records-11188577",
+            "https://bigglobaltravel.com/trends/casos-estranhos-recordes-mundiais-guinness-pt-br-fb",
+            "https://bigglobaltravel.com/trends/casos-estranhos-recordes-mundiais-guinness-pt-br-fb/",
+            "https://cleverclassic.com/trending/weird-guinness-syn/",
+            "https://thedaddest.com/trending/40-extranos-records-guinness-fb",
+            "https://thedaddest.com/trending/weird-guinness-de-fb/",
+            "https://thedaddest.com/trending/weird-guinness-fb",
+            "https://thedaddest.com/trending/weird-guinness-fb/",
+            "https://thedaddest.com/trending/weird-guinness-fr-ai",
+            "https://thedaddest.com/trending/weird-guinness-fr-ai/",
+            "https://thedaddest.com/trending/weird-guinness-world-records-spt-fb-ai",
+            "https://thedaddest.com/trending/weird-guinness-world-records-spt-fb-ai/",
+            "https://turystyka.wp.pl/niezwykly-wyczyn-podroznika-pobil-rekord-guinnessa-6901154110888832a",
+            "https://womenworld.eu/2023/entertainment-and-celebrities/christine-mcguinness-quits-social-media-after-family-holiday-with-paddy/",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/christine-mcguinness-fuming-after-being-26944648",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/christine-mcguinness-paddy-flooded-praise-26928709",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/christine-mcguinness-says-listen-after-26961992",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/paddy-mcguinness-says-its-heaven-26976767",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/paddy-mcguinness-says-its-heaven-26976767.amp#amp_tf=From %1$s&aoh=16849097269162&csi=0&referrer=https://www.google.com",
+            "https://www.birminghammail.co.uk/news/showbiz-tv/paddy-mcguinness-says-its-heaven-26976767.amp#amp_tf=From%20%251%24s&aoh=16849269573525&csi=0&referrer=https%3A%2F%2Fwww.google.com",
+            "https://www.blikk.hu/eletmod/vilag-titkai/vilag-legkisebb-kutyaja-guinness-rekord/mcsne4q",
+            "https://www.cbr.com/alec-guinness-obi-wan-actor-star-wars-hate-explained/",
+            "https://www.dailymail.co.uk/tvshowbiz/article-12100149/Christine-McGuinness-left-fuming-filmed-NAKED-shower-house-windows.html",
+            "https://www.dailymail.co.uk/tvshowbiz/article-12121167/Christine-McGuinness-close-pal-Duncan-James-look-cosy-dinner-date-Liverpool.html",
+            "https://www.dailystar.co.uk/showbiz/christine-mcguinness-declares-love-corrie-29968772",
+            "https://www.dailystar.co.uk/showbiz/christine-mgguinness-shows-abs-teeny-30058975",
+            "https://www.edziecko.pl/rodzice/7,79361,29775795,14-letni-polak-trafil-do-ksiegi-rekordow-guinnessa-dokonal.html",
+            "https://www.elperiodicodearagon.com/deportes/2023/05/24/we-are-vespark-mas-de-1-440-kilometros-sobre-una-vespa-para-batir-un-record-guinness-en-zuera-87826399.html",
+            "https://www.express.co.uk/celebrity-news/1773857/Sue-Barker-question-of-sport-captains-exit-bbc-paddy-mcguinness",
+            "https://www.express.co.uk/life-style/life/1296964/Paddy-McGuinness-net-worth-top-gear-Lamborghini-crash",
+            "https://www.fly4free.pl/nowe-siedem-cudow-swiata-rekord-guinnessa/",
+            "https://www.guinnessworldrecords.com/",
+            "https://www.guinnessworldrecords.com/news/2019/4/why-the-cassowary-is-the-worlds-most-dangerous-bird-568931",
+            "https://www.guinnessworldrecords.com/news/2023/2/oldest-dog-ever-record-broken-by-30-year-old-bobi-from-portugal-736224",
+            "https://www.guinnessworldrecords.com/news/2023/3/the-weeknd-is-officially-the-worlds-most-popular-artist-741774",
+            "https://www.guinnessworldrecords.com/news/2023/5/diehard-music-fan-smashes-record-by-attending-86-concerts-in-one-year-746407",
+            "https://www.guinnessworldrecords.com/news/2023/5/mans-incredible-physical-feat-as-he-holds-abdominal-plank-for-almost-10-hours-750261",
+            "https://www.guinnessworldrecords.com/news/2023/5/worlds-most-expensive-ice-cream-will-set-you-back-more-than-a-family-holiday-would",
+            "https://www.guinnessworldrecords.com/world-records/first-person-to-complete-the-three-poles-challenge/",
+            "https://www.guinnessworldrecords.com/world-records/first-tom-clancy-video-game",
+            "https://www.guinnessworldrecords.com/world-records/largest-spider",
+            "https://www.guinnessworldrecords.com/world-records/longest-driven-journey",
+            "https://www.guinnessworldrecords.com/world-records/longest-video-games-marathon-playing-a-racing-game",
+            "https://www.jamieoliver.com/recipes/beef-recipes/steak-guinness-cheese-pie",
+            "https://www.lancs.live/news/celebs-tv/christine-mcguinness-nervous-wreck-declares-26906601",
+            "https://www.liverpoolecho.co.uk/news/showbiz-news/christine-mcguinness-nervous-admission-declares-26898331",
+            "https://www.liverpoolecho.co.uk/news/showbiz-news/paddy-mcguinness-heaven-ex-christine-26979050",
+            "https://www.liverpoolecho.co.uk/news/showbiz-news/paddy-mcguinness-heaven-ex-christine-26979050.amp#amp_tf=From \u0001s&aoh=16849266930401&csi=0&referrer=https://www.google.com",
+            "https://www.liverpoolecho.co.uk/news/showbiz-news/paddy-mcguinness-shares-health-problem-26595284",
+            "https://www.manchestereveningnews.co.uk/news/showbiz-news/christine-mcguinness-flashes-abs-cosy-26913476",
+            "https://www.manchestereveningnews.co.uk/news/showbiz-news/christine-mcguinness-horrified-shes-caught-26946077",
+            "https://www.manchestereveningnews.co.uk/news/showbiz-news/christine-mcguinness-paddy-holiday-bikini-26926432",
+            "https://www.manchestereveningnews.co.uk/news/showbiz-news/christine-mcguinness-supported-makes-announcement-26963374",
+            "https://www.manchestereveningnews.co.uk/news/showbiz-news/paddy-mcguinness-fans-brand-post-26928800",
+            "https://www.manchestereveningnews.co.uk/news/showbiz-news/paddy-mcguinness-gives-fans-anxiety-26974576",
+            "https://www.mariefrance.fr/culture/guinness-world-records-2023-les-15-records-les-plus-insolites-703176.html#item=1",
+            "https://www.mariefrance.fr/culture/guinness-world-records-2023-les-15-records-les-plus-insolites-703176.html#item=5",
+            "https://www.mariefrance.fr/culture/guinness-world-records-2023-les-15-records-les-plus-insolites-703176.html#item=7",
+            "https://www.mirror.co.uk/3am/celebrity-news/christine-mcguinness-announces-major-change-30063579",
+            "https://www.mirror.co.uk/3am/celebrity-news/christine-mcguinness-announces-major-change-30063579#li22e5yjkkc9x0y671",
+            "https://www.mirror.co.uk/3am/celebrity-news/christine-mcguinness-left-horrified-shes-30017682",
+            "https://www.mirror.co.uk/news/uk-news/man-sank-12-pints-guinness-29406271",
+            "https://www.msn.com/pl-pl/rozrywka/gwiazdy/vanessa-mae-by%C5%82a-u-szczytu-kariery-muzycznej-i-bi%C5%82a-rekordy-guinnessa-jej-szans%C4%99-na-wielk%C4%85-s%C5%82aw%C4%99-zaprzepa%C5%9Bci%C5%82-skandal/ar-AA1byOSW",
+            "https://www.nigella.com/recipes/chocolate-guinness-cake",
+            "https://www.northamptonchron.co.uk/lifestyle/homes-and-gardens/look-around-the-northamptonshire-property-formerly-home-to-cat-that-jointly-held-guinness-world-record-for-loudest-purr-4153821",
+            "https://www.nottinghampost.com/news/celebs-tv/paddy-mcguinness-in-heaven-updates-8465280",
+            "https://www.pomponik.pl/plotki/news-byla-u-szczytu-kariery-muzycznej-i-bila-rekordy-guinnessa-je,nId,6795412",
+            "https://www.slashfilm.com/1291571/alec-guinness-strict-requests-for-star-wars-empire-strikes-back/",
+            "https://www.smithsonianmag.com/arts-culture/how-guinness-became-african-favorite-180950097/",
+            "https://www.telecinco.es/noticias/curioso/20230524/zeus-perro-mas-alto-mundo-guinness-world-records_18_09603810.html",
+            "https://www.thesun.co.uk/tvandshowbiz/22430486/christine-mcguinness-eye-popping-top-soaks-sun-spain-holiday",
+            "https://www.thesun.co.uk/tvandshowbiz/22430486/christine-mcguinness-eye-popping-top-soaks-sun-spain-holiday/",
+            "https://www.thesun.co.uk/tvandshowbiz/22436570/christine-mcguinness-quits-social-media-family-holiday-paddy",
+            "https://www.thesun.co.uk/tvandshowbiz/22436570/christine-mcguinness-quits-social-media-family-holiday-paddy/",
+            "https://www.thesun.ie/tv/10745909/christine-mcguinness-red-bikini-ibiza",
+            "https://www.thesun.ie/tvandshowbiz/10753160/christine-mcguinness-quits-social-media-family-holiday-paddy"
+          ]
+        },
+        "source4": {
+          "quantity": 35,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://bnr.bg/en/post/100595720/bulgaria-in-the-guinness-book-of-records",
+            "https://forum.cstalking.tv/daily-satellite-tv-news/54056-eir-sport-acquires-rights-guinness-pro14-rugby.html",
+            "https://funeral-notices.co.uk/notice/mcguinness/1776827",
+            "https://funeral-notices.co.uk/notice/mcguinness/5123804",
+            "https://haberkibris.com/dunyanin-en-pahali-dondurmasi-guinness-rekorlar-kitabina-girdi-0901-2023-05-23_m.html",
+            "https://news.virginia.edu/content/wtju-celebrate-new-home-guinness-world-record-attempt",
+            "https://sic.pt/programas/casafeliz/25-trocas-de-roupa-em-1-minuto-solange-bateu-o-recorde-mundial-do-guinness-como-e-que-e-possivel/",
+            "https://thelistwire.usatoday.com/lists/most-popular-beers-united-states-corona-guinness-budweiser/",
+            "https://thetimecave.com/funfacts/34-ways-to-eat-guinness-on-st-patricks-day/page/3/",
+            "https://www.andoveradvertiser.co.uk/news/23546130.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://www.clactonandfrintongazette.co.uk/news/national/uk-today/23545743.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://www.cookswithcocktails.com/stuffed-yorkshire-pudding-guinness-shepherds-pie/",
+            "https://www.dunfermlinepress.com/memorials/death-notices/death/30547900.james-mcguinness/",
+            "https://www.dvidshub.net/news/393363/defusing-danger-soldier-sets-guinness-world-record",
+            "https://www.edp24.co.uk/news/business/21043670.champion-turkey-farmer-loses-title-irish-plucker-guinness-book-records-holder/",
+            "https://www.guinness.com/fr-ca/pionniers-du-changement/",
+            "https://www.guinness.com/fr-ca/pionniers-du-changement/une-histoire-de-partage/",
+            "https://www.guinness.com/fr-ca/recettes-et-accords-biere-mets/accords-mets-guinness/",
+            "https://www.guinness.com/fr-ca/recettes-et-accords-biere-mets/cocktails/guinness-st-james-flip/",
+            "https://www.guinness.com/ko-kr/광고/gilroy-기네스-위해서/",
+            "https://www.guinnesserealestateagents.co.ke/",
+            "https://www.keighleynews.co.uk/news/national/uk-today/23545743.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://www.laurainthekitchen.com/recipes/guinness-beef-stew/",
+            "https://www.leaderlive.co.uk/news/23545941.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://www.lindaikejisblog.com/2023/5/nigerian-pupil-declared-guinness-world-record-holder-for-most-skips-on-one-foot-video.html",
+            "https://www.manusmenu.com/baby-guinness",
+            "https://www.newyorkcitynews.net/news/273843031/haleon-know-your-mind-campaign-sets-guinness-world-record-for-largest-online-video-album-on-micronutrient-deficiency",
+            "https://www.oxfordmail.co.uk/news/23545749.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://www.scotsman.com/business/leith-craft-brewer-eyes-massive-expansion-as-its-guinness-alternative-proves-huge-hit-4157711",
+            "https://www.stjohns.edu/news-media/news/2013-02-04/focus-margaret-mcguinness-jd-series-discussions-research-st-johns",
+            "https://www.theboltonnews.co.uk/news/23545774.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://www.twinkl.co.uk/resource/guinness-world-records-at-home-week-5-t-p-1103",
+            "https://www.wharfedaleobserver.co.uk/news/national/uk-today/23545743.tina-turner-dies-paddy-mcguinness-piers-morgan-lead-tributes/",
+            "https://yvonnemcguinness.com/the-well/",
+            "http://yvonnemcguinness.com/last-sun-sets/"
+          ]
+        },
+        "source5": {
+          "quantity": 61,
+          "sampleSize": 950989,
+          "urls": [
+            "bigglobaltravel.com/trends/casos-estranhos-recordes-mundiais-guinness-pt-br-fb/",
+            "blavity.com/nigerian-chef-hilda-bassey-breaks-guinness-world-record-for-longest-cooking-time",
+            "cbsaustin.com/news/local/city-of-kyle-attempts-to-make-the-guinness-world-record-for-largest-gathering-of-kyles",
+            "editorsnation.com/trending/from-guinness-world-record-holders-to-loki-lookalikes-these-iconic-british-stars-are-alive-and-kicking-despite-some-thinking-theyve-long-gone-8-tb-tommy-steele/35",
+            "editorsnation.com/trending/from-guinness-world-record-holders-to-loki-lookalikes-these-iconic-british-stars-are-alive-and-kicking-despite-some-thinking-theyve-long-gone-8-tb-tommy-steele/5",
+            "ktla.com/news/local-news/guinness-book-of-records-patient-woman-has-23-contact-lenses-removed-from-her-eye-at-orange-county-ophthalmologist/",
+            "kultura.gazeta.pl/kultura/7,114526,29798738,tina-turner-trafila-do-ksiegi-rekordow-guinnessa-i-zgromadzila.html",
+            "noticias.caracoltv.com/mundo/hombre-rompio-record-guinness-por-mantenerse-casi-10-horas-en-posicion-de-plancha-abdominal-rg10",
+            "parenting.pl/polski-nastolatek-w-ksiedze-rekordow-guinnessa-sam-bylem-w-szoku",
+            "punchng.com/nigerian-pupil-declared-guinness-world-record-holder-most-skips-on-one-foot/",
+            "thedaddest.com/trending/40-extranos-records-guinness-fb/",
+            "thedaddest.com/trending/casos-estranhos-recordes-mundiais-guinness-pt-syn/",
+            "thedaddest.com/trending/weird-guinness-fb/",
+            "thedaddest.com/trending/weird-guinness-fr-ai/",
+            "thedaddest.com/trending/weird-guinness-world-records-spt-fb-ai/",
+            "veja.abril.com.br/coluna/veja-gente/como-o-brasil-ajudou-tina-turner-a-entrar-no-guinness-book",
+            "veja.abril.com.br/coluna/veja-gente/como-o-brasil-ajudou-tina-turner-a-entrar-no-guinness-book/",
+            "www.10news.com/guinness-names-the-weeknd-worlds-most-popular-artist",
+            "www.barstoolsports.com/blog/3468368/im-convinced-the-easiest-way-to-get-into-the-guinness-book-of-world-records-is-to-act-like-a-child",
+            "www.billboard.com/music/music-news/the-weeknd-worlds-most-popular-artist-guinness-world-records-1235290803/",
+            "www.birminghammail.co.uk/news/showbiz-tv/paddy-mcguinness-says-its-heaven-26976767",
+            "www.brickfanatics.com/lego-10276-colosseum-built-in-guinness-world-record-setting-time",
+            "www.corkbeo.ie/news/local-news/guinness-guru-says-no-pint-26995156",
+            "www.dicasonline.com/o-bebe-prematuro-mais-jovem-a-sobreviver-entra-para-o-guinness/",
+            "www.elperiodicodearagon.com/deportes/2023/05/24/we-are-vespark-mas-de-1-440-kilometros-sobre-una-vespa-para-batir-un-record-guinness-en-zuera-87826399.html",
+            "www.factinate.com/people/facts-gloria-guinness/",
+            "www.guinnessworldrecords.com/news/2022/2/worlds-heaviest-strawberry-grown-in-israel-breaks-record-692512",
+            "www.guinnessworldrecords.com/news/2022/4/how-vesna-vulovic-survived-the-highest-fall-ever-with-no-parachute-697786",
+            "www.guinnessworldrecords.com/news/2022/5/worlds-shortest-woman-jyoti-amge-making-average-sided-things-look-big-7",
+            "www.guinnessworldrecords.com/news/2022/8/my-royal-crown-florida-woman-has-the-worlds-longest-locs-713242",
+            "www.guinnessworldrecords.com/news/2023/2/oldest-dog-ever-record-broken-by-30-year-old-bobi-from-portugal-736224",
+            "www.guinnessworldrecords.com/news/2023/5/india-surpasses-china-as-most-populated-country-despite-being-three-times-smaller-750614",
+            "www.guinnessworldrecords.com/news/2023/5/legend-of-zelda-tears-of-the-kingdom-sells-faster-than-any-nintendo-game-in-hist-750686",
+            "www.guinnessworldrecords.com/news/2023/5/worlds-most-expensive-ice-cream-will-set-you-back-more-than-a-family-ho",
+            "www.guinnessworldrecords.com/news/commercial/2023/5/long-hair-festival-250-chinese-women-land-record-with-beautiful-combing-ceremony-749771",
+            "www.guinnessworldrecords.com/world-records/110694-most-pull-ups-in-one-minute-female",
+            "www.guinnessworldrecords.com/world-records/382094-most-wins-of-the-shogakukan-manga-award",
+            "www.guinnessworldrecords.com/world-records/412689-farthest-blindfolded-catch-of-an-american-football-stationary",
+            "www.guinnessworldrecords.com/world-records/524197-youngest-person-to-row-the-arctic-ocean-open-waters-north-to-south",
+            "www.guinnessworldrecords.com/world-records/638646-largest-gape-female",
+            "www.guinnessworldrecords.com/world-records/68719-tallest-human-pyramid",
+            "www.guinnessworldrecords.com/world-records/693356-fastest-time-to-complete-a-pop-it",
+            "www.guinnessworldrecords.com/world-records/69627-largest-rock-festival-attendance",
+            "www.guinnessworldrecords.com/world-records/706774-fastest-time-to-complete-all-trails-on-mount-fuji",
+            "www.guinnessworldrecords.com/world-records/73087-largest-age-difference-between-a-married-couple",
+            "www.guinnessworldrecords.com/world-records/heaviest-birth",
+            "www.guinnessworldrecords.com/world-records/longest-barbecue-marathon",
+            "www.guinnessworldrecords.com/world-records/longest-ectopic-pregnancy",
+            "www.guinnessworldrecords.com/world-records/most-golf-birdies-made-in-one-week",
+            "www.guinnessworldrecords.com/world-records/most-operations-endured",
+            "www.guinnessworldrecords.com/world-records/most-successful-commercial-rocket-launcher",
+            "www.liverpoolecho.co.uk/news/showbiz-news/paddy-mcguinness-heaven-ex-christine-26979050",
+            "www.mirror.co.uk/3am/celebrity-news/christine-mcguinness-announces-major-change-30063579",
+            "www.msn.com/en-us/health/nutrition/this-guinness-braised-short-ribs-recipe-is-the-ultimate-comfort-food/ar-AA13VIPo",
+            "www.msn.com/en-us/travel/tripideas/texas-city-loses-guinness-world-record-bid-for-the-biggest-group-of-people-with-the-same-first-name/ar-AA1bCq2w",
+            "www.nottinghampost.com/news/celebs-tv/paddy-mcguinness-in-heaven-updates-8465280",
+            "www.slashfilm.com/1291571/alec-guinness-strict-requests-for-star-wars-empire-strikes-back/",
+            "www.upi.com/Odd_News/2023/05/23/italy-Guinness-World-Records-highest-llama-jump/6681684867548/",
+            "www.upi.com/Odd_News/2023/05/24/romania-Guinness-World-Records-largest-T-shirt/4341684950864/",
+            "www.yasss.es/actualidad/20230518/bobi-perro-mas-viejo-mundo-31-anos-record-guinness-fiesta-cumpleanos_18_09553820.html",
+            "www.yourmoneymagic.com/the-worlds-wackiest-guinness-world-records/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Guinness",
+    "option": "ctx",
+    "form": "guinness",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "guinness",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "draught",
+          "mode": "c"
+        },
+        {
+          "keyword": "extra-stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "foreign-extra-stout",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/lifestyle/family/i-made-a-big-mistake-dad-had-to-pick-his-son-from-school-because-he-packed-a-can-of-guinness-beer-in-his-lunchbox-instead-of-sparkling-water/ar-AA1ackKw"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://thelistwire.usatoday.com/lists/most-popular-beers-united-states-corona-guinness-budweiser/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

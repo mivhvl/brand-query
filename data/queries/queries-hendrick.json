@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Hendrick's",
+    "option": "base",
+    "form": "hendricks",
+    "query": {
+      "required": [
+        {
+          "keyword": "hendricks",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Hendrick's",
+    "option": "ctx",
+    "form": "hendricks",
+    "query": {
+      "required": [
+        {
+          "keyword": "hendricks",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "cucumber",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Hendrick's",
+    "option": "base",
+    "form": "hendrick-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "hendrick-s",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Hendrick's",
+    "option": "ctx",
+    "form": "hendrick-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "hendrick-s",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "cucumber",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

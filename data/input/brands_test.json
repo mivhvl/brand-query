@@ -1,0 +1,178 @@
+[
+ {
+  "name": "Budweiser",
+  "category": "beer",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Bud"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also used by Czech brewery Budweiser Budvar",
+  "context": [
+   "select",
+   "zero",
+   "lime"
+  ]
+ },
+ {
+  "name": "Żywiec",
+  "category": "beer",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also the name of a Polish town",
+  "context": [
+   "bawarski",
+   "porter",
+   "bock",
+   "strong"
+  ]
+ },
+ {
+  "name": "Hendrick's",
+  "category": "gin",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Hendricks"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also a common surname",
+  "context": [
+   "rose",
+   "elderflower"
+  ]
+ },
+ {
+  "name": "Tanqueray",
+  "category": "gin",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "no-ten",
+   "rangpur",
+   "malacca",
+   "coconut"
+  ]
+ },
+ {
+  "name": "Bacardi",
+  "category": "rum",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a family name and company",
+  "context": [
+   "151",
+   "oakheart",
+   "8",
+   "anejo"
+  ]
+ },
+ {
+  "name": "Captain Morgan",
+  "category": "rum",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Captain Morgan Rum",
+   "CM"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also name of a historic pirate",
+  "context": [
+   "original-spiced",
+   "white",
+   "dark",
+   "black-spiced",
+   "151"
+  ]
+ },
+ {
+  "name": "Grey Goose",
+  "category": "vodka",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also the name of a bird species",
+  "context": [
+   "vx",
+   "le-citron",
+   "l-orange",
+   "cherry"
+  ]
+ },
+ {
+  "name": "Wyborowa",
+  "category": "vodka",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [],
+  "ambiguous": true,
+  "ambiguity_reason": "also a generic Polish adjective meaning 'choice'",
+  "context": [
+   "original",
+   "extra-dry",
+   "ice",
+   "red",
+   "premium",
+   "spiced"
+  ]
+ },
+ {
+  "name": "Jack Daniel's",
+  "category": "whisky",
+  "regions": [
+   "USA"
+  ],
+  "aliases": [
+   "Jack",
+   "JD"
+  ],
+  "ambiguous": true,
+  "ambiguity_reason": "also a person's name",
+  "context": [
+   "old-no-7",
+   "gentleman-jack",
+   "single-barrel",
+   "black-label",
+   "tennessee-honey",
+   "tennessee-fire"
+  ]
+ },
+ {
+  "name": "Johnnie Walker",
+  "category": "whisky",
+  "regions": [
+   "Poland"
+  ],
+  "aliases": [
+   "JW",
+   "Johnnie"
+  ],
+  "ambiguous": false,
+  "ambiguity_reason": "",
+  "context": [
+   "red-label",
+   "black-label",
+   "gold-label",
+   "blue-label",
+   "green-label"
+  ]
+ }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "Lech",
+    "option": "base",
+    "form": "lech",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "lech",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://vnexpress.net/vo-chong-lech-nhau-chuyen-chan-goi-4562757.html",
+            "https://www.vol.at/lech-zuers-fliegt-aus-ski-weltcupkalender/8098807/amp"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 42,
+          "sampleSize": 664385,
+          "urls": [
+            "https://fakty.tvn24.pl/fakty-o-swiecie/lech-miodek-i-maciej-stasinski-o-kryzysie-w-wenezueli-ra931947-6795814",
+            "https://gloswielkopolski.pl/lech-poznan-pobije-rekord-rakow-potrzebowalby-na-to-ponad-6-lat/ar/c2-17571197",
+            "https://kobieta.gazeta.pl/kobieta/7,107881,29785447,lech-walesa-podal-kwote-swojej-emerytury-teraz-mi-nie-starcza.html",
+            "https://sport.interia.pl/klub-lech-poznan/news-gwiazdor-lecha-z-konkretna-oferta-duzy-klub-widzi-go-u-siebi,nId,6789989",
+            "https://sport.interia.pl/klub-lech-poznan/news-na-taka-informacje-czekal-lech-poznan-otworzyla-sie-furtka-d,nId,6795390",
+            "https://sport.interia.pl/klub-lech-poznan/news-wielki-talent-lecha-trafi-do-la-liga-trwaja-zaawansowane-roz,nId,6798301",
+            "https://sportowefakty.wp.pl/pilka-nozna/1061918/lech-poznan-dopial-swego-kluczowy-obronca-zostaje-w-klubie-na-stale",
+            "https://transfery.info/aktualnosci/lech-poznan-filip-marchwinski-na-celowniku-klubu-z-serie-a/185651",
+            "https://transfery.info/aktualnosci/lech-poznan-ma-z-glowy-poszukiwania-napastnika-to-on-moze-zastapic-artura-sobiecha/185692",
+            "https://transfery.info/aktualnosci/lech-poznan-moze-sfinalizowac-wielki-cel-na-letnie-okno-transferowe-oficjalnie/185627",
+            "https://warframe.fandom.com/wiki/Lieutenant_Lech_Kril",
+            "https://wiadomosci.onet.pl/kraj/lech-walesa-zdradzil-ile-dostaje-emerytury-mowi-ze-mu-nie-starcza/kbrhj73",
+            "https://www.augsburger-allgemeine.de/augsburg/augsburg-raetsel-um-15-jaehrige-wer-stiess-das-maedchen-in-den-lech-id66589166.html",
+            "https://www.bergfex.at/lech-zuers-arlberg/webcams/c3484/",
+            "https://www.bw24.de/welt/bayern-aerztin-weihnachten-landsberg-lech-mutter-tot-kinder-aerztin-hilfsaktion-corona-zr-90124841.html",
+            "https://www.fiorentinanews.com/ufficiale-ecco-date-e-orari-del-doppio-confronto-tra-fiorentina-e-lech-poznan-una-brutta-notizia-per-il-ritorno-al-franchi/",
+            "https://www.immobilienscout24.de/Suche/de/bayern/landsberg-am-lech-kreis/igling/immobilien",
+            "https://www.immobilienscout24.de/Suche/de/bayern/landsberg-am-lech-kreis/landsberg-am-lech/haus-kaufen",
+            "https://www.immobilienscout24.de/Suche/de/bayern/landsberg-am-lech-kreis/utting-am-ammersee/haus-kaufen",
+            "https://www.immowelt.at/suche/lech/haeuser/kaufen",
+            "https://www.kleinanzeigen.de/s-autos/opel/landsberg-%28lech%29/c216l7063+autos.fuel_s:benzin+autos.marke_s:opel+autos.typ_s:bus",
+            "https://www.kleinanzeigen.de/s-autos/opel/landsberg-(lech)/c216l7063 autos.fuel_s:benzin autos.marke_s:opel autos.typ_s:bus",
+            "https://www.kleinanzeigen.de/s-holzheim-a-lech/seite:2/rollstuhl/k0l15867",
+            "https://www.kleinanzeigen.de/s-landsberg-%28lech%29/seite:18/l7063",
+            "https://www.kleinanzeigen.de/s-landsberg-%28lech%29/seite:23/l7063",
+            "https://www.kleinanzeigen.de/s-landsberg-%28lech%29/seite:6/l7063",
+            "https://www.kleinanzeigen.de/s-landsberg-%28lech%29/tablett/k0l7063",
+            "https://www.kleinanzeigen.de/s-landsberg-(lech)/solaranlage/k0l7063",
+            "https://www.kleinanzeigen.de/s-landsberg-(lech)/tisch-garten/k0l7063",
+            "https://www.kleinanzeigen.de/s-rain-lech/kinderbett-gebraucht/k0l12508",
+            "https://www.kleinanzeigen.de/s-wohnwagen-mobile/landsberg-%28lech%29/solaranlage/k0c220l7063",
+            "https://www.meczyki.pl/newsy/lech-poznan-moze-stracic-utalentowanego-pilkarza-jest-zainteresowanie-z-la-liga/212423-n",
+            "https://www.meczyki.pl/newsy/lech-poznan-potwierdzil-transfer-cenionego-obroncy-defensor-na-stale-w-kolejorzu/212409-n",
+            "https://www.meczyki.pl/newsy/spadli-z-ligi-ale-w-niej-zostana-kluby-ekstraklasy-tylko-na-to-czekaja-lech-poznan-ma-go-na-liscie/212307-n",
+            "https://www.merkur.de/bayern/schwaben/fuessen-pfronten-reutte-kreisbote/fuessen-acht-schwanenkueken-am-lech-sind-tot-92288621.html",
+            "https://www.sport.pl/pilka/7,65039,29792128,lech-ma-problem-z-glowy-niespodziewane-rozwiazanie-ws-nowego.html",
+            "https://www.sport.pl/pilka/7,65039,29794326,dobre-wiesci-dla-kibicow-z-poznania-lech-przedluzyl-umowy-z.html",
+            "https://www.vol.at/wo-ein-hotel-in-lech-um-725-millionen-euro-verkauft-wurde/8092810",
+            "https://www.wetter.com/deutschland/oberndorf-a-lech/oberndorf/de0007780.html",
+            "https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/deutschland/landsberg-am-lech/DE0005993.html",
+            "https://www.wetter.com/wetter_aktuell/wettervorhersage/7_tagesvorhersage/deutschland/landsberg-am-lech/DE0005993.html#wetter",
+            "https://www.wort-suchen.de/kreuzwortraetsel-hilfe/loesungen/Kneippkurort+am+Lech"
+          ]
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://ajansspor.com/haber/canli-lech-poznan-fiorentina-629268",
+            "https://phimlau.com/phim/ham-muon-lech-lac-deviant-80e.html",
+            "https://phimlau.com/xem-phim/ham-muon-lech-lac-deviant-80e.html"
+          ]
+        },
+        "source5": {
+          "quantity": 12,
+          "sampleSize": 950989,
+          "urls": [
+            "gloswielkopolski.pl/lech-poznan-pobije-rekord-rakow-potrzebowalby-na-to-ponad-6-lat/ar/c1-17571197",
+            "gloswielkopolski.pl/lech-poznan-pobije-rekord-rakow-potrzebowalby-na-to-ponad-6-lat/ar/c2-17571197",
+            "gol24.pl/var-tylko-na-czterech-meczach-ogloszono-sedziow-34-kolejki-pko-ekstraklasy-szymon-marciniak-rozjemca-lech-jagiellonia/ar/c2-17575889",
+            "przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/lech-zatrzymuje-wychowanka-klub-oglosil-przedluzenie-umowy/eng8btp",
+            "sportowefakty.wp.pl/pilka-nozna/1061918/lech-poznan-dopial-swego-kluczowy-obronca-zostaje-w-klubie-na-stale",
+            "transfery.info/aktualnosci/lech-poznan-filip-marchwinski-na-celowniku-klubu-z-serie-a/185651",
+            "transfery.info/aktualnosci/lech-poznan-kristoffer-velde-wygral-zaklad-z-prezesem-kolejorza/185802",
+            "transfery.info/aktualnosci/lech-poznan-ma-z-glowy-poszukiwania-napastnika-to-on-moze-zastapic-artura-sobiecha/185692",
+            "transfery.info/aktualnosci/lech-poznan-zmiany-w-sztabie-szkoleniowym-dwoch-trenerow-opusci-zespol/185793",
+            "wiadomosci.wp.pl/lech-walesa-6030131355423873c",
+            "www.fakt.pl/polityka/lech-walesa-powiedzial-jaka-ma-emeryture-mowi-ze-musi-do-niej-dorabiac/pczdc9b",
+            "www.onet.pl/sport/przeglad-sportowy/lech-poznan-filip-marchwinski-na-fali-wznoszacej-czy-pojdzie-sladami-skorasia/xcqj6k9,5e4c2379"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Lech",
+    "option": "ctx",
+    "form": "lech",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "lech-premium",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "pils",
+          "mode": "c"
+        },
+        {
+          "keyword": "free",
+          "mode": "c"
+        },
+        {
+          "keyword": "premium",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 2
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

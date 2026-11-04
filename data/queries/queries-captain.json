@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Captain Morgan",
+    "option": "base",
+    "form": "captain-morgan",
+    "query": {
+      "required": [
+        {
+          "keyword": "captain-morgan",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Captain Morgan",
+    "option": "ctx",
+    "form": "captain-morgan",
+    "query": {
+      "required": [
+        {
+          "keyword": "captain-morgan",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "original-spiced",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Captain Morgan",
+    "option": "base",
+    "form": "captain",
+    "query": {
+      "required": [
+        {
+          "keyword": "captain",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Captain Morgan",
+    "option": "ctx",
+    "form": "captain",
+    "query": {
+      "required": [
+        {
+          "keyword": "captain",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "original-spiced",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

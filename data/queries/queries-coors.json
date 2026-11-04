@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Coors",
+    "option": "base",
+    "form": "coors",
+    "query": {
+      "required": [
+        {
+          "keyword": "coors",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Coors",
+    "option": "ctx",
+    "form": "coors",
+    "query": {
+      "required": [
+        {
+          "keyword": "coors",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "light",
+          "mode": "c"
+        },
+        {
+          "keyword": "banquet",
+          "mode": "c"
+        },
+        {
+          "keyword": "extra-gold",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

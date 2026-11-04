@@ -1,0 +1,962 @@
+{
+  "results": [
+    {
+      "id": "Budweiser",
+      "required": [
+        {
+          "keyword": "budweiser",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "select",
+          "mode": "m"
+        },
+        {
+          "keyword": "copper",
+          "mode": "m"
+        },
+        {
+          "keyword": "zero",
+          "mode": "m"
+        },
+        {
+          "keyword": "bud-light",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Coors",
+      "required": [
+        {
+          "keyword": "coors",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "light",
+          "mode": "m"
+        },
+        {
+          "keyword": "banquet",
+          "mode": "m"
+        },
+        {
+          "keyword": "extra-gold",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Guinness",
+      "required": [
+        {
+          "keyword": "guinness",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "draught",
+          "mode": "c"
+        },
+        {
+          "keyword": "extra-stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "foreign-extra-stout",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Miller",
+      "required": [
+        {
+          "keyword": "miller",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "lite",
+          "mode": "m"
+        },
+        {
+          "keyword": "high-life",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Samuel Adams",
+      "required": [
+        {
+          "keyword": "samuel-adams",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Beefeater",
+      "required": [
+        {
+          "keyword": "beefeater",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Bombay Sapphire",
+      "required": [
+        {
+          "keyword": "bombay-sapphire",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Hendrick's",
+      "required": [
+        {
+          "keyword": "hendrick-s",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Monkey 47",
+      "required": [
+        {
+          "keyword": "monkey-47",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Roku",
+      "required": [
+        {
+          "keyword": "roku",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Tanqueray",
+      "required": [
+        {
+          "keyword": "tanqueray",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "no-10",
+          "mode": "m"
+        },
+        {
+          "keyword": "rangpur",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Captain Morgan",
+      "required": [
+        {
+          "keyword": "captain-morgan",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Diplomatico",
+      "required": [
+        {
+          "keyword": "diplomatico",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "reserva-exclusiva",
+          "mode": "m"
+        },
+        {
+          "keyword": "mantuano",
+          "mode": "m"
+        },
+        {
+          "keyword": "planas",
+          "mode": "m"
+        },
+        {
+          "keyword": "xo",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Havana Club",
+      "required": [
+        {
+          "keyword": "havana-club",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "3-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "5-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "7-anos",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-anos",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Malibu",
+      "required": [
+        {
+          "keyword": "malibu",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "pineapple",
+          "mode": "m"
+        },
+        {
+          "keyword": "coconut",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Absolut",
+      "required": [
+        {
+          "keyword": "absolut",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "elderflower",
+          "mode": "m"
+        },
+        {
+          "keyword": "peach",
+          "mode": "m"
+        },
+        {
+          "keyword": "vanilla",
+          "mode": "m"
+        },
+        {
+          "keyword": "citron",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Belvedere",
+      "required": [
+        {
+          "keyword": "belvedere",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "premium",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Smirnoff",
+      "required": [
+        {
+          "keyword": "smirnoff",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "vanilla",
+          "mode": "m"
+        },
+        {
+          "keyword": "raspberry",
+          "mode": "m"
+        },
+        {
+          "keyword": "green-apple",
+          "mode": "m"
+        },
+        {
+          "keyword": "berry",
+          "mode": "m"
+        },
+        {
+          "keyword": "ice",
+          "mode": "m"
+        },
+        {
+          "keyword": "malt",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Tito's Handmade Vodka",
+      "required": [
+        {
+          "keyword": "titos",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Ballantine's",
+      "required": [
+        {
+          "keyword": "ballantines",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Chivas Regal",
+      "required": [
+        {
+          "keyword": "chivas-regal",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Glenfiddich",
+      "required": [
+        {
+          "keyword": "glenfiddich",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "Jack Daniel's",
+      "required": [
+        {
+          "keyword": "jack-daniels",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "old-no-7",
+          "mode": "m"
+        },
+        {
+          "keyword": "gentleman-jack",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "fire",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Jameson",
+      "required": [
+        {
+          "keyword": "jameson",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "caskmates-stout-edition",
+          "mode": "m"
+        },
+        {
+          "keyword": "caskmates-ipa-edition",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Jim Beam",
+      "required": [
+        {
+          "keyword": "jim-beam",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "devils-cut",
+          "mode": "m"
+        },
+        {
+          "keyword": "rye",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-oak",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Johnnie Walker",
+      "required": [
+        {
+          "keyword": "johnnie-walker",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "red-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "gold-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "blue-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "green-label",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-black",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Maker's Mark",
+      "required": [
+        {
+          "keyword": "makers-mark",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "The Macallan",
+      "required": [
+        {
+          "keyword": "the-macallan",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "sherry-oak",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-cask",
+          "mode": "m"
+        },
+        {
+          "keyword": "fine-oak",
+          "mode": "m"
+        },
+        {
+          "keyword": "triple-cask",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    {
+      "id": "Wild Turkey",
+      "required": [
+        {
+          "keyword": "wild-turkey",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "101",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-breed",
+          "mode": "m"
+        },
+        {
+          "keyword": "kentucky-spirit",
+          "mode": "m"
+        },
+        {
+          "keyword": "american-honey",
+          "mode": "m"
+        },
+        {
+          "keyword": "distillers-reserve",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    }
+  ]
+}

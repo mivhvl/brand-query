@@ -1,0 +1,143 @@
+[
+  {
+    "id": "Żubr",
+    "option": "base",
+    "form": "zubr",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "zubr",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 5,
+          "sampleSize": 664385,
+          "urls": [
+            "https://freizeit.at/lust-liebe/3-loesungsansaetze-dating-frust-auszubrechen/402438021",
+            "https://www.immobilienscout24.de/gewerbe-flaechen/de/23617/stockelsdorf/einzelhandel-mieten/polygon/Z2B9X0Fxc2VoSW1pQWhDcWZBeEt9YEF2U3d4QHxaa25AYGFAZWJAeGVAc1RiaUBnRnhqQGpGeGpAdlRiaUBmYkB4ZUBsbkB+YEB2eEB8WnpgQXZTbGZBdktoaUFoQ2hpQWlDbGZBd0t6YEF3U3Z4QH1abG5AX2FAZmJAeWVAdlRjaUBqRnlqQGdGeWpAc1RjaUBlYkB5ZUBrbkBhYUB3eEB9Wn1gQXdTcWZBeUttaUFpQw==",
+            "https://www.rnd.de/beruf-und-bildung/iglu-studie-was-eltern-tun-koennen-um-ihren-kindern-das-lesen-naeherzubringen-AFILTHWX3BF7DL4OSV5M3Z4IMQ.html",
+            "https://www.tripadvisor.de/ShowUserReviews-g6840479-d6776131-r381050332-The_Grand_Budapest_Hotel-The_Republic_of_Zubrowka.html",
+            "https://www.vienna.at/mann-in-wien-margareten-versuchte-zeitungskassa-aufzubrechen/8091409"
+          ]
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 5,
+          "sampleSize": 950989,
+          "urls": [
+            "autogidas.lt/skelbimas/automobiline-priekaba-zubrionok-automobiline-priekaba-savos--2005-m-17300700.html",
+            "www.aruodas.lt/namai-vilniaus-rajone-uzubrascio-k-saltalankiu-g-ar-svajojate-gyventi-tvariuose-namuose-2-1542151/",
+            "www.fr.de/ratgeber/wohnen/tricks-um-die-kleine-wohnung-ganz-gross-rauszubringen-zr-92299968.html",
+            "www.olx.pl/zubrzyca-gorna/q-w%C3%B3zek-parasolka/",
+            "www.onet.pl/informacje/onetbialystok/zubr-probowal-przejsc-przez-jezdnie-nagle-pojawili-sie-policjanci-wideo/6x9yd7z,79cfc278"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Żubr",
+    "option": "ctx",
+    "form": "zubr",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "zubr",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "classic",
+          "mode": "m"
+        },
+        {
+          "keyword": "strong",
+          "mode": "m"
+        },
+        {
+          "keyword": "bison",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

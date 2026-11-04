@@ -1,0 +1,63 @@
+[
+  {
+    "id": "Budweiser",
+    "option": "ctx",
+    "form": "budweiser",
+    "query": {
+      "required": [
+        {
+          "keyword": "budweiser",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "select",
+          "mode": "m"
+        },
+        {
+          "keyword": "copper",
+          "mode": "m"
+        },
+        {
+          "keyword": "zero",
+          "mode": "m"
+        },
+        {
+          "keyword": "bud-light",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

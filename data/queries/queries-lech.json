@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Lech",
+    "option": "base",
+    "form": "lech",
+    "query": {
+      "required": [
+        {
+          "keyword": "lech",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Lech", 
+    "option": "ctx",
+    "form": "lech",
+    "query": {
+      "required": [
+        {
+          "keyword": "lech-premium",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "pils",
+          "mode": "c"
+        },
+        {
+          "keyword": "free",
+          "mode": "c"
+        },
+        {
+          "keyword": "premium",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 2
+    },
+    "final_eligible": true
+  }
+]

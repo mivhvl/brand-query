@@ -1,0 +1,170 @@
+[
+  {
+    "id": "Diplomatico",
+    "option": "base",
+    "form": "diplomatico",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "diplomatico",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://sweepstakesfanatics.com/diplomatico-rum-festival-sweepstakes/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 27,
+          "sampleSize": 664385,
+          "urls": [
+            "https://blog.giallozafferano.it/valeriaciccotti/diplomatico-classico-dolce/",
+            "https://it.euronews.com/2019/07/04/lo-spagnolo-josep-borrell-un-capo-della-diplomazia-europea-davvero-poco-diplomatico",
+            "https://m.dagospia.com/gli-insulti-razzisti-a-vinicius-junior-rischiano-di-diventare-un-caso-diplomatico-il-brasile-354401",
+            "https://www.lantidiplomatico.it",
+            "https://www.lantidiplomatico.it/",
+            "https://www.lantidiplomatico.it/dettnews-alistair_crooke__quali_sono_le_linee_rosse_delleuropa/45289_49771",
+            "https://www.lantidiplomatico.it/dettnews-alistair_crooke__quali_sono_le_linee_rosse_delleuropa/45289_49771/",
+            "https://www.lantidiplomatico.it/dettnews-borrell_lamicizia_con_la_russia_e_ladesione_allue_sono_incompatibili/82_49744/",
+            "https://www.lantidiplomatico.it/dettnews-c_chi_prepara_la_pace_e_chi_fomenta_la_guerra/5694_49749",
+            "https://www.lantidiplomatico.it/dettnews-federica_vasselli_la_mia_arte_un_ponte_di_amicizia_tra_il_popolo_italiano_e_quello_russo/5496_49763",
+            "https://www.lantidiplomatico.it/dettnews-federica_vasselli_la_mia_arte_un_ponte_di_amicizia_tra_il_popolo_italiano_e_quello_russo/5496_49763/",
+            "https://www.lantidiplomatico.it/dettnews-fezzan_e_ong_italiane_ali_alhilali_la_migrazione_come_arma_di_guerra_in_libia/41939_49769/",
+            "https://www.lantidiplomatico.it/dettnews-finisce_definitivamente_lera_degli_usa_esportatori_netti_di_petrolio/49734_49736",
+            "https://www.lantidiplomatico.it/dettnews-ft__il_g7_deve_accettare_di_non_governare_pi_il_mondo/39602_49768",
+            "https://www.lantidiplomatico.it/dettnews-ft__il_g7_deve_accettare_di_non_governare_pi_il_mondo/39602_49768/",
+            "https://www.lantidiplomatico.it/dettnews-gli_f_16_al_regime_di_kiev_e_lo_scenario_del_conflitto_congelato/45289_49721/",
+            "https://www.lantidiplomatico.it/dettnews-il_particolare_taciuto_sugli_f16_e_lescalation_nucleare_scelta_dalla_nato/29296_49731",
+            "https://www.lantidiplomatico.it/dettnews-il_turno_di_taiwan_dopo_kosovo_e_donbass/24790_49619/",
+            "https://www.lantidiplomatico.it/dettnews-korbyko__la_polonia_pu_veramente_sostituire_la_germania_alla_guida_della_politica_estera_dellue/37948_49754/",
+            "https://www.lantidiplomatico.it/dettnews-la.../39130_49739",
+            "https://www.lantidiplomatico.it/dettnews-la_censura_rende_liberi_youtube_e_il_caso_referendum/39130_49739/",
+            "https://www.lantidiplomatico.it/dettnews-la_cultura_e_la_bellezza_le_uniche_vie_di_uscita/29785_49723",
+            "https://www.lantidiplomatico.it/dettnews-la_grande_storia_della_nascita_e_della_morte_del_denaro/44290_49767",
+            "https://www.lantidiplomatico.it/dettnews-la_voce_del_padrone_alla_bocconi_in_ucraina_siamo_forse_ad_una_svolta/39602_49753",
+            "https://www.lantidiplomatico.it/dettnews-lettera_di_yellen_al_congresso_indica_la_data_del_possibile_default_usa/82_49743",
+            "https://www.lantidiplomatico.it/dettnews-metaverso_cos_e_come_pu_rivoluzionare_internet/39099_49764",
+            "https://www.lantidiplomatico.it/dettnews-pepe_escobar__il_nuovo_grande_gioco_geoeconomico_incentrato_sullintsc/5694_49757"
+          ]
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.eldiplomatico.com.mx/ubicacion"
+          ]
+        },
+        "source5": {
+          "quantity": 6,
+          "sampleSize": 950989,
+          "urls": [
+            "elpais.com/mexico/2023-05-17/el-conflicto-diplomatico-entre-mexico-y-peru-se-enciende-por-la-disputa-de-la-presidencia-de-la-alianza-del-pacifico.html",
+            "thefreebieguy.com/sweepstakes/the-diplomatico-rum-festival-sweepstakes/",
+            "www.eluniversal.com/internacional/156058/rusia-cierra-un-consulado-de-suecia-y-expulsa-a-cinco-diplomaticos",
+            "www.lantidiplomatico.it/dettnews-24_maggio_andrea_rocchelli_gli_anni_di_ingiustizie_e_censure_diventano_nove/29278_49758/",
+            "www.lantidiplomatico.it/dettnews-pepe_escobar__il_nuovo_grande_gioco_geoeconomico_incentrato_sullintsc/5694_49757/",
+            "www.lantidiplomatico.it/dettnews-terziarizzazione_delleconomia_tutti_i_fattori_che_spiegano_il_default_usa/5871_49730/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Diplomatico",
+    "option": "ctx",
+    "form": "diplomatico",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "diplomatico",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "reserva-exclusiva",
+          "mode": "m"
+        },
+        {
+          "keyword": "mantuano",
+          "mode": "m"
+        },
+        {
+          "keyword": "planas",
+          "mode": "m"
+        },
+        {
+          "keyword": "xo",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://sweepstakesfanatics.com/diplomatico-rum-festival-sweepstakes/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "thefreebieguy.com/sweepstakes/the-diplomatico-rum-festival-sweepstakes/"
+          ]
+        }
+      }
+    }
+  }
+]

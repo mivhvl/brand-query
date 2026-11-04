@@ -1,0 +1,57 @@
+[
+  {
+    "id": "Bombay Sapphire",
+    "option": "base",
+    "form": "bombay-sapphire",
+    "query": {
+      "required": [
+        {
+          "keyword": "bombay-sapphire",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Bombay Sapphire",
+    "option": "ctx",
+    "form": "bombay-sapphire",
+    "query": {
+      "required": [
+        {
+          "keyword": "bombay-sapphire",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "east",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

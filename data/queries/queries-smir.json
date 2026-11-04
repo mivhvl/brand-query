@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Smirnoff",
+    "option": "base",
+    "form": "smirnoff",
+    "query": {
+      "required": [
+        {
+          "keyword": "smirnoff",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Smirnoff",
+    "option": "ctx",
+    "form": "smirnoff",
+    "query": {
+      "required": [
+        {
+          "keyword": "smirnoff",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "vanilla",
+          "mode": "m"
+        },
+        {
+          "keyword": "raspberry",
+          "mode": "m"
+        },
+        {
+          "keyword": "green-apple",
+          "mode": "m"
+        },
+        {
+          "keyword": "berry",
+          "mode": "m"
+        },
+        {
+          "keyword": "ice",
+          "mode": "m"
+        },
+        {
+          "keyword": "malt",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

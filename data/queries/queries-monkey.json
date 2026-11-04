@@ -1,0 +1,61 @@
+[
+  {
+    "id": "Monkey 47",
+    "option": "base",
+    "form": "monkey-47",
+    "query": {
+      "required": [
+        {
+          "keyword": "monkey-47",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Monkey 47",
+    "option": "ctx",
+    "form": "monkey-47",
+    "query": {
+      "required": [
+        {
+          "keyword": "monkey-47",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "forest-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "elderflower",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

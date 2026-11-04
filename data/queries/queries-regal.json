@@ -1,0 +1,144 @@
+[
+  {
+    "id": "Chivas Regal",
+    "option": "base",
+    "form": "chivas-regal",
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas-regal",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Chivas Regal",
+    "option": "ctx",
+    "form": "chivas-regal",
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas-regal",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "18-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "extra-13",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Chivas Regal",
+    "option": "base",
+    "form": "chivas",
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Chivas Regal",
+    "option": "ctx",
+    "form": "chivas",
+    "query": {
+      "required": [
+        {
+          "keyword": "chivas",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "18-year",
+          "mode": "m"
+        },
+        {
+          "keyword": "extra-13",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Samuel Adams",
+    "option": "base",
+    "form": "samuel-adams",
+    "query": {
+      "required": [
+        {
+          "keyword": "samuel-adams",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Samuel Adams",
+    "option": "ctx",
+    "form": "samuel-adams",
+    "query": {
+      "required": [
+        {
+          "keyword": "samuel-adams",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "boston-lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "octoberfest",
+          "mode": "m"
+        },
+        {
+          "keyword": "summer-ale",
+          "mode": "m"
+        },
+        {
+          "keyword": "amber-ale",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Samuel Adams",
+    "option": "base",
+    "form": "sam-adams",
+    "query": {
+      "required": [
+        {
+          "keyword": "sam-adams",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Samuel Adams",
+    "option": "ctx",
+    "form": "sam-adams",
+    "query": {
+      "required": [
+        {
+          "keyword": "sam-adams",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "boston-lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "octoberfest",
+          "mode": "m"
+        },
+        {
+          "keyword": "summer-ale",
+          "mode": "m"
+        },
+        {
+          "keyword": "amber-ale",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

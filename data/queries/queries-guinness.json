@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Guinness",
+    "option": "base",
+    "form": "guinness",
+    "query": {
+      "required": [
+        {
+          "keyword": "guinness",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Guinness",
+    "option": "ctx",
+    "form": "guinness",
+    "query": {
+      "required": [
+        {
+          "keyword": "guinness",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "draught",
+          "mode": "c"
+        },
+        {
+          "keyword": "extra-stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "foreign-extra-stout",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

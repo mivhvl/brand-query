@@ -1,0 +1,350 @@
+[
+  {
+    "id": "Jack Daniel's",
+    "option": "base",
+    "form": "jack-daniels",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniels",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 3,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniels-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0",
+            "https://www.thescottishsun.co.uk/tv/10712213/still-game-stars-legal-battle-jack-daniels",
+            "https://www.thescottishsun.co.uk/tv/10712213/still-game-stars-legal-battle-jack-daniels/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 15,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.glasgowtimes.co.uk/news/23542398.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.gutefrage.net/frage/jack-daniels-promille-nach-halber-flasche",
+            "https://www.heraldscotland.com/life_style/arts_ents/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky",
+            "https://www.heraldscotland.com/life_style/arts_ents/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.heraldscotland.com/news/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky",
+            "https://www.heraldscotland.com/news/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.kleinanzeigen.de/s-anzeige/3-jack-daniels-no-7-silber-benzin-feuerzeug-lighter/1908875053-234-4921",
+            "https://www.kleinanzeigen.de/s-anzeige/jack-daniels-feuerzeuge-metall-gold-silber/2401295115-234-4757",
+            "https://www.kleinanzeigen.de/s-jack-daniels-zigarette/k0",
+            "https://www.kleinanzeigen.de/s-seite:2/jack-daniels/k0",
+            "https://www.thenational.scot/news/23542483.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www-thescottishsun-co-uk.cdn.ampproject.org/v/s/www.thescottishsun.co.uk/tv/10712213/still-game-stars-legal-battle-jack-daniels/amp/",
+            "https://www.thescottishsun.co.uk/tv/10712213/still-game-stars-legal-battle-jack-daniels",
+            "https://www.thescottishsun.co.uk/tv/10712213/still-game-stars-legal-battle-jack-daniels/",
+            "https://www.thescottishsun.co.uk/tv/10712213/still-game-stars-legal-battle-jack-daniels/amp/#amp_tf=From%20%251%24s&aoh=16849462864486&csi=0&referrer=https%3A%2F%2Fwww.google.com"
+          ]
+        },
+        "source4": {
+          "quantity": 21,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/16/jack-daniels-single-barrel-barrel-proof-rye-becomes-permanent-extension/",
+            "https://blog.jackdanielsporsche.com/jack-daniels-porsche-americas-biggest-porsche-dealer/",
+            "https://dev.gabaapp.com/product/jack-daniels-whiskey-sinatra-select-750ml/",
+            "https://fontspool.com/generator/jack-daniels-font",
+            "https://veviski.com/jack-daniels-sinatra-select/",
+            "https://veviski.com/jack-daniels-single-barrel-rye/",
+            "https://whiskyoftheweek.co.uk/jack-daniels-single-barrel-vs-woodford-reserv/",
+            "https://www.fredminnick.com/2017/11/28/jack-daniels-bourbon/",
+            "https://www.glasgowtimes.co.uk/news/23542398.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.heraldscotland.com/life_style/arts_ents/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.melandrose.com/goldkenn/goldkenn-jack-daniels-honey-milk-chocolate-4996",
+            "https://www.nationwideliquor.com/188640/jack-daniels-old-no.-7-mclaren-formula-1-team-2023-edition-whiskey",
+            "https://www.nationwideliquor.com/188826/jack-daniels-mclaren-formula-1-team-2023-guitar-case-whiskey",
+            "https://www.scotusblog.com/2023/03/justices-appear-sympathetic-to-jack-daniels-in-trademark-parody-dispute/",
+            "https://www.scotusblog.com/case-files/cases/jack-daniels-properties-inc-v-vip-products-llc-2/",
+            "https://www.smithchavezlaw.com/blank-jack-daniels-label-template/blank-jack-daniels-label-template-11/",
+            "https://www.thenational.scot/news/23542483.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.whiskyliquorstore.com/110032/jack-daniels-bicentennial-1796-1996-unboxed",
+            "https://www.whiskyliquorstore.com/180039/jack-daniels-1915-gold-medal-1-litre-whiskey",
+            "https://www.whiskyliquorstore.com/182903/jack-daniels-155th-anniversary-guitar-case-whiskey",
+            "https://www.whiskyliquorstore.com/188826/jack-daniels-mclaren-formula-1-team-2023-guitar-case-whiskey"
+          ]
+        },
+        "source5": {
+          "quantity": 6,
+          "sampleSize": 950989,
+          "urls": [
+            "thebourbonculture.com/whiskey-reviews/jack-daniels-sinatra-select-tennessee-whiskey-review/",
+            "thepatriotjournal.com/jack-daniels-woke-social-media/",
+            "thewhiskeywash.com/reviews/whiskey-review-jack-daniels-12-year-old-tennessee-whiskey/",
+            "www.billboard.com/video/jack-daniels-presenta-tainy-latin-musics-most-successful-producer-talks-inspiration-resp",
+            "www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniels-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0",
+            "www.theslowroasteditalian.com/jack-daniels-bacon-mac-and-cheese-recipe"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Jack Daniel's",
+    "option": "ctx",
+    "form": "jack-daniels",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniels",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "old-no-7",
+          "mode": "m"
+        },
+        {
+          "keyword": "gentleman-jack",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "fire",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniels-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 6,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.glasgowtimes.co.uk/news/23542398.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.heraldscotland.com/life_style/arts_ents/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky",
+            "https://www.heraldscotland.com/life_style/arts_ents/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.heraldscotland.com/news/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky",
+            "https://www.heraldscotland.com/news/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.thenational.scot/news/23542483.still-game-creators-win-legal-battle-jack-daniels-whisky/"
+          ]
+        },
+        "source4": {
+          "quantity": 13,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://beveragedynamics.com/2023/05/16/jack-daniels-single-barrel-barrel-proof-rye-becomes-permanent-extension/",
+            "https://dev.gabaapp.com/product/jack-daniels-whiskey-sinatra-select-750ml/",
+            "https://veviski.com/jack-daniels-single-barrel-rye/",
+            "https://whiskyoftheweek.co.uk/jack-daniels-single-barrel-vs-woodford-reserv/",
+            "https://www.fredminnick.com/2017/11/28/jack-daniels-bourbon/",
+            "https://www.glasgowtimes.co.uk/news/23542398.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.heraldscotland.com/life_style/arts_ents/23542219.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.nationwideliquor.com/188640/jack-daniels-old-no.-7-mclaren-formula-1-team-2023-edition-whiskey",
+            "https://www.nationwideliquor.com/188826/jack-daniels-mclaren-formula-1-team-2023-guitar-case-whiskey",
+            "https://www.thenational.scot/news/23542483.still-game-creators-win-legal-battle-jack-daniels-whisky/",
+            "https://www.whiskyliquorstore.com/180039/jack-daniels-1915-gold-medal-1-litre-whiskey",
+            "https://www.whiskyliquorstore.com/182903/jack-daniels-155th-anniversary-guitar-case-whiskey",
+            "https://www.whiskyliquorstore.com/188826/jack-daniels-mclaren-formula-1-team-2023-guitar-case-whiskey"
+          ]
+        },
+        "source5": {
+          "quantity": 3,
+          "sampleSize": 950989,
+          "urls": [
+            "thebourbonculture.com/whiskey-reviews/jack-daniels-sinatra-select-tennessee-whiskey-review/",
+            "thewhiskeywash.com/reviews/whiskey-review-jack-daniels-12-year-old-tennessee-whiskey/",
+            "www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniels-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Jack Daniel's",
+    "option": "base",
+    "form": "jack-daniel-s",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniel-s",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0",
+            "www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Jack Daniel's",
+    "option": "ctx",
+    "form": "jack-daniel-s",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "jack-daniel-s",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "old-no-7",
+          "mode": "m"
+        },
+        {
+          "keyword": "gentleman-jack",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "fire",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0",
+            "www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.msn.com/en-us/money/companies/common-sense-has-prevailed-jack-daniel-s-loses-whiskey-trademark-lawsuit-against-comedy-duo/ar-AA1bHgn0"
+          ]
+        }
+      }
+    }
+  }
+]

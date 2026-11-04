@@ -1,0 +1,220 @@
+[
+  {
+    "id": "Jameson",
+    "option": "base",
+    "form": "jameson",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "jameson",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 27,
+          "sampleSize": 460974,
+          "urls": [
+            "https://apnews.com/article/jameson-williams-lions-gambling-nfl-40823c6d677aa89c8f722ed5e933ca49",
+            "https://delightfulmomfood.com/green-tea-shot-jameson-whiskey-recipe/",
+            "https://detroitsportsnation.com/detroit-lions-wr-jameson-williams-speaks-to-media-for-first-time-since-suspension/wgbrady/nfl-lions/detroit-lions-news/05/25/2023/409437",
+            "https://detroitsportsnation.com/jameson-williams-comments-on-liked-tweet-suggesting-detroit-lions-pursue-lamar-jackson/wgbrady/nfl-lions/detroit-lions-news/05/25/2023/409452/",
+            "https://ftw.usatoday.com/2023/05/lions-jameson-williams-nfl-gambling-suspension-reaction",
+            "https://profootballtalk.nbcsports.com/2023/05/25/jameson-williams-im-not-a-gambler-im-a-football-player/",
+            "https://sidelionreport.com/posts/calvin-johnson-a-fan-of-dan-campbell-has-advice-for-jameson-williams-01h193wxr867",
+            "https://sports.yahoo.com/lions-wr-jameson-williams-says-he-wasnt-aware-of-nfls-strict-gambling-rules-after-6-game-suspension-201201644.html",
+            "https://thespun.com/nfl/jameson-williams-breaks-silence-on-suspension-for-gambling",
+            "https://www.cbr.com/j-jonah-jameson-spider-man-worst-things/",
+            "https://www.detroitnews.com/story/sports/nfl/lions/2023/05/25/detroit-lions-jameson-williams-moving-forward-after-out-of-the-blue-gambling-suspension/70257903007/",
+            "https://www.foxnews.com/sports/lions-jameson-williams-suspended-gambling-says-wasnt-aware-nfls-betting-policies",
+            "https://www.freep.com/story/sports/nfl/lions/2023/05/25/detroit-lions-jameson-williams-gambling-suspension/70257874007/",
+            "https://www.msn.com/en-us/sports/nfl/jameson-williams-did-not-properly-understand-nfl-gambling-rule/ar-AA1bHg1R",
+            "https://www.msn.com/en-us/sports/nfl/lions-coach-dan-campbell-says-jameson-williams-is-miles-ahead-entering-year-2/ar-AA1bHdBU",
+            "https://www.msn.com/en-us/sports/nfl/lions-wr-jameson-williams-says-he-wasn-t-aware-of-nfl-policy-he-violated/ar-AA1bHhCu",
+            "https://www.on3.com/pro/news/lions-wr-jameson-williams-claims-he-wasnt-aware-of-the-nfl-gambling-policy-wont-appeal-suspension/",
+            "https://www.prideofdetroit.com/2023/5/25/23737775/detroit-lions-jameson-williams-not-aware-nfl-policy-gambling-suspension-response",
+            "https://www-prideofdetroit-com.cdn.ampproject.org/v/s/www.prideofdetroit.com/platform/amp/2023/5/25/23737775/detroit-lions-jameson-williams-not-aware-nfl-policy-gambling-suspension-response",
+            "https://www.prideofdetroit.com/platform/amp/2023/5/25/23737775/detroit-lions-jameson-williams-not-aware-nfl-policy-gambling-suspension-response",
+            "https://www.prideofdetroit.com/platform/amp/2023/5/25/23737775/detroit-lions-jameson-williams-not-aware-nfl-policy-gambling-suspension-response#aoh=16850588233798&csi=0&referrer=https://www.google.com&amp_tf=From %1$s&ampshare=https://www.prideofdetroit.com/2023/5/25/23737775/detroit-lions-jameson-williams-not-aware-nfl-policy-gambling-suspension-response",
+            "https://www.si.com/nfl/lions/news/calvin-johnson-advice-jameson-williams",
+            "https://www.si.com/nfl/lions/news/jameson-williams-did-not-understand-nfl-gambling-rule",
+            "https://www.truepeoplesearch.com/find/jameson/zelda/area/tx/humble",
+            "https://www.usnews.com/news/sports/articles/2023-05-25/suspended-lions-wr-jameson-williams-says-he-wasnt-aware-of-nfl-ru",
+            "https://www.yourtango.com/experts/sean-jameson/dirty-questions",
+            "mixedarticle.com/msnbc-journalist-tim-miller-husband-tyler-jameson-gay-political-analyst"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 3,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.harrogateadvertiser.co.uk/sport/football/why-harrogate-town-boss-simon-weaver-replaced-pete-jameson-with-mark-oxley-at-salford-city-4027808",
+            "https://www.hln.be/celebrities/de-straffe-strijd-tegen-de-kilo-s-van-queen-of-porn-jenna-jameson~ab12de1f/",
+            "https://www.ranker.com/list/cannibal-history-of-jameson-whiskey/rachel-souerbry"
+          ]
+        },
+        "source4": {
+          "quantity": 19,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://arbsession.com/jameson-fg-series-hollow-core-pole.html",
+            "https://efrem.net/becca-jameson/520727-grace_corked_and_tapped_book_2.html",
+            "https://ftw.usatoday.com/2023/05/lions-jameson-williams-nfl-gambling-suspension-reaction",
+            "https://lionswire.usatoday.com/2023/04/21/jameson-williams-agent-releases-statement-gambling-6-game-suspension/",
+            "https://saintswire.usatoday.com/2023/05/22/nfl-gambling-suspensions-jameson-williams-lions-saints-tyrann-mathieu-alvin-kamara/",
+            "https://veviski.com/category/jameson/",
+            "https://veviski.com/jameson-black-barrel/",
+            "https://veviski.com/jameson-caskmates-ipa/",
+            "https://veviski.com/jameson-cold-brew/",
+            "https://www.carnival.com/in-room-food-beverages/liquor/jameson-irish-whiskey-530",
+            "https://www.cleanlink.com/news/article/Nelson-Jameson-Acquires-New-York-Based-Distributor---29665",
+            "https://www.eliteprospects.com/player/804749/rayne-jameson",
+            "https://www.eliteprospects.com/player/856642/jameson-duell",
+            "https://www.etonline.com/people/jenna-jameson",
+            "https://www.havertys.com/products/product-page/jameson-barstool",
+            "https://www.hawtcelebs.com/jenna-jameson-and-jessi-lawless-leaves-desert-moon-wellness-facility-in-las-vegas-02-07-2023/",
+            "https://www.metcap.com/property/140-146-jameson-avenue-toronto-on-m6k-2x5",
+            "https://www.metcap.com/property/96-jameson-avenue-toronto-on-m6k-2x7",
+            "https://www.whiskyliquorstore.com/135136/jameson-black-barrel-irish-whiskey"
+          ]
+        },
+        "source5": {
+          "quantity": 29,
+          "sampleSize": 950989,
+          "urls": [
+            "apnews.com/article/jameson-williams-lions-gambling-nfl-40823c6d677aa89c8f722ed5e933ca49",
+            "cubbiescrib.com/posts/cubs-jameson-taillon-going-back-to-the-drawing-board-as-woes-continue-01h0zp6p5pme",
+            "detroitsportsnation.com/calvin-johnson-provides-advice-for-detroit-lions-wr-jameson-williams/wgbrady/nfl-lions/detroit-lions-news/05/25/2023/409366",
+            "detroitsportsnation.com/dan-campbell-says-jameson-williams-is-miles-ahead-for-detroit-lions/wgbrady/nfl-lions/detroit-lions-news/05/25/2023/409428/",
+            "juliesfreebies.com/sweepstake/jameson-irish-whiskey-summer-sweepstakes-and-instant-win-game/",
+            "marvel.fandom.com/wiki/John_Jonah_Jameson_(Earth-TRN207)",
+            "nypost.com/2023/05/23/yankees-may-have-dodged-bullet-with-crappy-jameson-taillon/",
+            "sidelionreport.com/posts/calvin-johnson-a-fan-of-dan-campbell-has-advice-for-jameson-williams-01h193wxr867",
+            "sidelionreport.com/posts/calvin-johnson-is-a-fan-of-dan-campbell-has-advice-for-jameson-williams-01h193wxr867/app/",
+            "sweepstakesfanatics.com/jameson-irish-whiskey-summer-sweepstakes-2/",
+            "torontosun.com/entertainment/celebrity/ufc-great-tito-ortiz-says-split-from-porn-queen-jenna-jameson-a-blessing",
+            "www.cakenknife.com/jameson-manhattan/",
+            "www.clickondetroit.com/sports/2023/05/25/suspended-lions-wr-jameson-williams-says-he-wasnt-aware-of-nfl-rules-on-gambling-he-violated/",
+            "www.fangraphs.com/players/jameson-taillon/11674/stats",
+            "www.jcpenney.com/p/linden-street-jameson-cotton-sheer-rod-pocket-single-curtain-panel/ppr5008132965",
+            "www.milb.com/player/drey-jameson-686753",
+            "www.mlb.com/player/jameson-taillon-592791",
+            "www.msn.com/en-us/sports/nfl/lions-wr-jameson-williams-says-he-wasn-t-aware-of-nfl-policy-he-violated/ar-AA1bHhCu",
+            "www.newsweek.com/jenna-jameson-jessi-lawless-share-wedding-photos-instagram-1802595",
+            "www.newsweek.com/jenna-jameson-relationship-status-questions-cryptic-instagram-posts-lior-bitton-1756106",
+            "www.nickiswift.com/735324/tragic-details-about-jenna-jameson/",
+            "www.on3.com/pro/news/lions-wr-jameson-williams-claims-he-wasnt-aware-of-the-nfl-gambling-policy-wont-appeal-suspension/",
+            "www.postguam.com/lifestyles/entertainment/jenna-jameson-confirms-new-romance-with-influencer/article_22bd7a0c-ad85-5fb6-8bfc-35437ecc033d.html",
+            "www.redfin.com/OR/Corvallis/3688-NW-Jameson-Dr-97330/home/25895841",
+            "www.redfin.com/OR/Corvallis/3905-NW-Jameson-Dr-97330/home/25923813",
+            "www.si.com/nfl/lions/news/calvin-johnson-advice-jameson-williams",
+            "www.si.com/nfl/lions/news/jameson-williams-did-not-understand-nfl-gambling-rule",
+            "www.thethings.com/can-jenna-jameson-walk-again-medical-condition-now/",
+            "www.yourtango.com/experts/sean-jameson/top-10-sex-positions"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Jameson",
+    "option": "ctx",
+    "form": "jameson",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "jameson",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "caskmates-stout-edition",
+          "mode": "m"
+        },
+        {
+          "keyword": "caskmates-ipa-edition",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://delightfulmomfood.com/green-tea-shot-jameson-whiskey-recipe/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 1,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.ranker.com/list/cannibal-history-of-jameson-whiskey/rachel-souerbry"
+          ]
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/jameson-black-barrel/",
+            "https://www.carnival.com/in-room-food-beverages/liquor/jameson-irish-whiskey-530",
+            "https://www.whiskyliquorstore.com/135136/jameson-black-barrel-irish-whiskey"
+          ]
+        },
+        "source5": {
+          "quantity": 2,
+          "sampleSize": 950989,
+          "urls": [
+            "juliesfreebies.com/sweepstake/jameson-irish-whiskey-summer-sweepstakes-and-instant-win-game/",
+            "sweepstakesfanatics.com/jameson-irish-whiskey-summer-sweepstakes-2/"
+          ]
+        }
+      }
+    }
+  }
+]

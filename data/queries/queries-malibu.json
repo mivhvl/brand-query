@@ -1,0 +1,61 @@
+[
+  {
+    "id": "Malibu",
+    "option": "base",
+    "form": "malibu",
+    "query": {
+      "required": [
+        {
+          "keyword": "malibu",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Malibu",
+    "option": "ctx",
+    "form": "malibu",
+    "query": {
+      "required": [
+        {
+          "keyword": "malibu",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "pineapple",
+          "mode": "m"
+        },
+        {
+          "keyword": "coconut",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

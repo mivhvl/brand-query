@@ -1,0 +1,137 @@
+[
+  {
+    "id": "Skyy",
+    "option": "base",
+    "form": "skyy",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "skyy",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 9,
+          "sampleSize": 460974,
+          "urls": [
+            "https://chiefswire.usatoday.com/2023/05/22/kansas-city-chiefs-skyy-moore-before-your-eyes-episode-4-texas-training/",
+            "https://hollywoodlife.com/pics/kim-kardashian-sexiest-after-divorce-outfits-photos/kim-kardashian-appears-at-iconnections-conference-to-discuss-her-private-equity-fund-skyy-ventures-during-miami-hedge-fund-week",
+            "https://myasiantv.cx/show/our-skyy-2/episode-11",
+            "https://mydramalist.com/743931-our-skyy-2",
+            "https://mydramalist.com/743931-our-skyy-2/cast",
+            "https://mydramalist.com/751161-our-skyy-2-a-boss-and-a-babe",
+            "https://www.arrowheadpride.com/2023/5/24/23736732/chiefs-andy-reid-patrick-mahomes-skyy-moore-justyn-ross-clyde-edwards-helaire",
+            "https://www-arrowheadpride-com.cdn.ampproject.org/v/s/www.arrowheadpride.com/platform/amp/2023/5/24/23736732/chiefs-andy-reid-patrick-mahomes-skyy-moore-justyn-ross-clyde-edwards-helaire",
+            "https://www.arrowheadpride.com/platform/amp/2023/5/24/23736732/chiefs-andy-reid-patrick-mahomes-skyy-moore-justyn-ross-clyde-edwards-helaire"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 18,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://chiefswire.usatoday.com/2023/01/03/kansas-city-chiefs-injury-updates-tuesday-practice-mecole-hardman-ljarius-sneed-joe-thuney-skyy-moore/",
+            "https://chiefswire.usatoday.com/2023/05/22/kansas-city-chiefs-skyy-moore-before-your-eyes-episode-4-texas-training/",
+            "https://chiefswire.usatoday.com/lists/kansas-city-chiefs-otas-highlights-patrick-mahomes-marquez-valdes-scantling-jody-fortson-skyy-moore-drue-tranquill/",
+            "https://daftsex.gg/actor/adella-skyy/",
+            "https://ftw.usatoday.com/2023/02/micd-up-chiefs-coaches-patrick-mahomes-td-pass-skyy-moore-reaction-super-bowl",
+            "https://kissasian.li/Drama/Our-Skyy",
+            "https://kissasian.li/Drama/Our-Skyy-2",
+            "https://kissasian.li/Drama/Our-Skyy-2/Episode-10",
+            "https://kissasian.li/Drama/Our-Skyy-2/Episode-11",
+            "https://kissasian.li/Drama/Our-Skyy-2/Episode-3",
+            "https://kissasian.li/Drama/Our-Skyy-2/Episode-7",
+            "https://pandrama.com/episodio/our-skyy-the-series-s2-t3-capitulo-1/#playlist",
+            "https://stockinvest.us/stock/SKYY",
+            "https://thejasminebrand.com/2022/09/12/alexis-skyy-calls-out-her-childs-father-brandon-medford-for-only-visiting-their-daughter-once-while-she-was-in-the-hospital/",
+            "https://www3.myasiantv.tv/show/our-skyy-2/episode-8",
+            "http://www.incestflix.com/tag/Amber-Skyy",
+            "http://www.incestflix.com/watch/amber-skyy-caught-jerking-with-moms-panties",
+            "http://www.incestflix.com/watch/melanie-skyy-son-leaving-for-college"
+          ]
+        },
+        "source5": {
+          "quantity": 4,
+          "sampleSize": 950989,
+          "urls": [
+            "finance.yahoo.com/quotes/%5EDJI,%5ENYA,%5EIXIC,%5ESPX,%5ENDX,%5ERUT,%5EVIX,TMF,DIA,UDOW,TECL,QQQ,QQQM,TQQQ,CSU.TO,XLK,XLE,SPY,SPYV,IVV,VOO,VTI,VFIAX,VTSAX,VNQ,UPRO,SSO,SPXL,FAS,IWM,TNA,AMZN,GOOG,AAPL,FB,AMD,MSFT,BABA,NIO,SQ,TSLA,FNGU,%5ESOX,SOXL,LABU,XBI,ZM,VGT,FDN,FTEC,ARKK,ARKG,TDV,ERX,USO,GUSH,UCO,CLOU,NAIL,IGM,IGV,SKYY,UVXY,SVXY,SPG,IYW,KWEB,YINN,COIN,VITAX,DFDIX,LGLFX,FZAHX,FBGRX/view/v1",
+            "mydramalist.com/31121-our-skyy",
+            "mydramalist.com/743931-our-skyy-2",
+            "mydramalist.com/751161-our-skyy-2-a-boss-and-a-babe"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Skyy",
+    "option": "ctx",
+    "form": "skyy",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "skyy",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

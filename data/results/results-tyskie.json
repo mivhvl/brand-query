@@ -1,0 +1,138 @@
+[
+  {
+    "id": "Tyskie",
+    "option": "base",
+    "form": "tyskie",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "tyskie",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 6,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://www.nowinytyskie.pl/160-tysiecy-wyludzonego-vat-namierzone-w-wyrach",
+            "https://www.nowinytyskie.pl/cud-natury-biala-samiczka-losia-zamieszkala-w-przystani-w-mikolowie/foto/1",
+            "https://www.nowinytyskie.pl/japonscy-urzednicy-z-wizyta-u-tyskich-kolegow-sciagnela-ich-nasza-olimpijka",
+            "https://www.nowinytyskie.pl/martwy-35-latek-znaleziony-na-lawce-na-placu-baczynskiego",
+            "https://www.nowinytyskie.pl/zmarl-wciagniety-do-maszyny-pracownik-tyskiej-elektrocieplowni",
+            "https://www.nowinytyskie.pl/zobacz-5-fantastycznych-miejsc-na-urlop-w-polsce-to-niezwykle-enklawy/foto/5"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Tyskie",
+    "option": "ctx",
+    "form": "tyskie",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "tyskie",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "gronie",
+          "mode": "m"
+        },
+        {
+          "keyword": "pils",
+          "mode": "m"
+        },
+        {
+          "keyword": "export",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

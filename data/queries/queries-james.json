@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Jameson",
+    "option": "base",
+    "form": "jameson",
+    "query": {
+      "required": [
+        {
+          "keyword": "jameson",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Jameson",
+    "option": "ctx",
+    "form": "jameson",
+    "query": {
+      "required": [
+        {
+          "keyword": "jameson",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-barrel",
+          "mode": "m"
+        },
+        {
+          "keyword": "caskmates-stout-edition",
+          "mode": "m"
+        },
+        {
+          "keyword": "caskmates-ipa-edition",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "Gordon's",
+    "option": "base",
+    "form": "gordons",
+    "query": {
+      "required": [
+        {
+          "keyword": "gordons",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Gordon's",
+    "option": "ctx",
+    "form": "gordons",
+    "query": {
+      "required": [
+        {
+          "keyword": "gordons",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Gordon's",
+    "option": "base",
+    "form": "gordon-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "gordon-s",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Gordon's",
+    "option": "ctx",
+    "form": "gordon-s",
+    "query": {
+      "required": [
+        {
+          "keyword": "gordon-s",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

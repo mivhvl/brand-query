@@ -1,0 +1,138 @@
+[
+  {
+    "id": "Jim Beam",
+    "option": "base",
+    "form": "jim-beam",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "jim-beam",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://thestadiumreviews.com/blogs/thoughts/yankee-stadium-jim-beam-suite/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 2,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://cookswellwithothers.com/2018/09/02/jim-beam-and-coke-glazed-chicken-wings/",
+            "https://cookswellwithothers.com/2018/09/08/jim-beam-bourbon-glazed-salmon/"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "thewhiskeywash.com/whiskey-styles/american-whiskey/jim-beam-crosses-into-american-single-malt-terrority-with-new-release/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Jim Beam",
+    "option": "ctx",
+    "form": "jim-beam",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "jim-beam",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "devils-cut",
+          "mode": "m"
+        },
+        {
+          "keyword": "rye",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-oak",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 1,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://cookswellwithothers.com/2018/09/08/jim-beam-bourbon-glazed-salmon/"
+          ]
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "thewhiskeywash.com/whiskey-styles/american-whiskey/jim-beam-crosses-into-american-single-malt-terrority-with-new-release/"
+          ]
+        }
+      }
+    }
+  }
+]

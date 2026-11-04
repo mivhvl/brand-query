@@ -1,0 +1,113 @@
+[
+  {
+    "id": "Żubrówka",
+    "option": "base",
+    "form": "zubrowka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "zubrowka",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 1,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.tripadvisor.de/ShowUserReviews-g6840479-d6776131-r381050332-The_Grand_Budapest_Hotel-The_Republic_of_Zubrowka.html"
+          ]
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Żubrówka",
+    "option": "ctx",
+    "form": "zubrowka",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "zubrowka",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "bison-grass",
+          "mode": "m"
+        },
+        {
+          "keyword": "czarna",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "New Amsterdam",
+    "option": "base",
+    "form": "new-amsterdam",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "new-amsterdam",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://thecinemaholic.com/is-new-amsterdam-hospital-real/",
+            "https://www.diezminutos.es/teleprograma/series-tv/a42549750/new-amsterdam-temporada-3-netflix-estreno/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 6,
+          "sampleSize": 664385,
+          "urls": [
+            "https://new-amsterdam.fandom.com/wiki/Georgia_Goodwin",
+            "https://serietvdavedere.com/medical/new-amsterdam/",
+            "https://www.fernsehserien.de/new-amsterdam-2018/episodenguide/staffel-5/40565",
+            "https://www.fernsehserien.de/new-amsterdam-2018/folgen/4x09-verlorene-zuflucht-1516986",
+            "https://www.fernsehserien.de/new-amsterdam-2018/folgen/4x22-hurrikan-1556187",
+            "https://www.purebreak.com/news/new-amsterdam-saison-3-un-depart-max-et-helen-les-infos-et-spoilers-sur-la-suite/217524"
+          ]
+        },
+        "source4": {
+          "quantity": 24,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://1movieshd.com/watch-tv/free-new-amsterdam-hd-39333.9177145",
+            "https://cineb.net/watch-tv/watch-new-amsterdam-free-39333.5372623",
+            "https://ev01.to/watch-tv/watch-new-amsterdam-online-39333.4111709",
+            "https://fmovies.llc/tv/new-amsterdam-fmovies-39333",
+            "https://gomovies.sx/tv/watch-new-amsterdam-gomovies-39333",
+            "https://gomovies.sx/watch-tv/watch-new-amsterdam-gomovies-39333.4900519",
+            "https://hdtoday.tv/tv/watch-new-amsterdam-hd-39333",
+            "https://hdtoday.tv/watch-tv/watch-new-amsterdam-hd-39333.4900540",
+            "https://hdtoday.tv/watch-tv/watch-new-amsterdam-hd-39333.4900558",
+            "https://hdtoday.tv/watch-tv/watch-new-amsterdam-hd-39333.9285148",
+            "https://moviesjoy.to/tv/new-amsterdam-34874",
+            "https://moviestowatch.tv/tv/watch-new-amsterdam-online-39333",
+            "https://myflixer.to/search/new-amsterdam",
+            "https://myflixer.to/watch-tv/new-amsterdam-39333.4900558",
+            "https://primewire.mx/watch-tv/watch-new-amsterdam-online-39333.4900531",
+            "https://seriesonline.gg/watch-tv/watch-new-amsterdam-39333.4798282",
+            "https://solarmovie.pe/watch-tv/watch-new-amsterdam-free-39333.9015589",
+            "https://swatchseries.is/watch-tv/watch-new-amsterdam-39333.4823326",
+            "https://theflixer.tv/watch-tv/watch-new-amsterdam-full-39333.8343490",
+            "https://tinyzonetv.to/tv/watch-new-amsterdam-2018-free-39333",
+            "https://www16.pelisplushd.to/serie/new-amsterdam",
+            "https://www2.movieorca.com/watch-tv/new-amsterdam-39333.8343490",
+            "https://www.fmovies.hn/watch-tv/watch-new-amsterdam-full-39333.4900534",
+            "https://www.movieberry.com/new_amsterdam_2018/"
+          ]
+        },
+        "source5": {
+          "quantity": 8,
+          "sampleSize": 950989,
+          "urls": [
+            "aviewfrommyseat.com/venue/New+Amsterdam+Theatre/",
+            "mag.elcomercio.pe/fama/new-amsterdam-freema-agyeman-helen-sharpe-por-que-no-estara-en-la-temporada-5-serie-de-nbc-nnda-nnlt-noticia/",
+            "new-amsterdam.fandom.com/wiki/How_Can_I_Help%3F",
+            "new-amsterdam.fandom.com/wiki/Peter_Fulton",
+            "new-amsterdam.fandom.com/wiki/Vijay_Kapoor",
+            "screenrant.com/new-amsterdam-cast-best-movies-shows/",
+            "www.programme-tv.net/programme/series-tv/r1549441358-new-amsterdam/saisons/3/",
+            "www.tvinsider.com/996554/anupam-kher-leaving-new-amsterdam-kapoor-exit-statement/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "New Amsterdam",
+    "option": "ctx",
+    "form": "new-amsterdam",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "new-amsterdam",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        },
+        {
+          "keyword": "original",
+          "mode": "m"
+        },
+        {
+          "keyword": "peach",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

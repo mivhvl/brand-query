@@ -1,0 +1,180 @@
+[
+  {
+    "id": "Coors",
+    "option": "base",
+    "form": "coors",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "coors",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 7,
+          "sampleSize": 460974,
+          "urls": [
+            "https://aviewfrommyseat.com/photo/20696/Coors+Field/section-236/row-6/seat-2/",
+            "https://kdvr.com/news/local/you-can-now-identify-yourself-with-your-palm-at-coors-field/",
+            "https://nypost.com/2023/05/24/bud-light-backlash-could-spark-shortages-of-coors-miller-lite/",
+            "https://thefreebieguy.com/sweepstakes/coors-banquet-150th-anniversary-sweepstakes",
+            "https://thefreebieguy.com/sweepstakes/coors-banquet-150th-anniversary-sweepstakes/",
+            "https://vinepair.com/booze-news/coca-cola-simply-spiked-lemonade-molson-coors/",
+            "https://www.canadianfreestuff.com/coors-light-contest"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 8,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://303magazine.com/2022/05/eating-drinking-coors-field/",
+            "https://fontspool.com/generator/coors-light-font",
+            "https://www.carnival.com/in-room-food-beverages/beer/coors-light--4-pack-Y17",
+            "https://www.hunt4freebies.com/coors-light-summer-instant-win-game-and-sweepstakes-2388-winners/",
+            "https://www.mtsu.edu/first-amendment/article/682/rubin-v-coors-brewing-co",
+            "https://www.rtd-denver.com/news-stop/news/train-to-the-game-rtd-welcomes-rockies-fans-back-to-coors-field",
+            "https://www.sweepsadvantage.com/sweepstakes-more-coors-6.html",
+            "https://www.unsunghistorypodcast.com/the-coors-boycott/"
+          ]
+        },
+        "source5": {
+          "quantity": 14,
+          "sampleSize": 950989,
+          "urls": [
+            "aviewfrommyseat.com/photo/143348/coors+field/section-137/row-13/seat-5/",
+            "beveragedynamics.com/2023/04/18/molson-coors-coca-cola-peace-hard-tea/",
+            "blitz.gg/v2.1.37/lol/match/na1/Coorsknightt/4665680564",
+            "juliesfreebies.com/sweepstake/coors-light-summer-sweepstakes-and-instant-win-game/",
+            "nypost.com/2023/05/24/bud-light-backlash-could-spark-shortages-of-coors-miller-lite/",
+            "sweepstakesfanatics.com/coors-banquet-150th-anniversary-sweepstakes/",
+            "sweepstakesfanatics.com/coors-light-summer-promotion-instant-win/",
+            "thestadiumreviews.com/resources/bag-policy/coors-field/",
+            "vinepair.com/wine-blog/smokey-and-the-bandit-and-coors/",
+            "www.hitc.com/en-gb/2023/04/06/coors-light-pride-can-was-an-extension-of-companys-support-for-lgbtq-community/",
+            "www.newsweek.com/bud-light-boycott-could-spark-coors-miller-lite-shortages-1802481",
+            "www.ourmidland.com/news/article/Escalator-Injures-32-at-Coors-Field-7207485.php",
+            "www.ranker.com/list/what-happened-to-adolph-coors-iii/melissa-sartore",
+            "www.wnep.com/article/news/local/contests/contest-coors-light-blackstone-griddle-giveaway/523-39582efd-92f4-4f18-a9b8-a809e7a97ff1"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Coors",
+    "option": "ctx",
+    "form": "coors",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "coors",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "c"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "c"
+        },
+        {
+          "keyword": "beer",
+          "mode": "c"
+        },
+        {
+          "keyword": "lager",
+          "mode": "c"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "c"
+        },
+        {
+          "keyword": "stout",
+          "mode": "c"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "c"
+        },
+        {
+          "keyword": "light",
+          "mode": "c"
+        },
+        {
+          "keyword": "banquet",
+          "mode": "c"
+        },
+        {
+          "keyword": "extra-gold",
+          "mode": "c"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 4,
+          "sampleSize": 460974,
+          "urls": [
+            "https://nypost.com/2023/05/24/bud-light-backlash-could-spark-shortages-of-coors-miller-lite/",
+            "https://thefreebieguy.com/sweepstakes/coors-banquet-150th-anniversary-sweepstakes",
+            "https://thefreebieguy.com/sweepstakes/coors-banquet-150th-anniversary-sweepstakes/",
+            "https://www.canadianfreestuff.com/coors-light-contest"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://fontspool.com/generator/coors-light-font",
+            "https://www.carnival.com/in-room-food-beverages/beer/coors-light--4-pack-Y17",
+            "https://www.hunt4freebies.com/coors-light-summer-instant-win-game-and-sweepstakes-2388-winners/"
+          ]
+        },
+        "source5": {
+          "quantity": 7,
+          "sampleSize": 950989,
+          "urls": [
+            "juliesfreebies.com/sweepstake/coors-light-summer-sweepstakes-and-instant-win-game/",
+            "nypost.com/2023/05/24/bud-light-backlash-could-spark-shortages-of-coors-miller-lite/",
+            "sweepstakesfanatics.com/coors-banquet-150th-anniversary-sweepstakes/",
+            "sweepstakesfanatics.com/coors-light-summer-promotion-instant-win/",
+            "www.hitc.com/en-gb/2023/04/06/coors-light-pride-can-was-an-extension-of-companys-support-for-lgbtq-community/",
+            "www.newsweek.com/bud-light-boycott-could-spark-coors-miller-lite-shortages-1802481",
+            "www.wnep.com/article/news/local/contests/contest-coors-light-blackstone-griddle-giveaway/523-39582efd-92f4-4f18-a9b8-a809e7a97ff1"
+          ]
+        }
+      }
+    }
+  }
+]

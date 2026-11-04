@@ -1,0 +1,143 @@
+[
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "base",
+    "form": "titos-handmade-vodka",
+    "query": {
+      "required": [
+        {
+          "keyword": "titos-handmade-vodka",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "ctx",
+    "form": "titos-handmade-vodka",
+    "query": {
+      "required": [
+        {
+          "keyword": "titos-handmade-vodka",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "base",
+    "form": "tito-s-handmade-vodka",
+    "query": {
+      "required": [
+        {
+          "keyword": "tito-s-handmade-vodka",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "ctx",
+    "form": "tito-s-handmade-vodka",
+    "query": {
+      "required": [
+        {
+          "keyword": "tito-s-handmade-vodka",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "base",
+    "form": "titos",
+    "query": {
+      "required": [
+        {
+          "keyword": "titos",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Tito's Handmade Vodka",
+    "option": "ctx",
+    "form": "titos",
+    "query": {
+      "required": [
+        {
+          "keyword": "titos",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "sweepstakes",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

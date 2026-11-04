@@ -1,0 +1,53 @@
+[
+  {
+    "id": "Beefeater",
+    "option": "base",
+    "form": "beefeater",
+    "query": {
+      "required": [
+        {
+          "keyword": "beefeater",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Beefeater",
+    "option": "ctx",
+    "form": "beefeater",
+    "query": {
+      "required": [
+        {
+          "keyword": "beefeater",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

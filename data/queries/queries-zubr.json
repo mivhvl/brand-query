@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Żubr",
+    "option": "base",
+    "form": "zubr",
+    "query": {
+      "required": [
+        {
+          "keyword": "zubr",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Żubr",
+    "option": "ctx",
+    "form": "zubr",
+    "query": {
+      "required": [
+        {
+          "keyword": "zubr",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "classic",
+          "mode": "m"
+        },
+        {
+          "keyword": "strong",
+          "mode": "m"
+        },
+        {
+          "keyword": "bison",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

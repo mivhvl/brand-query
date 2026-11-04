@@ -1,0 +1,77 @@
+[
+  {
+    "id": "Glenfiddich",
+    "option": "base",
+    "form": "glenfiddich",
+    "query": {
+      "required": [
+        {
+          "keyword": "glenfiddich",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Glenfiddich",
+    "option": "ctx",
+    "form": "glenfiddich",
+    "query": {
+      "required": [
+        {
+          "keyword": "glenfiddich",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "18-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "21-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-collection",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

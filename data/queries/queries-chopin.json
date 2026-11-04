@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Chopin",
+    "option": "base",
+    "form": "chopin",
+    "query": {
+      "required": [
+        {
+          "keyword": "chopin",
+          "mode": "c"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Chopin",
+    "option": "ctx",
+    "form": "chopin",
+    "query": {
+      "required": [
+        {
+          "keyword": "chopin",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "rye",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

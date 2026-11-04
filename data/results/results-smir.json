@@ -1,0 +1,141 @@
+[
+  {
+    "id": "Smirnoff",
+    "option": "base",
+    "form": "smirnoff",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "smirnoff",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://vinepair.com/taplines-podcast/smirnoff-malt-beverages/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 1,
+          "sampleSize": 664385,
+          "urls": [
+            "https://www.msn.com/sv-se/noje/kandisnyheter/piratenpris-förvånar-karin-smirnoff-hedrande/ar-AA1bvLCj"
+          ]
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 3,
+          "sampleSize": 950989,
+          "urls": [
+            "cullyskitchen.com/smirnoff-red-white-berry-nutrition-facts/",
+            "sweepstakesfanatics.com/smirnoff-ice-summer-flavor-fest-sweepstakes/",
+            "vinepair.com/taplines-podcast/smirnoff-malt-beverages/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Smirnoff",
+    "option": "ctx",
+    "form": "smirnoff",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "smirnoff",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "vanilla",
+          "mode": "m"
+        },
+        {
+          "keyword": "raspberry",
+          "mode": "m"
+        },
+        {
+          "keyword": "green-apple",
+          "mode": "m"
+        },
+        {
+          "keyword": "berry",
+          "mode": "m"
+        },
+        {
+          "keyword": "ice",
+          "mode": "m"
+        },
+        {
+          "keyword": "malt",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 1,
+          "sampleSize": 460974,
+          "urls": [
+            "https://vinepair.com/taplines-podcast/smirnoff-malt-beverages/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 3,
+          "sampleSize": 950989,
+          "urls": [
+            "cullyskitchen.com/smirnoff-red-white-berry-nutrition-facts/",
+            "sweepstakesfanatics.com/smirnoff-ice-summer-flavor-fest-sweepstakes/",
+            "vinepair.com/taplines-podcast/smirnoff-malt-beverages/"
+          ]
+        }
+      }
+    }
+  }
+]

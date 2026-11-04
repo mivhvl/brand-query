@@ -1,0 +1,138 @@
+[
+  {
+    "id": "Glenfiddich",
+    "option": "base",
+    "form": "glenfiddich",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "glenfiddich",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 2,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://veviski.com/category/glenfiddich/",
+            "https://whiskyoftheweek.co.uk/glenfiddich-12-vs-glenlivet-12/"
+          ]
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Glenfiddich",
+    "option": "ctx",
+    "form": "glenfiddich",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "glenfiddich",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "12-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "15-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "18-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "21-year-old",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-collection",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

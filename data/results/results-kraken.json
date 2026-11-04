@@ -1,0 +1,222 @@
+[
+  {
+    "id": "Kraken Rum",
+    "option": "base",
+    "form": "kraken-rum",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "kraken",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 17,
+          "sampleSize": 460974,
+          "urls": [
+            "https://forums.tomshardware.com/threads/normal-aio-cooler-pump-sound-or-trapped-air-bubbles-kraken-x62.3531164/",
+            "https://fullpresshockey.com/2023/05/17/nhl-rumors-maple-leafs-oilers-kraken/",
+            "https://grand-piece-online.fandom.com/wiki/Kraken",
+            "https://komonews.com/sports/nikos-sports-zone/seattle-mariners-bark-at-the-park-dog-adoption-night-puppy-gone-pawsitive-alliance-promotion-special-lena-bennett-clue-noel-tmobile-park-when-where-how-oakland-athletics-kraken-davy-jones",
+            "https://krakenfiles.com/view/FsF2pxnMVu/file.html",
+            "https://poemanalysis.com/alfred-tennyson/the-kraken/",
+            "https://www.behindthevoiceactors.com/movies/Ruby-Gillman-Teenage-Kraken/",
+            "https://www.capfriendly.com/armchair-gm/kraken",
+            "https://www.expressen.se/kraken/app/tv/noje/sangerskan-tina-turner-ar-dod",
+            "https://www.expressen.se/kraken/app/tv/nyheter/jatteovning-med-brittisk-marin-pa-svenskt-vatten-utmanande",
+            "https://www.expressen.se/kraken/app/tv/nyheter/live/live-tv-senaste-nyheterna-med-expressen-tv-16",
+            "https://www.expressen.se/kraken/app/tv/nyheter/live/senaste-nojesnyheterna-med-expressen-tv",
+            "https://www.expressen.se/kraken/app/tv/sport/fotboll/live/live-tv-se-sportexpressen-tv-direkt-2",
+            "https://www.fanatics.com/nhl/seattle-kraken/o-2406+t-43433500+z-98423-3949641849",
+            "https://www.fanatics.com/nhl/seattle-kraken/seattle-kraken-preschool-ageless-revisited-lace-up-v-neck-pullover-hoodie-deep-sea-blue/o-1340+t-32652433+p-27448618008+z-9-2261881199",
+            "https://www.mediotiempo.com/otros-mundos/ricardo-salinas-pliego-anuncia-que-partido-seleccion-mexicana-en-estadio-kraken-es-regalo-a-la-aficion-de-mazatlan",
+            "https://www.yahoo.com/entertainment/ruby-gillman-teenage-kraken-trailer-183000402.html"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 17,
+          "sampleSize": 664385,
+          "urls": [
+            "https://foe.tools/fr/gb-investment/The_Kraken",
+            "https://foe.tools/fr/gb-investment/The_Kraken/",
+            "https://forums.hfboards.com/threads/2023-2024-kraken-roster-discussion.2928937/",
+            "https://grand-piece-online.fandom.com/wiki/Kraken_Cape",
+            "https://leagueoflegends.fandom.com/wiki/Kraken_Slayer",
+            "https://tech.wp.pl/ukraincy-z-krakena-pokazuja-swoj-sprzet-bardzo-chwala-granatnik-rgp-40-z-polski,6873886415149760a",
+            "https://www.ad.nl/utrecht/utrecht-en-duitsland-bundelen-krachten-tegen-plofkraken-zo-snel-mogelijk-zicht-op-verdachte~ace9c19c2/",
+            "https://www.capfriendly.com/teams/kraken",
+            "https://www.ed.nl/helmond/invallen-in-helmond-in-groot-duits-onderzoek-vijf-aanhoudingen-voor-meer-dan-twintig-plofkraken~a234f8ba/",
+            "https://www.eliteprospects.com/draft/nhl-entry-draft/team/27336/seattle-kraken",
+            "https://www.fanpage.it/innovazione/scienze/cose-la-super-variante-kraken-la-nuova-mutazione-del-covid-che-preoccupa-gli-esperti",
+            "https://www.geo.fr/histoire/nasa-va-utiliser-kraken-effrayante-machine-secouer-les-astronautes-us-navy-desorientation-entrainement-214762",
+            "https://www.lescienze.it/news/2023/01/11/news/covid-19_variante_kraken_contagiosa-11052252/",
+            "https://www.olx.pl/d/oferta/nowa-lodka-lodz-wedkarska-rekreacyjna-kraken-265-producent-raty-CID767-IDSOAKb.html",
+            "https://www.resetera.com/threads/ruby-gilman-teenage-kraken-official-trailer-2-june-30th.722149/",
+            "https://www.walesonline.co.uk/news/uk-news/kraken-covid-12-symptoms-look-25971644",
+            "http://www.technologijos.lt/n/technologijos/karyba/S-127690/straipsnis/ZT-Rusija-puola-Kraken-batalionas-ir-naciu-isdavikai-kas-nutiko-Belgorode-"
+          ]
+        },
+        "source4": {
+          "quantity": 26,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://ev01.to/search/-the-------teenage-kraken",
+            "https://flixhq.to/search/teenage-kraken",
+            "https://freemovies2021.com/search/teenage-kraken",
+            "https://ftw.usatoday.com/2023/05/game-6-dallas-stars-vs-seattle-kraken-live-stream-tv-channel-time-how-to-watch-nhl-playoffs",
+            "https://ftw.usatoday.com/lists/seattle-kraken-booktok-tiktok-hockey-romance-novels",
+            "https://kgmi.com/news/007700-kraken-season-ends-with-loss-to-dallas/",
+            "https://movies2watch.tv/movie/watch-jaws-vs-kraken-hd-91012",
+            "https://moviestowatch.tv/movie/watch-jaws-vs-kraken-online-91012",
+            "https://sportsbookwire.usatoday.com/2023/05/02/seattle-kraken-at-dallas-stars-game-1-odds-picks-and-predictions/",
+            "https://sportsbookwire.usatoday.com/2023/05/09/dallas-stars-at-seattle-kraken-game-4-odds-picks-and-predictions/",
+            "https://surfinskys.com/collections/kraken-collection",
+            "https://vioozhdtv.online/en/movie/1040148/ruby-gillman-teenage-kraken",
+            "https://www2.movieorca.com/movie/jaws-vs-kraken-91012",
+            "https://www.ancient-origins.net/news-myths-legends-europe/legendary-kraken-00267",
+            "https://www.boatblurb.com/post/the-kraken-is-real-and-it-s-not-staying-in-the-deep",
+            "https://www.eliteprospects.com/team/27336/seattle-kraken/2022-2023",
+            "https://www.eliteprospects.com/team/27336/seattle-kraken/depth-chart",
+            "https://www.fcupdate.nl/voetbalnieuws/2023/05/spelers-van-psv-kraken-harde-noten-en-maken-onvrede-over-van-nistelrooij-kenbaar",
+            "https://www.krakenrum.com/",
+            "https://www.my967thecoast.com/2023/05/05/nhl-playoffs-panthers-beat-maple-leafs-stars-defeat-kraken/",
+            "https://www.oceancrawler.com/collections/frontpage/products/ocean-crawler-kraken-vs-neptune-2022",
+            "https://www.pichau.com.br/fone-razer-kraken-verde-rz12-00870100-r3m1-box",
+            "https://www.pichau.com.br/hardware/cooler-processador/water-cooler-nzxt-kraken-120-rgb-120mm-rl-kr120-b1",
+            "https://www.pichau.com.br/hardware/cooler-processador/water-cooler-nzxt-kraken-x61-280mm-rl-krx61-01",
+            "https://www.pichau.com.br/headset-razer-kraken-essential-preto-rz04-01720100-r3r1",
+            "https://www.supercheats.com/virtual-villagers-origins-2-walkthrough-guide/puzzle-4-release-the-kraken"
+          ]
+        },
+        "source5": {
+          "quantity": 43,
+          "sampleSize": 950989,
+          "urls": [
+            "acordes.lacuerda.net/kraken/fragil_al_viento-2.shtml",
+            "atlas.fandom.com/wiki/Majestic_Kraken",
+            "blitz.gg/v2.1.37/dashboard/lol/euw1/ElKraken33",
+            "blitz.gg/v2.1.37/lol/match/la1/Lil%20kraken%20xl/1392300331",
+            "blitz.gg/v2.1.37/lol/match/na1/Kraken4901/4664924087",
+            "dailygazette.com/2023/05/23/via-aquarium-octopus-name-released-its-kraken-won-in-voting-by-nose-beak-over-inky/",
+            "elcomercio.pe/respuestas/krakens-y-sirenas-conoce-a-los-gillman-que-se-sabe-de-la-proxima-pelicula-animada-de-dreamworks-revtli-noticia/",
+            "foe.tools/gb-investment/The_Kraken",
+            "forums.tomshardware.com/threads/kraken-z73-issue-need-help.3750504/",
+            "gofobo.com/main/trailerDetails/316018497/ruby-gillman-teenage-kraken-new-trailer",
+            "grand-piece-online.fandom.com/wiki/Kraken",
+            "gta-myths.fandom.com/wiki/Kraken",
+            "komonews.com/sports/nikos-sports-zone/seattle-mariners-bark-at-the-park-dog-adoption-night-puppy-gone-pawsitive-alliance-promotion-special-lena-bennett-clue-noel-tmobile-park-when-where-how-oakland-athletics-kraken-davy-jones",
+            "krakenfiles.com/view/ymPHi6BWlT/file.html",
+            "leagueoflegends.fandom.com/wiki/Kraken_Slayer",
+            "lineadirectaportal.com/deportes/cambia-de-rival-mexico-si-jugara-en-el-estadio-kraken-de-mazatlan-2023-05-24__842142",
+            "mtgdecks.net/Historic/kraken-decklist-by-nervous-merc-1200517",
+            "oldschool.runescape.wiki/w/Fishing_Trawler/StrategiesKraken_(Angler_Outfit)",
+            "oldschool.runescape.wiki/w/KrakenKraken",
+            "oldschool.runescape.wiki/w/Pet_kraken",
+            "r6.tracker.network/profile/psn/Lst_Kraken",
+            "sports.mynorthwest.com/1757361/dave-hakstol-insight-seattle-kraken-players-gourde-burakovsky-wright/",
+            "universalstudios.fandom.com/wiki/Ruby_Gillman,_Teenage_Kraken",
+            "warhammer40k.fandom.com/wiki/Hive_Fleet_Kraken",
+            "www.ancient-origins.net/news-myths-legends-europe/legendary-kraken-00267",
+            "www.bedienungsanleitu.ng/nzxt/kraken-x73-rgb/anleitung",
+            "www.eliteprospects.com/draft/nhl-entry-draft/team/27336/seattle-kraken",
+            "www.fanatics.com/nhl/seattle-kraken/seattle-kraken-toddler-primary-logo-t-shirt-deep-sea-blue/o-4606+t-21327900+p-04555659345+z-9-3498169268",
+            "www.hockeybuzz.com/blog/Sean-Maloughney/Quick-List-of-Krakens-Off-Season-To-Do-List/286/121818",
+            "www.lids.com/nhl-seattle-kraken/o-3562+t-98876877+z-96380-3253737",
+            "www.lne.es/villaviciosa/2023/05/25/kraken-villaviciosa-historica-captura-calamar-87864254.html",
+            "www.manua.ls/nzxt/kraken-x63/manual",
+            "www.mediotiempo.com/otros-mundos/ricardo-salinas-pliego-anuncia-que-partido-seleccion-mexicana-en-estadio-kraken-es-regalo-a-la-aficion-de-mazatlan",
+            "www.mixcloud.com/TNATheKraken/the-crate-old-school-rap-may-2023-volume-2/",
+            "www.op.gg/summoners/euw/FearTheKraken",
+            "www.pcmag.com/reviews/razer-kraken-v3-pro",
+            "www.seattletimes.com/seattle-news/transportation/seattle-monorail-rides-the-kraken-wave-to-higher-ridership/",
+            "www.seattletimes.com/sports/kraken/three-thoughts-on-the-krakens-run-in-the-stanley-cup-playoffs/",
+            "www.si.com/nhl/2023/05/09/seattle-kraken-fan-bar-angry-beaver-hockey-haven-daily-cover",
+            "www.smitefire.com/smite/guide/release-the-kraken-poseidon-guide-for-mid-laners-y10-10-5-19106",
+            "www.sportslogos.net/logos/view/674079522022/Seattle_Kraken/2022/Primary_Logo",
+            "www.techspot.com/downloads/7074-gitkraken.html",
+            "www.tvazteca.com/aztecadeportes/mexico-jugara-amistoso-guatemala-estadio-kraken"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Kraken Rum",
+    "option": "ctx",
+    "form": "kraken",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "kraken-rum",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "black-spiced",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

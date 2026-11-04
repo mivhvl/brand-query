@@ -1,0 +1,77 @@
+[
+  {
+    "id": "Wild Turkey",
+    "option": "base",
+    "form": "wild-turkey",
+    "query": {
+      "required": [
+        {
+          "keyword": "wild-turkey",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Wild Turkey",
+    "option": "ctx",
+    "form": "wild-turkey",
+    "query": {
+      "required": [
+        {
+          "keyword": "wild-turkey",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "101",
+          "mode": "m"
+        },
+        {
+          "keyword": "rare-breed",
+          "mode": "m"
+        },
+        {
+          "keyword": "kentucky-spirit",
+          "mode": "m"
+        },
+        {
+          "keyword": "american-honey",
+          "mode": "m"
+        },
+        {
+          "keyword": "distillers-reserve",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

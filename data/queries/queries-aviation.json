@@ -1,0 +1,104 @@
+[
+  {
+    "id": "Aviation American Gin",
+    "option": "base",
+    "form": "aviation-american-gin",
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american-gin",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Aviation American Gin",
+    "option": "ctx",
+    "form": "aviation-american-gin",
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american-gin",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Aviation American Gin",
+    "option": "base",
+    "form": "aviation-american",
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Aviation American Gin",
+    "option": "ctx",
+    "form": "aviation-american",
+    "query": {
+      "required": [
+        {
+          "keyword": "aviation-american",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

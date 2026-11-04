@@ -1,0 +1,61 @@
+[
+  {
+    "id": "Don Q",
+    "option": "base",
+    "form": "don-q",
+    "query": {
+      "required": [
+        {
+          "keyword": "don-q",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Don Q",
+    "option": "ctx",
+    "form": "don-q",
+    "query": {
+      "required": [
+        {
+          "keyword": "don-q",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "rum",
+          "mode": "m"
+        },
+        {
+          "keyword": "rumu",
+          "mode": "m"
+        },
+        {
+          "keyword": "mojito",
+          "mode": "m"
+        },
+        {
+          "keyword": "cuba-libre",
+          "mode": "m"
+        },
+        {
+          "keyword": "daiquiri",
+          "mode": "m"
+        },
+        {
+          "keyword": "gold",
+          "mode": "m"
+        },
+        {
+          "keyword": "cristal",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

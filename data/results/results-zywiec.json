@@ -1,0 +1,137 @@
+[
+  {
+    "id": "Żywiec",
+    "option": "base",
+    "form": "zywiec",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "zywiec",
+          "mode": "c"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 7,
+          "sampleSize": 664385,
+          "urls": [
+            "https://m.meteo.pl/zywiec/60",
+            "https://m.olx.pl/motoryzacja/budowlane/koparki-kolowe-i-gasienicowe/zywiec/q-koparka/",
+            "https://m.olx.pl/nieruchomosci/mieszkania/wynajem/zywiec/",
+            "https://m.olx.pl/uslugi/uslugi-transportowe/zywiec/q-wywrotka/",
+            "https://pogoda.interia.pl/prognoza-dlugoterminowa-zywiec,cId,42086",
+            "https://www.olx.pl/nieruchomosci/domy/zywiec",
+            "https://zywiec.naszemiasto.pl/dlaczego-zbiornik-na-gorze-zar-w-miedzybrodziu-bialskim/ga/c1-9331765/zd/82087373"
+          ]
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 1,
+          "sampleSize": 950989,
+          "urls": [
+            "www.olx.pl/praca/zywiec/"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Żywiec",
+    "option": "ctx",
+    "form": "zywiec",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "zywiec",
+          "mode": "c"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "porter",
+          "mode": "m"
+        },
+        {
+          "keyword": "biale",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

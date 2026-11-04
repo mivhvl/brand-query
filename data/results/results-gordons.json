@@ -1,0 +1,230 @@
+[
+  {
+    "id": "Gordon's",
+    "option": "base",
+    "form": "gordons",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "gordons",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 2,
+          "sampleSize": 460974,
+          "urls": [
+            "https://www.foxnews.com/sports/lebron-james-shoves-forearm-aaron-gordons-throat-altercation-lakers-nuggets-game",
+            "https://www.ghgossip.com/lorenzo-gordons-bio-age-height-career-family-zodiac-and-net-worth/"
+          ]
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 3,
+          "sampleSize": 1130461,
+          "urls": [
+            "https://waploaded.com/search/GORDONS COMEDY CLINIC WARD 2/page/1",
+            "https://www.gordonsllp.com/gordons-llp-terms-of-business/",
+            "https://www.tillamookcountypioneer.net/gordons-update-weather-5-24-23-dry-pleasant-week-continues-through-weekend/"
+          ]
+        },
+        "source5": {
+          "quantity": 2,
+          "sampleSize": 950989,
+          "urls": [
+            "www.foxnews.com/sports/lebron-james-shoves-forearm-aaron-gordons-throat-altercation-lakers-nuggets-game",
+            "www.myleaderpaper.com/news/gordons-stoplight-crashed-into-by-suv/article_ebcb6f5a-f8dc-11ed-a6a7-ff8ff8e2f487.html"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "Gordon's",
+    "option": "ctx",
+    "form": "gordons",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "gordons",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Gordon's",
+    "option": "base",
+    "form": "gordon-s",
+    "final_eligible": false,
+    "query": {
+      "required": [
+        {
+          "keyword": "gordon-s",
+          "mode": "m"
+        }
+      ]
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Gordon's",
+    "option": "ctx",
+    "form": "gordon-s",
+    "final_eligible": true,
+    "query": {
+      "required": [
+        {
+          "keyword": "gordon-s",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "gin",
+          "mode": "m"
+        },
+        {
+          "keyword": "ginu",
+          "mode": "m"
+        },
+        {
+          "keyword": "gin-tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "tonic",
+          "mode": "m"
+        },
+        {
+          "keyword": "london-dry",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "response": {
+      "sources": {
+        "source1": {
+          "quantity": 0,
+          "sampleSize": 460974,
+          "urls": []
+        },
+        "source2": {
+          "quantity": 0,
+          "sampleSize": 10640,
+          "urls": []
+        },
+        "source3": {
+          "quantity": 0,
+          "sampleSize": 664385,
+          "urls": []
+        },
+        "source4": {
+          "quantity": 0,
+          "sampleSize": 1130461,
+          "urls": []
+        },
+        "source5": {
+          "quantity": 0,
+          "sampleSize": 950989,
+          "urls": []
+        }
+      }
+    }
+  }
+]

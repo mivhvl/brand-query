@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Miller",
+    "option": "base",
+    "form": "miller",
+    "query": {
+      "required": [
+        {
+          "keyword": "miller",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Miller",
+    "option": "ctx",
+    "form": "miller",
+    "query": {
+      "required": [
+        {
+          "keyword": "miller",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "piwo",
+          "mode": "m"
+        },
+        {
+          "keyword": "piwa",
+          "mode": "m"
+        },
+        {
+          "keyword": "beer",
+          "mode": "m"
+        },
+        {
+          "keyword": "lager",
+          "mode": "m"
+        },
+        {
+          "keyword": "ipa",
+          "mode": "m"
+        },
+        {
+          "keyword": "stout",
+          "mode": "m"
+        },
+        {
+          "keyword": "pilsner",
+          "mode": "m"
+        },
+        {
+          "keyword": "lite",
+          "mode": "m"
+        },
+        {
+          "keyword": "high-life",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "Skyy",
+    "option": "base",
+    "form": "skyy",
+    "query": {
+      "required": [
+        {
+          "keyword": "skyy",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": true
+  },
+  {
+    "id": "Skyy",
+    "option": "ctx",
+    "form": "skyy",
+    "query": {
+      "required": [
+        {
+          "keyword": "skyy",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "wodka",
+          "mode": "m"
+        },
+        {
+          "keyword": "wodki",
+          "mode": "m"
+        },
+        {
+          "keyword": "vodka",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]

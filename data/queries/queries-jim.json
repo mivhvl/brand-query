@@ -1,0 +1,69 @@
+[
+  {
+    "id": "Jim Beam",
+    "option": "base",
+    "form": "jim-beam",
+    "query": {
+      "required": [
+        {
+          "keyword": "jim-beam",
+          "mode": "m"
+        }
+      ]
+    },
+    "final_eligible": false
+  },
+  {
+    "id": "Jim Beam",
+    "option": "ctx",
+    "form": "jim-beam",
+    "query": {
+      "required": [
+        {
+          "keyword": "jim-beam",
+          "mode": "m"
+        }
+      ],
+      "optional": [
+        {
+          "keyword": "whisky",
+          "mode": "m"
+        },
+        {
+          "keyword": "whiskey",
+          "mode": "m"
+        },
+        {
+          "keyword": "bourbon",
+          "mode": "m"
+        },
+        {
+          "keyword": "scotch",
+          "mode": "m"
+        },
+        {
+          "keyword": "single-malt",
+          "mode": "m"
+        },
+        {
+          "keyword": "blended",
+          "mode": "m"
+        },
+        {
+          "keyword": "devils-cut",
+          "mode": "m"
+        },
+        {
+          "keyword": "rye",
+          "mode": "m"
+        },
+        {
+          "keyword": "double-oak",
+          "mode": "m"
+        }
+      ],
+      "optionalThreshold": 1
+    },
+    "final_eligible": true
+  }
+]
