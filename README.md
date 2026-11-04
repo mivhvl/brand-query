@@ -4,13 +4,27 @@ Projekt tworzy listę marek alkoholi, generuje dla nich zapytania według ustalo
 
 ## Struktura
 
-- `src/` – skrypty i wspólne funkcje Pythona.
-- `data/input/` – wejściowa lista marek (`brands.json`).
-- `data/queries/` – wygenerowane zapytania dla marek.
-- `data/results/` – odpowiedzi estymatora.
-- `data/final/` – końcowe pliki JSON, np. `mkowalski.json`.
-- `docs/` – arkusz Excel z analizą zapytań i materiały źródłowe.
-- `requirements.txt` – biblioteki wymagane przez projekt.
+```text
+brand-query/
+├── data/
+│   ├── final/
+│   │   └── mkowalski.json       # Końcowe zapytania wybrane z arkusza
+│   ├── input/
+│   │   └── brands.json          # Lista marek wejściowych
+│   ├── queries/                 # Wygenerowane zapytania dla marek
+│   └── results/                 # Odpowiedzi estymatora URL-i
+├── docs/
+│   └── brand_query_results.xlsx # Arkusz z analizą i wyborem zapytań
+├── src/
+│   ├── brands.py                # Generowanie i porządkowanie listy marek
+│   ├── build_final.py           # Budowanie końcowego pliku JSON z Excela
+│   ├── common.py                # Wspólne funkcje i słowniki
+│   ├── estimator.py             # Wysyłanie zapytań do estymatora URL-i
+│   └── queries.py               # Generowanie wariantów zapytań
+├── .gitignore                   # Pliki pomijane przez Git
+├── README.md                    # Opis projektu i instrukcja użycia
+└── requirements.txt             # Zależności Pythona
+```
 
 ## Instalacja
 
