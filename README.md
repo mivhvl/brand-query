@@ -8,19 +8,19 @@ Projekt tworzy listę marek alkoholi, generuje dla nich zapytania według ustalo
 brand-query/
 ├── data/
 │   ├── final/
-│   │   └── mkowalski.json       # Końcowe zapytania wybrane z arkusza
+│   │   └── mkowalski.json       # Finalna lista zapytań
 │   ├── input/
-│   │   └── brands.json          # Lista marek wejściowych
+│   │   └── brands.json          # Wygenerowana lista marek alkoholi
 │   ├── queries/                 # Wygenerowane zapytania dla marek
 │   └── results/                 # Odpowiedzi estymatora URL-i
 ├── docs/
 │   └── brand_query_results.xlsx # Arkusz z analizą i wyborem zapytań
 ├── src/
-│   ├── brands.py                # Generowanie i porządkowanie listy marek
-│   ├── build_final.py           # Budowanie końcowego pliku JSON z Excela
 │   ├── common.py                # Wspólne funkcje i słowniki
+│   ├── brands.py                # Generowanie i porządkowanie listy marek
+│   ├── queries.py               # Generowanie wariantów zapytań
 │   ├── estimator.py             # Wysyłanie zapytań do estymatora URL-i
-│   └── queries.py               # Generowanie wariantów zapytań
+│   └── build_final.py           # Budowanie końcowego pliku JSON z Excela
 ├── .gitignore                   # Pliki pomijane przez Git
 ├── README.md                    # Opis projektu i instrukcja użycia
 └── requirements.txt             # Zależności Pythona
